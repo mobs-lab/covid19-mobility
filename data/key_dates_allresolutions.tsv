@@ -1,0 +1,3458 @@
+location_id	location_resolution	name	parent	date_of_1st_case	state_of_emergency	shelter_in_place	initial_reopening
+53061	county	Snohomish	Washington	2020-01-21			
+17031	county	Cook	Illinois	2020-01-24			
+06059	county	Orange	California	2020-01-25			
+04013	county	Maricopa	Arizona	2020-01-26			
+06037	county	Los Angeles	California	2020-01-26			
+06085	county	Santa Clara	California	2020-01-31			
+25025	county	Suffolk	Massachusetts	2020-02-01			
+06075	county	San Francisco	California	2020-02-02			
+55025	county	Dane	Wisconsin	2020-02-05			
+06073	county	San Diego	California	2020-02-10			
+48029	county	Bexar	Texas	2020-02-12			
+31055	county	Douglas	Nebraska	2020-02-17			
+06023	county	Humboldt	California	2020-02-20			
+06067	county	Sacramento	California	2020-02-21			
+06095	county	Solano	California	2020-02-24			
+53063	county	Spokane	Washington	2020-02-24			
+49035	county	Salt Lake	Utah	2020-02-25			
+06055	county	Napa	California	2020-02-26			
+06041	county	Marin	California	2020-02-26			
+06097	county	Sonoma	California	2020-02-26			
+41067	county	Washington	Oregon	2020-02-28			
+53033	county	King	Washington	2020-02-28			
+06001	county	Alameda	California	2020-03-01			
+12081	county	Manatee	Florida	2020-03-01			
+12057	county	Hillsborough	Florida	2020-03-01			
+36061	county	New York	New York	2020-03-01			
+06061	county	Placer	California	2020-03-02			
+06081	county	San Mateo	California	2020-03-02			
+13121	county	Fulton	Georgia	2020-03-02			
+25021	county	Norfolk	Massachusetts	2020-03-02			
+33009	county	Grafton	New Hampshire	2020-03-02			
+53071	county	Walla Walla	Washington	2020-03-02			
+06013	county	Contra Costa	California	2020-03-03			
+37183	county	Wake	North Carolina	2020-03-03			
+34003	county	Bergen	New Jersey	2020-03-04			
+36119	county	Westchester	New York	2020-03-04			
+48157	county	Fort Bend	Texas	2020-03-04			
+53007	county	Chelan	Washington	2020-03-04			
+08035	county	Douglas	Colorado	2020-03-05			
+08059	county	Jefferson	Colorado	2020-03-05			
+12113	county	Santa Rosa	Florida	2020-03-05			
+24031	county	Montgomery	Maryland	2020-03-05			
+25017	county	Middlesex	Massachusetts	2020-03-05			
+32003	county	Clark	Nevada	2020-03-05			
+32031	county	Washoe	Nevada	2020-03-05			
+36059	county	Nassau	New York	2020-03-05			
+47187	county	Williamson	Tennessee	2020-03-05			
+48201	county	Harris	Texas	2020-03-05			
+04021	county	Pinal	Arizona	2020-03-06			
+06113	county	Yolo	California	2020-03-06			
+08041	county	El Paso	Colorado	2020-03-06			
+08031	county	Denver	Colorado	2020-03-06			
+08037	county	Eagle	Colorado	2020-03-06			
+12071	county	Lee	Florida	2020-03-06			
+12011	county	Broward	Florida	2020-03-06			
+13233	county	Polk	Georgia	2020-03-06			
+15003	county	Honolulu	Hawaii	2020-03-06			
+18097	county	Marion	Indiana	2020-03-06			
+21067	county	Fayette	Kentucky	2020-03-06			
+27123	county	Ramsey	Minnesota	2020-03-06			
+34007	county	Camden	New Jersey	2020-03-06			
+36087	county	Rockland	New York	2020-03-06			
+37037	county	Chatham	North Carolina	2020-03-06			
+40143	county	Tulsa	Oklahoma	2020-03-06			
+42127	county	Wayne	Pennsylvania	2020-03-06			
+42045	county	Delaware	Pennsylvania	2020-03-06			
+45019	county	Charleston	South Carolina	2020-03-06			
+45055	county	Kershaw	South Carolina	2020-03-06			
+49011	county	Davis	Utah	2020-03-06			
+49053	county	Washington	Utah	2020-03-06			
+53031	county	Jefferson	Washington	2020-03-06			
+53011	county	Clark	Washington	2020-03-06			
+53053	county	Pierce	Washington	2020-03-06			
+06019	county	Fresno	California	2020-03-07			
+06039	county	Madera	California	2020-03-07			
+06065	county	Riverside	California	2020-03-07			
+06087	county	Santa Cruz	California	2020-03-07			
+11001	county	District of Columbia	District of Columbia	2020-03-07			
+12091	county	Okaloosa	Florida	2020-03-07			
+12127	county	Volusia	Florida	2020-03-07			
+12015	county	Charlotte	Florida	2020-03-07			
+13135	county	Gwinnett	Georgia	2020-03-07			
+13067	county	Cobb	Georgia	2020-03-07			
+20091	county	Johnson	Kansas	2020-03-07			
+25003	county	Berkshire	Massachusetts	2020-03-07			
+29189	county	St. Louis	Missouri	2020-03-07			
+33015	county	Rockingham	New Hampshire	2020-03-07			
+36091	county	Saratoga	New York	2020-03-07			
+41035	county	Klamath	Oregon	2020-03-07			
+41029	county	Jackson	Oregon	2020-03-07			
+42091	county	Montgomery	Pennsylvania	2020-03-07			
+50003	county	Bennington	Vermont	2020-03-07			
+51059	county	Fairfax	Virginia	2020-03-07			
+53037	county	Kittitas	Washington	2020-03-07			
+09001	county	Fairfield	Connecticut	2020-03-08			
+13057	county	Cherokee	Georgia	2020-03-08			
+18063	county	Hendricks	Indiana	2020-03-08			
+19103	county	Johnson	Iowa	2020-03-08			
+21097	county	Harrison	Kentucky	2020-03-08			
+21111	county	Jefferson	Kentucky	2020-03-08			
+24025	county	Harford	Maryland	2020-03-08			
+25027	county	Worcester	Massachusetts	2020-03-08			
+27019	county	Carver	Minnesota	2020-03-08			
+34031	county	Passaic	New Jersey	2020-03-08			
+36111	county	Ulster	New York	2020-03-08			
+36103	county	Suffolk	New York	2020-03-08			
+41019	county	Douglas	Oregon	2020-03-08			
+41047	county	Marion	Oregon	2020-03-08			
+45083	county	Spartanburg	South Carolina	2020-03-08			
+47157	county	Shelby	Tennessee	2020-03-08			
+47037	county	Davidson	Tennessee	2020-03-08			
+53035	county	Kitsap	Washington	2020-03-08			
+04019	county	Pima	Arizona	2020-03-09			
+06089	county	Shasta	California	2020-03-09			
+08005	county	Arapahoe	Colorado	2020-03-09			
+08069	county	Larimer	Colorado	2020-03-09			
+13113	county	Fayette	Georgia	2020-03-09			
+13089	county	DeKalb	Georgia	2020-03-09			
+13115	county	Floyd	Georgia	2020-03-09			
+18113	county	Noble	Indiana	2020-03-09			
+19155	county	Pottawattamie	Iowa	2020-03-09			
+22051	county	Jefferson	Louisiana	2020-03-09			
+24033	county	Prince George's	Maryland	2020-03-09			
+34025	county	Monmouth	New Jersey	2020-03-09			
+34017	county	Hudson	New Jersey	2020-03-09			
+34039	county	Union	New Jersey	2020-03-09			
+39035	county	Cuyahoga	Ohio	2020-03-09			
+42089	county	Monroe	Pennsylvania	2020-03-09			
+48085	county	Collin	Texas	2020-03-09			
+51810	county	Virginia Beach	Virginia	2020-03-09			
+55093	county	Pierce	Wisconsin	2020-03-09			
+06111	county	Ventura	California	2020-03-10			
+06077	county	San Joaquin	California	2020-03-10			
+08051	county	Gunnison	Colorado	2020-03-10			
+12001	county	Alachua	Florida	2020-03-10			
+12089	county	Nassau	Florida	2020-03-10			
+12021	county	Collier	Florida	2020-03-10			
+12101	county	Pasco	Florida	2020-03-10			
+12103	county	Pinellas	Florida	2020-03-10			
+13049	county	Charlton	Georgia	2020-03-10			
+17111	county	McHenry	Illinois	2020-03-10			
+17089	county	Kane	Illinois	2020-03-10			
+18001	county	Adams	Indiana	2020-03-10			
+18011	county	Boone	Indiana	2020-03-10			
+22071	county	Orleans	Louisiana	2020-03-10			
+25009	county	Essex	Massachusetts	2020-03-10			
+26163	county	Wayne	Michigan	2020-03-10			
+26125	county	Oakland	Michigan	2020-03-10			
+27003	county	Anoka	Minnesota	2020-03-10			
+34005	county	Burlington	New Jersey	2020-03-10			
+41051	county	Multnomah	Oregon	2020-03-10			
+42101	county	Philadelphia	Pennsylvania	2020-03-10			
+46023	county	Charles Mix	South Dakota	2020-03-10			
+46005	county	Beadle	South Dakota	2020-03-10			
+46035	county	Davison	South Dakota	2020-03-10			
+46099	county	Minnehaha	South Dakota	2020-03-10			
+47163	county	Sullivan	Tennessee	2020-03-10			
+48439	county	Tarrant	Texas	2020-03-10			
+48113	county	Dallas	Texas	2020-03-10			
+48339	county	Montgomery	Texas	2020-03-10			
+49057	county	Weber	Utah	2020-03-10			
+51107	county	Loudoun	Virginia	2020-03-10			
+53073	county	Whatcom	Washington	2020-03-10			
+53057	county	Skagit	Washington	2020-03-10			
+05069	county	Jefferson	Arkansas	2020-03-11			
+06099	county	Stanislaus	California	2020-03-11			
+08097	county	Pitkin	Colorado	2020-03-11			
+10003	county	New Castle	Delaware	2020-03-11			
+12109	county	St. Johns	Florida	2020-03-11			
+12086	county	Miami-Dade	Florida	2020-03-11			
+13177	county	Lee	Georgia	2020-03-11			
+13015	county	Bartow	Georgia	2020-03-11			
+13185	county	Lowndes	Georgia	2020-03-11			
+17097	county	Lake	Illinois	2020-03-11			
+18081	county	Johnson	Indiana	2020-03-11			
+18067	county	Howard	Indiana	2020-03-11			
+18141	county	St. Joseph	Indiana	2020-03-11			
+22017	county	Caddo	Louisiana	2020-03-11			
+24005	county	Baltimore	Maryland	2020-03-11			
+27109	county	Olmsted	Minnesota	2020-03-11			
+28035	county	Forrest	Mississippi	2020-03-11			
+34023	county	Middlesex	New Jersey	2020-03-11			
+35053	county	Socorro	New Mexico	2020-03-11			
+35001	county	Bernalillo	New Mexico	2020-03-11			
+35049	county	Santa Fe	New Mexico	2020-03-11			
+36055	county	Monroe	New York	2020-03-11			
+38101	county	Ward	North Dakota	2020-03-11			
+39151	county	Stark	Ohio	2020-03-11			
+41043	county	Linn	Oregon	2020-03-11			
+41017	county	Deschutes	Oregon	2020-03-11			
+41059	county	Umatilla	Oregon	2020-03-11			
+41053	county	Polk	Oregon	2020-03-11			
+42017	county	Bucks	Pennsylvania	2020-03-11			
+45057	county	Lancaster	South Carolina	2020-03-11			
+46009	county	Bon Homme	South Dakota	2020-03-11			
+48183	county	Gregg	Texas	2020-03-11			
+50007	county	Chittenden	Vermont	2020-03-11			
+51013	county	Arlington	Virginia	2020-03-11			
+53029	county	Island	Washington	2020-03-11			
+53067	county	Thurston	Washington	2020-03-11			
+55039	county	Fond du Lac	Wisconsin	2020-03-11			
+55133	county	Waukesha	Wisconsin	2020-03-11			
+56033	county	Sheridan	Wyoming	2020-03-11			
+02020	county	Anchorage	Alaska	2020-03-12			
+05119	county	Pulaski	Arkansas	2020-03-12			
+06107	county	Tulare	California	2020-03-12			
+08001	county	Adams	Colorado	2020-03-12			
+09005	county	Litchfield	Connecticut	2020-03-12			
+12031	county	Duval	Florida	2020-03-12			
+12019	county	Clay	Florida	2020-03-12			
+12099	county	Palm Beach	Florida	2020-03-12			
+12115	county	Sarasota	Florida	2020-03-12			
+12117	county	Seminole	Florida	2020-03-12			
+19027	county	Carroll	Iowa	2020-03-12			
+20209	county	Wyandotte	Kansas	2020-03-12			
+21173	county	Montgomery	Kentucky	2020-03-12			
+23001	county	Androscoggin	Maine	2020-03-12			
+26161	county	Washtenaw	Michigan	2020-03-12			
+26147	county	St. Clair	Michigan	2020-03-12			
+26081	county	Kent	Michigan	2020-03-12			
+26117	county	Montcalm	Michigan	2020-03-12			
+26065	county	Ingham	Michigan	2020-03-12			
+27037	county	Dakota	Minnesota	2020-03-12			
+27053	county	Hennepin	Minnesota	2020-03-12			
+27145	county	Stearns	Minnesota	2020-03-12			
+29077	county	Greene	Missouri	2020-03-12			
+31025	county	Cass	Nebraska	2020-03-12			
+32510	county	Carson City	Nevada	2020-03-12			
+34013	county	Essex	New Jersey	2020-03-12			
+34027	county	Morris	New Jersey	2020-03-12			
+36025	county	Delaware	New York	2020-03-12			
+36001	county	Albany	New York	2020-03-12			
+36071	county	Orange	New York	2020-03-12			
+36027	county	Dutchess	New York	2020-03-12			
+36043	county	Herkimer	New York	2020-03-12			
+37025	county	Cabarrus	North Carolina	2020-03-12			
+37119	county	Mecklenburg	North Carolina	2020-03-12			
+37133	county	Onslow	North Carolina	2020-03-12			
+37101	county	Johnston	North Carolina	2020-03-12			
+37067	county	Forsyth	North Carolina	2020-03-12			
+39155	county	Trumbull	Ohio	2020-03-12			
+41005	county	Clackamas	Oregon	2020-03-12			
+42095	county	Northampton	Pennsylvania	2020-03-12			
+42103	county	Pike	Pennsylvania	2020-03-12			
+47093	county	Knox	Tennessee	2020-03-12			
+51147	county	Prince Edward	Virginia	2020-03-12			
+51085	county	Hanover	Virginia	2020-03-12			
+51095	county	James City	Virginia	2020-03-12			
+51510	county	Alexandria	Virginia	2020-03-12			
+51153	county	Prince William	Virginia	2020-03-12			
+53013	county	Columbia	Washington	2020-03-12			
+53027	county	Grays Harbor	Washington	2020-03-12			
+53077	county	Yakima	Washington	2020-03-12			
+01073	county	Jefferson	Alabama	2020-03-13			
+01083	county	Limestone	Alabama	2020-03-13			
+01051	county	Elmore	Alabama	2020-03-13			
+01101	county	Montgomery	Alabama	2020-03-13			
+01125	county	Tuscaloosa	Alabama	2020-03-13			
+06069	county	San Benito	California	2020-03-13			
+08117	county	Summit	Colorado	2020-03-13			
+08019	county	Clear Creek	Colorado	2020-03-13			
+08123	county	Weld	Colorado	2020-03-13			
+08101	county	Pueblo	Colorado	2020-03-13			
+08107	county	Routt	Colorado	2020-03-13			
+12097	county	Osceola	Florida	2020-03-13			
+12095	county	Orange	Florida	2020-03-13			
+13151	county	Henry	Georgia	2020-03-13			
+13129	county	Gordon	Georgia	2020-03-13			
+16001	county	Ada	Idaho	2020-03-13			
+19085	county	Harrison	Iowa	2020-03-13			
+20015	county	Butler	Kansas	2020-03-13			
+22109	county	Terrebonne	Louisiana	2020-03-13			
+22089	county	St. Charles	Louisiana	2020-03-13			
+22103	county	St. Tammany	Louisiana	2020-03-13			
+23005	county	Cumberland	Maine	2020-03-13			
+24003	county	Anne Arundel	Maryland	2020-03-13			
+24017	county	Charles	Maryland	2020-03-13			
+26029	county	Charlevoix	Michigan	2020-03-13			
+26017	county	Bay	Michigan	2020-03-13			
+26099	county	Macomb	Michigan	2020-03-13			
+26089	county	Leelanau	Michigan	2020-03-13			
+27171	county	Wright	Minnesota	2020-03-13			
+28083	county	Leflore	Mississippi	2020-03-13			
+28029	county	Copiah	Mississippi	2020-03-13			
+28109	county	Pearl River	Mississippi	2020-03-13			
+29083	county	Henry	Missouri	2020-03-13			
+30111	county	Yellowstone	Montana	2020-03-13			
+30031	county	Gallatin	Montana	2020-03-13			
+30093	county	Silver Bow	Montana	2020-03-13			
+30049	county	Lewis and Clark	Montana	2020-03-13			
+34029	county	Ocean	New Jersey	2020-03-13			
+36093	county	Schenectady	New York	2020-03-13			
+37191	county	Wayne	North Carolina	2020-03-13			
+40109	county	Oklahoma	Oklahoma	2020-03-13			
+42041	county	Cumberland	Pennsylvania	2020-03-13			
+42029	county	Chester	Pennsylvania	2020-03-13			
+42125	county	Washington	Pennsylvania	2020-03-13			
+46087	county	McCook	South Dakota	2020-03-13			
+47065	county	Hamilton	Tennessee	2020-03-13			
+47089	county	Jefferson	Tennessee	2020-03-13			
+47149	county	Rutherford	Tennessee	2020-03-13			
+48453	county	Travis	Texas	2020-03-13			
+48141	county	El Paso	Texas	2020-03-13			
+48167	county	Galveston	Texas	2020-03-13			
+48027	county	Bell	Texas	2020-03-13			
+48423	county	Smith	Texas	2020-03-13			
+51660	county	Harrisonburg	Virginia	2020-03-13			
+53025	county	Grant	Washington	2020-03-13			
+55079	county	Milwaukee	Wisconsin	2020-03-13			
+55101	county	Racine	Wisconsin	2020-03-13			
+55117	county	Sheboygan	Wisconsin	2020-03-13			
+56013	county	Fremont	Wyoming	2020-03-13			
+01003	county	Baldwin	Alabama	2020-03-14			
+04009	county	Graham	Arizona	2020-03-14			
+06079	county	San Luis Obispo	California	2020-03-14			
+08013	county	Boulder	Colorado	2020-03-14			
+08077	county	Mesa	Colorado	2020-03-14			
+09003	county	Hartford	Connecticut	2020-03-14			
+09009	county	New Haven	Connecticut	2020-03-14			
+13077	county	Coweta	Georgia	2020-03-14			
+15007	county	Kauai	Hawaii	2020-03-14			
+16013	county	Blaine	Idaho	2020-03-14			
+16081	county	Teton	Idaho	2020-03-14			
+17035	county	Cumberland	Illinois	2020-03-14			
+17043	county	DuPage	Illinois	2020-03-14			
+17203	county	Woodford	Illinois	2020-03-14			
+17163	county	St. Clair	Illinois	2020-03-14			
+17167	county	Sangamon	Illinois	2020-03-14			
+18179	county	Wells	Indiana	2020-03-14			
+18091	county	LaPorte	Indiana	2020-03-14			
+19049	county	Dallas	Iowa	2020-03-14			
+20059	county	Franklin	Kansas	2020-03-14			
+21179	county	Nelson	Kentucky	2020-03-14			
+21017	county	Bourbon	Kentucky	2020-03-14			
+22057	county	Lafourche	Louisiana	2020-03-14			
+22095	county	St. John the Baptist	Louisiana	2020-03-14			
+22015	county	Bossier	Louisiana	2020-03-14			
+24013	county	Carroll	Maryland	2020-03-14			
+25001	county	Barnstable	Massachusetts	2020-03-14			
+25005	county	Bristol	Massachusetts	2020-03-14			
+26115	county	Monroe	Michigan	2020-03-14			
+27129	county	Renville	Minnesota	2020-03-14			
+30063	county	Missoula	Montana	2020-03-14			
+34021	county	Mercer	New Jersey	2020-03-14			
+35043	county	Sandoval	New Mexico	2020-03-14			
+36007	county	Broome	New York	2020-03-14			
+36107	county	Tioga	New York	2020-03-14			
+36109	county	Tompkins	New York	2020-03-14			
+37085	county	Harnett	North Carolina	2020-03-14			
+37019	county	Brunswick	North Carolina	2020-03-14			
+37049	county	Craven	North Carolina	2020-03-14			
+39153	county	Summit	Ohio	2020-03-14			
+39017	county	Butler	Ohio	2020-03-14			
+39093	county	Lorain	Ohio	2020-03-14			
+39049	county	Franklin	Ohio	2020-03-14			
+39157	county	Tuscarawas	Ohio	2020-03-14			
+39013	county	Belmont	Ohio	2020-03-14			
+40065	county	Jackson	Oklahoma	2020-03-14			
+42003	county	Allegheny	Pennsylvania	2020-03-14			
+45063	county	Lexington	South Carolina	2020-03-14			
+45013	county	Beaufort	South Carolina	2020-03-14			
+47013	county	Campbell	Tennessee	2020-03-14			
+48209	county	Hays	Texas	2020-03-14			
+48039	county	Brazoria	Texas	2020-03-14			
+49043	county	Summit	Utah	2020-03-14			
+50023	county	Washington	Vermont	2020-03-14			
+50027	county	Windsor	Vermont	2020-03-14			
+51041	county	Chesterfield	Virginia	2020-03-14			
+51177	county	Spotsylvania	Virginia	2020-03-14			
+53039	county	Klickitat	Washington	2020-03-14			
+55139	county	Winnebago	Wisconsin	2020-03-14			
+01081	county	Lee	Alabama	2020-03-15			
+01117	county	Shelby	Alabama	2020-03-15			
+05051	county	Garland	Arkansas	2020-03-15			
+05125	county	Saline	Arkansas	2020-03-15			
+06071	county	San Bernardino	California	2020-03-15			
+06083	county	Santa Barbara	California	2020-03-15			
+08045	county	Garfield	Colorado	2020-03-15			
+12017	county	Citrus	Florida	2020-03-15			
+12003	county	Baker	Florida	2020-03-15			
+13095	county	Dougherty	Georgia	2020-03-15			
+13059	county	Clarke	Georgia	2020-03-15			
+13217	county	Newton	Georgia	2020-03-15			
+13063	county	Clayton	Georgia	2020-03-15			
+15009	county	Maui	Hawaii	2020-03-15			
+17201	county	Winnebago	Illinois	2020-03-15			
+17027	county	Clinton	Illinois	2020-03-15			
+17195	county	Whiteside	Illinois	2020-03-15			
+18057	county	Hamilton	Indiana	2020-03-15			
+19005	county	Allamakee	Iowa	2020-03-15			
+19153	county	Polk	Iowa	2020-03-15			
+21049	county	Clark	Kentucky	2020-03-15			
+22087	county	St. Bernard	Louisiana	2020-03-15			
+23015	county	Lincoln	Maine	2020-03-15			
+24027	county	Howard	Maryland	2020-03-15			
+24510	county	Baltimore	Maryland	2020-03-15			
+25023	county	Plymouth	Massachusetts	2020-03-15			
+25013	county	Hampden	Massachusetts	2020-03-15			
+26139	county	Ottawa	Michigan	2020-03-15			
+27161	county	Waseca	Minnesota	2020-03-15			
+27163	county	Washington	Minnesota	2020-03-15			
+28049	county	Hinds	Mississippi	2020-03-15			
+33011	county	Hillsborough	New Hampshire	2020-03-15			
+36039	county	Greene	New York	2020-03-15			
+36057	county	Montgomery	New York	2020-03-15			
+36029	county	Erie	New York	2020-03-15			
+36079	county	Putnam	New York	2020-03-15			
+37189	county	Watauga	North Carolina	2020-03-15			
+37195	county	Wilson	North Carolina	2020-03-15			
+39103	county	Medina	Ohio	2020-03-15			
+39095	county	Lucas	Ohio	2020-03-15			
+40027	county	Cleveland	Oklahoma	2020-03-15			
+40071	county	Kay	Oklahoma	2020-03-15			
+40119	county	Payne	Oklahoma	2020-03-15			
+41071	county	Yamhill	Oregon	2020-03-15			
+42077	county	Lehigh	Pennsylvania	2020-03-15			
+42079	county	Luzerne	Pennsylvania	2020-03-15			
+45045	county	Greenville	South Carolina	2020-03-15			
+45007	county	Anderson	South Carolina	2020-03-15			
+45051	county	Horry	South Carolina	2020-03-15			
+48121	county	Denton	Texas	2020-03-15			
+49049	county	Utah	Utah	2020-03-15			
+53043	county	Lincoln	Washington	2020-03-15			
+53041	county	Lewis	Washington	2020-03-15			
+02090	county	Fairbanks North Star	Alaska	2020-03-16			
+05041	county	Desha	Arkansas	2020-03-16			
+05023	county	Cleburne	Arkansas	2020-03-16			
+05025	county	Cleveland	Arkansas	2020-03-16			
+05079	county	Lincoln	Arkansas	2020-03-16			
+06057	county	Nevada	California	2020-03-16			
+12069	county	Lake	Florida	2020-03-16			
+12033	county	Escambia	Florida	2020-03-16			
+13223	county	Paulding	Georgia	2020-03-16			
+13117	county	Forsyth	Georgia	2020-03-16			
+13139	county	Hall	Georgia	2020-03-16			
+13285	county	Troup	Georgia	2020-03-16			
+17197	county	Will	Illinois	2020-03-16			
+17143	county	Peoria	Illinois	2020-03-16			
+18005	county	Bartholomew	Indiana	2020-03-16			
+18043	county	Floyd	Indiana	2020-03-16			
+22005	county	Ascension	Louisiana	2020-03-16			
+24041	county	Talbot	Maryland	2020-03-16			
+24021	county	Frederick	Maryland	2020-03-16			
+27013	county	Blue Earth	Minnesota	2020-03-16			
+27009	county	Benton	Minnesota	2020-03-16			
+28095	county	Monroe	Mississippi	2020-03-16			
+28045	county	Hancock	Mississippi	2020-03-16			
+29037	county	Cass	Missouri	2020-03-16			
+33003	county	Carroll	New Hampshire	2020-03-16			
+34035	county	Somerset	New Jersey	2020-03-16			
+34019	county	Hunterdon	New Jersey	2020-03-16			
+36003	county	Allegany	New York	2020-03-16			
+36069	county	Ontario	New York	2020-03-16			
+36067	county	Onondaga	New York	2020-03-16			
+37063	county	Durham	North Carolina	2020-03-16			
+39055	county	Geauga	Ohio	2020-03-16			
+40017	county	Canadian	Oklahoma	2020-03-16			
+41003	county	Benton	Oregon	2020-03-16			
+45039	county	Fairfield	South Carolina	2020-03-16			
+47155	county	Sevier	Tennessee	2020-03-16			
+48321	county	Matagorda	Texas	2020-03-16			
+48037	county	Bowie	Texas	2020-03-16			
+49051	county	Wasatch	Utah	2020-03-16			
+49045	county	Tooele	Utah	2020-03-16			
+50017	county	Orange	Vermont	2020-03-16			
+51199	county	York	Virginia	2020-03-16			
+51179	county	Stafford	Virginia	2020-03-16			
+55087	county	Outagamie	Wisconsin	2020-03-16			
+55141	county	Wood	Wisconsin	2020-03-16			
+01115	county	St. Clair	Alabama	2020-03-17			
+01089	county	Madison	Alabama	2020-03-17			
+02130	county	Ketchikan Gateway	Alaska	2020-03-17			
+04017	county	Navajo	Arizona	2020-03-17			
+06029	county	Kern	California	2020-03-17			
+06053	county	Monterey	California	2020-03-17			
+10005	county	Sussex	Delaware	2020-03-17			
+12105	county	Polk	Florida	2020-03-17			
+12009	county	Brevard	Florida	2020-03-17			
+13245	county	Richmond	Georgia	2020-03-17			
+13313	county	Whitfield	Georgia	2020-03-17			
+15001	county	Hawaii	Hawaii	2020-03-17			
+16065	county	Madison	Idaho	2020-03-17			
+18089	county	Lake	Indiana	2020-03-17			
+18047	county	Franklin	Indiana	2020-03-17			
+19001	county	Adair	Iowa	2020-03-17			
+19013	county	Black Hawk	Iowa	2020-03-17			
+20057	county	Ford	Kansas	2020-03-17			
+20045	county	Douglas	Kansas	2020-03-17			
+21143	county	Lyon	Kentucky	2020-03-17			
+22033	county	East Baton Rouge	Louisiana	2020-03-17			
+22117	county	Washington	Louisiana	2020-03-17			
+23017	county	Oxford	Maine	2020-03-17			
+23011	county	Kennebec	Maine	2020-03-17			
+23031	county	York	Maine	2020-03-17			
+26137	county	Otsego	Michigan	2020-03-17			
+26075	county	Jackson	Michigan	2020-03-17			
+27091	county	Martin	Minnesota	2020-03-17			
+27103	county	Nicollet	Minnesota	2020-03-17			
+28059	county	Jackson	Mississippi	2020-03-17			
+28047	county	Harrison	Mississippi	2020-03-17			
+29019	county	Boone	Missouri	2020-03-17			
+29051	county	Cole	Missouri	2020-03-17			
+29095	county	Jackson	Missouri	2020-03-17			
+31107	county	Knox	Nebraska	2020-03-17			
+31153	county	Sarpy	Nebraska	2020-03-17			
+34041	county	Warren	New Jersey	2020-03-17			
+34015	county	Gloucester	New Jersey	2020-03-17			
+35055	county	Taos	New Mexico	2020-03-17			
+36121	county	Wyoming	New York	2020-03-17			
+36105	county	Sullivan	New York	2020-03-17			
+36083	county	Rensselaer	New York	2020-03-17			
+36019	county	Clinton	New York	2020-03-17			
+37163	county	Sampson	North Carolina	2020-03-17			
+37097	county	Iredell	North Carolina	2020-03-17			
+38015	county	Burleigh	North Dakota	2020-03-17			
+38017	county	Cass	North Dakota	2020-03-17			
+39085	county	Lake	Ohio	2020-03-17			
+39031	county	Coshocton	Ohio	2020-03-17			
+39037	county	Darke	Ohio	2020-03-17			
+39099	county	Mahoning	Ohio	2020-03-17			
+40117	county	Pawnee	Oklahoma	2020-03-17			
+41039	county	Lane	Oregon	2020-03-17			
+42007	county	Beaver	Pennsylvania	2020-03-17			
+45091	county	York	South Carolina	2020-03-17			
+45079	county	Richland	South Carolina	2020-03-17			
+45017	county	Calhoun	South Carolina	2020-03-17			
+48041	county	Brazos	Texas	2020-03-17			
+48139	county	Ellis	Texas	2020-03-17			
+48303	county	Lubbock	Texas	2020-03-17			
+51540	county	Charlottesville	Virginia	2020-03-17			
+51087	county	Henrico	Virginia	2020-03-17			
+51075	county	Goochland	Virginia	2020-03-17			
+51830	county	Williamsburg	Virginia	2020-03-17			
+53021	county	Franklin	Washington	2020-03-17			
+53045	county	Mason	Washington	2020-03-17			
+54037	county	Jefferson	West Virginia	2020-03-17			
+55059	county	Kenosha	Wisconsin	2020-03-17			
+56029	county	Park	Wyoming	2020-03-17			
+56021	county	Laramie	Wyoming	2020-03-17			
+01015	county	Calhoun	Alabama	2020-03-18			
+01121	county	Talladega	Alabama	2020-03-18			
+02122	county	Kenai Peninsula	Alaska	2020-03-18			
+04005	county	Coconino	Arizona	2020-03-18			
+05011	county	Bradley	Arkansas	2020-03-18			
+05143	county	Washington	Arkansas	2020-03-18			
+05045	county	Faulkner	Arkansas	2020-03-18			
+06045	county	Mendocino	California	2020-03-18			
+08125	county	Yuma	Colorado	2020-03-18			
+09007	county	Middlesex	Connecticut	2020-03-18			
+10001	county	Kent	Delaware	2020-03-18			
+12131	county	Walton	Florida	2020-03-18			
+12073	county	Leon	Florida	2020-03-18			
+12119	county	Sumter	Florida	2020-03-18			
+13073	county	Columbia	Georgia	2020-03-18			
+13153	county	Houston	Georgia	2020-03-18			
+16083	county	Twin Falls	Idaho	2020-03-18			
+17189	county	Washington	Illinois	2020-03-18			
+17199	county	Williamson	Illinois	2020-03-18			
+17077	county	Jackson	Illinois	2020-03-18			
+17093	county	Kendall	Illinois	2020-03-18			
+17091	county	Kankakee	Illinois	2020-03-18			
+17099	county	LaSalle	Illinois	2020-03-18			
+17119	county	Madison	Illinois	2020-03-18			
+18041	county	Fayette	Indiana	2020-03-18			
+18095	county	Madison	Indiana	2020-03-18			
+18019	county	Clark	Indiana	2020-03-18			
+18079	county	Jennings	Indiana	2020-03-18			
+19191	county	Winneshiek	Iowa	2020-03-18			
+19183	county	Washington	Iowa	2020-03-18			
+20103	county	Leavenworth	Kansas	2020-03-18			
+21227	county	Warren	Kentucky	2020-03-18			
+21117	county	Kenton	Kentucky	2020-03-18			
+21073	county	Franklin	Kentucky	2020-03-18			
+23019	county	Penobscot	Maine	2020-03-18			
+25011	county	Franklin	Massachusetts	2020-03-18			
+27131	county	Rice	Minnesota	2020-03-18			
+28027	county	Coahoma	Mississippi	2020-03-18			
+28011	county	Bolivar	Mississippi	2020-03-18			
+28111	county	Perry	Mississippi	2020-03-18			
+28089	county	Madison	Mississippi	2020-03-18			
+28033	county	DeSoto	Mississippi	2020-03-18			
+29183	county	St. Charles	Missouri	2020-03-18			
+29510	county	St. Louis	Missouri	2020-03-18			
+31001	county	Adams	Nebraska	2020-03-18			
+31111	county	Lincoln	Nebraska	2020-03-18			
+33013	county	Merrimack	New Hampshire	2020-03-18			
+33001	county	Belknap	New Hampshire	2020-03-18			
+34001	county	Atlantic	New Jersey	2020-03-18			
+36017	county	Chenango	New York	2020-03-18			
+36031	county	Essex	New York	2020-03-18			
+36041	county	Hamilton	New York	2020-03-18			
+36115	county	Washington	New York	2020-03-18			
+36113	county	Warren	New York	2020-03-18			
+36051	county	Livingston	New York	2020-03-18			
+36045	county	Jefferson	New York	2020-03-18			
+37071	county	Gaston	North Carolina	2020-03-18			
+37109	county	Lincoln	North Carolina	2020-03-18			
+37093	county	Hoke	North Carolina	2020-03-18			
+37081	county	Guilford	North Carolina	2020-03-18			
+37125	county	Moore	North Carolina	2020-03-18			
+37129	county	New Hanover	North Carolina	2020-03-18			
+38059	county	Morton	North Dakota	2020-03-18			
+39005	county	Ashland	Ohio	2020-03-18			
+39041	county	Delaware	Ohio	2020-03-18			
+39109	county	Miami	Ohio	2020-03-18			
+39077	county	Huron	Ohio	2020-03-18			
+39023	county	Clark	Ohio	2020-03-18			
+42001	county	Adams	Pennsylvania	2020-03-18			
+42011	county	Berks	Pennsylvania	2020-03-18			
+42069	county	Lackawanna	Pennsylvania	2020-03-18			
+42133	county	York	Pennsylvania	2020-03-18			
+45061	county	Lee	South Carolina	2020-03-18			
+47021	county	Cheatham	Tennessee	2020-03-18			
+47147	county	Robertson	Tennessee	2020-03-18			
+47165	county	Sumner	Tennessee	2020-03-18			
+48285	county	Lavaca	Texas	2020-03-18			
+48491	county	Williamson	Texas	2020-03-18			
+48479	county	Webb	Texas	2020-03-18			
+48401	county	Rusk	Texas	2020-03-18			
+48325	county	Medina	Texas	2020-03-18			
+48309	county	McLennan	Texas	2020-03-18			
+48485	county	Wichita	Texas	2020-03-18			
+49005	county	Cache	Utah	2020-03-18			
+49003	county	Box Elder	Utah	2020-03-18			
+51036	county	Charles City	Virginia	2020-03-18			
+51760	county	Richmond	Virginia	2020-03-18			
+53005	county	Benton	Washington	2020-03-18			
+54055	county	Mercer	West Virginia	2020-03-18			
+55009	county	Brown	Wisconsin	2020-03-18			
+55063	county	La Crosse	Wisconsin	2020-03-18			
+55131	county	Washington	Wisconsin	2020-03-18			
+56039	county	Teton	Wyoming	2020-03-18			
+01127	county	Walker	Alabama	2020-03-19			
+01017	county	Chambers	Alabama	2020-03-19			
+01097	county	Mobile	Alabama	2020-03-19			
+04023	county	Santa Cruz	Arizona	2020-03-19			
+04025	county	Yavapai	Arizona	2020-03-19			
+05133	county	Sevier	Arkansas	2020-03-19			
+05129	county	Searcy	Arkansas	2020-03-19			
+05113	county	Polk	Arkansas	2020-03-19			
+05141	county	Van Buren	Arkansas	2020-03-19			
+05019	county	Clark	Arkansas	2020-03-19			
+05063	county	Independence	Arkansas	2020-03-19			
+05007	county	Benton	Arkansas	2020-03-19			
+05131	county	Sebastian	Arkansas	2020-03-19			
+05009	county	Boone	Arkansas	2020-03-19			
+05111	county	Poinsett	Arkansas	2020-03-19			
+05031	county	Craighead	Arkansas	2020-03-19			
+05053	county	Grant	Arkansas	2020-03-19			
+05035	county	Crittenden	Arkansas	2020-03-19			
+05055	county	Greene	Arkansas	2020-03-19			
+05115	county	Pope	Arkansas	2020-03-19			
+08025	county	Crowley	Colorado	2020-03-19			
+08049	county	Grand	Colorado	2020-03-19			
+08087	county	Morgan	Colorado	2020-03-19			
+09013	county	Tolland	Connecticut	2020-03-19			
+09015	county	Windham	Connecticut	2020-03-19			
+12063	county	Jackson	Florida	2020-03-19			
+12085	county	Martin	Florida	2020-03-19			
+12061	county	Indian River	Florida	2020-03-19			
+12053	county	Hernando	Florida	2020-03-19			
+13099	county	Early	Georgia	2020-03-19			
+13247	county	Rockdale	Georgia	2020-03-19			
+13127	county	Glynn	Georgia	2020-03-19			
+13175	county	Laurens	Georgia	2020-03-19			
+13021	county	Bibb	Georgia	2020-03-19			
+13103	county	Effingham	Georgia	2020-03-19			
+13225	county	Peach	Georgia	2020-03-19			
+18119	county	Owen	Indiana	2020-03-19			
+18157	county	Tippecanoe	Indiana	2020-03-19			
+18177	county	Wayne	Indiana	2020-03-19			
+19061	county	Dubuque	Iowa	2020-03-19			
+19139	county	Muscatine	Iowa	2020-03-19			
+20021	county	Cherokee	Kansas	2020-03-19			
+20127	county	Morris	Kansas	2020-03-19			
+20107	county	Linn	Kansas	2020-03-19			
+20173	county	Sedgwick	Kansas	2020-03-19			
+21047	county	Christian	Kentucky	2020-03-19			
+21101	county	Henderson	Kentucky	2020-03-19			
+21209	county	Scott	Kentucky	2020-03-19			
+21059	county	Daviess	Kentucky	2020-03-19			
+21199	county	Pulaski	Kentucky	2020-03-19			
+22047	county	Iberville	Louisiana	2020-03-19			
+22063	county	Livingston	Louisiana	2020-03-19			
+22121	county	West Baton Rouge	Louisiana	2020-03-19			
+22007	county	Assumption	Louisiana	2020-03-19			
+22045	county	Iberia	Louisiana	2020-03-19			
+22055	county	Lafayette	Louisiana	2020-03-19			
+22019	county	Calcasieu	Louisiana	2020-03-19			
+22119	county	Webster	Louisiana	2020-03-19			
+22075	county	Plaquemines	Louisiana	2020-03-19			
+22093	county	St. James	Louisiana	2020-03-19			
+22097	county	St. Landry	Louisiana	2020-03-19			
+24045	county	Wicomico	Maryland	2020-03-19			
+24009	county	Calvert	Maryland	2020-03-19			
+25015	county	Hampshire	Massachusetts	2020-03-19			
+26093	county	Livingston	Michigan	2020-03-19			
+26049	county	Genesee	Michigan	2020-03-19			
+26037	county	Clinton	Michigan	2020-03-19			
+26045	county	Eaton	Michigan	2020-03-19			
+26111	county	Midland	Michigan	2020-03-19			
+27099	county	Mower	Minnesota	2020-03-19			
+27139	county	Scott	Minnesota	2020-03-19			
+28157	county	Wilkinson	Mississippi	2020-03-19			
+28147	county	Walthall	Mississippi	2020-03-19			
+28159	county	Winston	Mississippi	2020-03-19			
+28123	county	Scott	Mississippi	2020-03-19			
+28051	county	Holmes	Mississippi	2020-03-19			
+28163	county	Yazoo	Mississippi	2020-03-19			
+28067	county	Jones	Mississippi	2020-03-19			
+30007	county	Broadwater	Montana	2020-03-19			
+30057	county	Madison	Montana	2020-03-19			
+30085	county	Roosevelt	Montana	2020-03-19			
+30029	county	Flathead	Montana	2020-03-19			
+31127	county	Nemaha	Nebraska	2020-03-19			
+32007	county	Elko	Nevada	2020-03-19			
+34037	county	Sussex	New Jersey	2020-03-19			
+34009	county	Cape May	New Jersey	2020-03-19			
+35047	county	San Miguel	New Mexico	2020-03-19			
+36095	county	Schoharie	New York	2020-03-19			
+36117	county	Wayne	New York	2020-03-19			
+39061	county	Hamilton	Ohio	2020-03-19			
+39113	county	Montgomery	Ohio	2020-03-19			
+39139	county	Richland	Ohio	2020-03-19			
+40147	county	Washington	Oklahoma	2020-03-19			
+40051	county	Grady	Oklahoma	2020-03-19			
+40087	county	McClain	Oklahoma	2020-03-19			
+40083	county	Logan	Oklahoma	2020-03-19			
+40039	county	Custer	Oklahoma	2020-03-19			
+42071	county	Lancaster	Pennsylvania	2020-03-19			
+42075	county	Lebanon	Pennsylvania	2020-03-19			
+42129	county	Westmoreland	Pennsylvania	2020-03-19			
+45001	county	Abbeville	South Carolina	2020-03-19			
+45035	county	Dorchester	South Carolina	2020-03-19			
+45081	county	Saluda	South Carolina	2020-03-19			
+47125	county	Montgomery	Tennessee	2020-03-19			
+47035	county	Cumberland	Tennessee	2020-03-19			
+47045	county	Dyer	Tennessee	2020-03-19			
+47179	county	Washington	Tennessee	2020-03-19			
+47189	county	Wilson	Tennessee	2020-03-19			
+48103	county	Crane	Texas	2020-03-19			
+48467	county	Van Zandt	Texas	2020-03-19			
+48123	county	DeWitt	Texas	2020-03-19			
+48061	county	Cameron	Texas	2020-03-19			
+48251	county	Johnson	Texas	2020-03-19			
+53009	county	Clallam	Washington	2020-03-19			
+54093	county	Tucker	West Virginia	2020-03-19			
+54061	county	Monongalia	West Virginia	2020-03-19			
+55007	county	Bayfield	Wisconsin	2020-03-19			
+55015	county	Calumet	Wisconsin	2020-03-19			
+55111	county	Sauk	Wisconsin	2020-03-19			
+55035	county	Eau Claire	Wisconsin	2020-03-19			
+55021	county	Columbia	Wisconsin	2020-03-19			
+55089	county	Ozaukee	Wisconsin	2020-03-19			
+55127	county	Walworth	Wisconsin	2020-03-19			
+01075	county	Lamar	Alabama	2020-03-20			
+01043	county	Cullman	Alabama	2020-03-20			
+01077	county	Lauderdale	Alabama	2020-03-20			
+01129	county	Washington	Alabama	2020-03-20			
+01071	county	Jackson	Alabama	2020-03-20			
+04027	county	Yuma	Arizona	2020-03-20			
+06005	county	Amador	California	2020-03-20			
+06025	county	Imperial	California	2020-03-20			
+08113	county	San Miguel	Colorado	2020-03-20			
+08093	county	Park	Colorado	2020-03-20			
+08014	county	Broomfield	Colorado	2020-03-20			
+09011	county	New London	Connecticut	2020-03-20			
+12087	county	Monroe	Florida	2020-03-20			
+13287	county	Turner	Georgia	2020-03-20			
+13201	county	Miller	Georgia	2020-03-20			
+13243	county	Randolph	Georgia	2020-03-20			
+13273	county	Terrell	Georgia	2020-03-20			
+13321	county	Worth	Georgia	2020-03-20			
+13261	county	Sumter	Georgia	2020-03-20			
+13219	county	Oconee	Georgia	2020-03-20			
+13085	county	Dawson	Georgia	2020-03-20			
+13171	county	Lamar	Georgia	2020-03-20			
+13097	county	Douglas	Georgia	2020-03-20			
+13045	county	Carroll	Georgia	2020-03-20			
+13149	county	Heard	Georgia	2020-03-20			
+13227	county	Pickens	Georgia	2020-03-20			
+13255	county	Spalding	Georgia	2020-03-20			
+13181	county	Lincoln	Georgia	2020-03-20			
+13215	county	Muscogee	Georgia	2020-03-20			
+13207	county	Monroe	Georgia	2020-03-20			
+13051	county	Chatham	Georgia	2020-03-20			
+13277	county	Tift	Georgia	2020-03-20			
+16011	county	Bingham	Idaho	2020-03-20			
+16027	county	Canyon	Idaho	2020-03-20			
+16055	county	Kootenai	Idaho	2020-03-20			
+17113	county	McLean	Illinois	2020-03-20			
+17001	county	Adams	Illinois	2020-03-20			
+17021	county	Christian	Illinois	2020-03-20			
+18163	county	Vanderburgh	Indiana	2020-03-20			
+18003	county	Allen	Indiana	2020-03-20			
+18145	county	Shelby	Indiana	2020-03-20			
+18053	county	Grant	Indiana	2020-03-20			
+18167	county	Vigo	Indiana	2020-03-20			
+20155	county	Reno	Kansas	2020-03-20			
+20161	county	Riley	Kansas	2020-03-20			
+21035	county	Calloway	Kentucky	2020-03-20			
+22025	county	Catahoula	Louisiana	2020-03-20			
+22079	county	Rapides	Louisiana	2020-03-20			
+22105	county	Tangipahoa	Louisiana	2020-03-20			
+22031	county	De Soto	Louisiana	2020-03-20			
+24047	county	Worcester	Maryland	2020-03-20			
+27027	county	Clay	Minnesota	2020-03-20			
+27025	county	Chisago	Minnesota	2020-03-20			
+27045	county	Fillmore	Minnesota	2020-03-20			
+28037	county	Franklin	Mississippi	2020-03-20			
+28129	county	Smith	Mississippi	2020-03-20			
+28053	county	Humphreys	Mississippi	2020-03-20			
+28139	county	Tippah	Mississippi	2020-03-20			
+28077	county	Lawrence	Mississippi	2020-03-20			
+28121	county	Rankin	Mississippi	2020-03-20			
+28113	county	Pike	Mississippi	2020-03-20			
+28093	county	Marshall	Mississippi	2020-03-20			
+28001	county	Adams	Mississippi	2020-03-20			
+28071	county	Lafayette	Mississippi	2020-03-20			
+28081	county	Lee	Mississippi	2020-03-20			
+29169	county	Pulaski	Missouri	2020-03-20			
+29069	county	Dunklin	Missouri	2020-03-20			
+29201	county	Scott	Missouri	2020-03-20			
+29043	county	Christian	Missouri	2020-03-20			
+31019	county	Buffalo	Nebraska	2020-03-20			
+31109	county	Lancaster	Nebraska	2020-03-20			
+32023	county	Nye	Nevada	2020-03-20			
+33005	county	Cheshire	New Hampshire	2020-03-20			
+34011	county	Cumberland	New Jersey	2020-03-20			
+35031	county	McKinley	New Mexico	2020-03-20			
+35013	county	Doña Ana	New Mexico	2020-03-20			
+36037	county	Genesee	New York	2020-03-20			
+36063	county	Niagara	New York	2020-03-20			
+36035	county	Fulton	New York	2020-03-20			
+36021	county	Columbia	New York	2020-03-20			
+36065	county	Oneida	New York	2020-03-20			
+37167	county	Stanly	North Carolina	2020-03-20			
+37159	county	Rowan	North Carolina	2020-03-20			
+37135	county	Orange	North Carolina	2020-03-20			
+37139	county	Pasquotank	North Carolina	2020-03-20			
+37147	county	Pitt	North Carolina	2020-03-20			
+37031	county	Carteret	North Carolina	2020-03-20			
+37069	county	Franklin	North Carolina	2020-03-20			
+37057	county	Davidson	North Carolina	2020-03-20			
+38071	county	Ramsey	North Dakota	2020-03-20			
+38069	county	Pierce	North Dakota	2020-03-20			
+39007	county	Ashtabula	Ohio	2020-03-20			
+39165	county	Warren	Ohio	2020-03-20			
+39159	county	Union	Ohio	2020-03-20			
+39101	county	Marion	Ohio	2020-03-20			
+39029	county	Columbiana	Ohio	2020-03-20			
+40049	county	Garvin	Oklahoma	2020-03-20			
+41023	county	Grant	Oregon	2020-03-20			
+41061	county	Union	Oregon	2020-03-20			
+42105	county	Potter	Pennsylvania	2020-03-20			
+42055	county	Franklin	Pennsylvania	2020-03-20			
+42049	county	Erie	Pennsylvania	2020-03-20			
+42027	county	Centre	Pennsylvania	2020-03-20			
+45003	county	Aiken	South Carolina	2020-03-20			
+45015	county	Berkeley	South Carolina	2020-03-20			
+45041	county	Florence	South Carolina	2020-03-20			
+45031	county	Darlington	South Carolina	2020-03-20			
+45077	county	Pickens	South Carolina	2020-03-20			
+45075	county	Orangeburg	South Carolina	2020-03-20			
+45085	county	Sumter	South Carolina	2020-03-20			
+45027	county	Clarendon	South Carolina	2020-03-20			
+47011	county	Bradley	Tennessee	2020-03-20			
+47059	county	Greene	Tennessee	2020-03-20			
+47001	county	Anderson	Tennessee	2020-03-20			
+47009	county	Blount	Tennessee	2020-03-20			
+47167	county	Tipton	Tennessee	2020-03-20			
+47063	county	Hamblen	Tennessee	2020-03-20			
+47119	county	Maury	Tennessee	2020-03-20			
+47043	county	Dickson	Tennessee	2020-03-20			
+48067	county	Cass	Texas	2020-03-20			
+48147	county	Fannin	Texas	2020-03-20			
+48049	county	Brown	Texas	2020-03-20			
+48219	county	Hockley	Texas	2020-03-20			
+48459	county	Upshur	Texas	2020-03-20			
+50001	county	Addison	Vermont	2020-03-20			
+50021	county	Rutland	Vermont	2020-03-20			
+51001	county	Accomack	Virginia	2020-03-20			
+51073	county	Gloucester	Virginia	2020-03-20			
+51700	county	Newport News	Virginia	2020-03-20			
+51710	county	Norfolk	Virginia	2020-03-20			
+51740	county	Portsmouth	Virginia	2020-03-20			
+53055	county	San Juan	Washington	2020-03-20			
+53015	county	Cowlitz	Washington	2020-03-20			
+53065	county	Stevens	Washington	2020-03-20			
+54035	county	Jackson	West Virginia	2020-03-20			
+54039	county	Kanawha	West Virginia	2020-03-20			
+55031	county	Douglas	Wisconsin	2020-03-20			
+55017	county	Chippewa	Wisconsin	2020-03-20			
+55105	county	Rock	Wisconsin	2020-03-20			
+55045	county	Green	Wisconsin	2020-03-20			
+55033	county	Dunn	Wisconsin	2020-03-20			
+55109	county	St. Croix	Wisconsin	2020-03-20			
+55055	county	Jefferson	Wisconsin	2020-03-20			
+55073	county	Marathon	Wisconsin	2020-03-20			
+56025	county	Natrona	Wyoming	2020-03-20			
+56005	county	Campbell	Wyoming	2020-03-20			
+01093	county	Marion	Alabama	2020-03-21			
+04001	county	Apache	Arizona	2020-03-21			
+04003	county	Cochise	Arizona	2020-03-21			
+06093	county	Siskiyou	California	2020-03-21			
+06007	county	Butte	California	2020-03-21			
+06017	county	El Dorado	California	2020-03-21			
+06115	county	Yuba	California	2020-03-21			
+08015	county	Chaffee	Colorado	2020-03-21			
+08053	county	Hinsdale	Colorado	2020-03-21			
+08039	county	Elbert	Colorado	2020-03-21			
+08085	county	Montrose	Colorado	2020-03-21			
+12083	county	Marion	Florida	2020-03-21			
+12107	county	Putnam	Florida	2020-03-21			
+12005	county	Bay	Florida	2020-03-21			
+12111	county	St. Lucie	Florida	2020-03-21			
+12055	county	Highlands	Florida	2020-03-21			
+13187	county	Lumpkin	Georgia	2020-03-21			
+13009	county	Baldwin	Georgia	2020-03-21			
+17037	county	DeKalb	Illinois	2020-03-21			
+18039	county	Elkhart	Indiana	2020-03-21			
+18059	county	Hancock	Indiana	2020-03-21			
+18061	county	Harrison	Indiana	2020-03-21			
+18175	county	Washington	Indiana	2020-03-21			
+18035	county	Delaware	Indiana	2020-03-21			
+18103	county	Miami	Indiana	2020-03-21			
+19087	county	Henry	Iowa	2020-03-21			
+19065	county	Fayette	Iowa	2020-03-21			
+19169	county	Story	Iowa	2020-03-21			
+19113	county	Linn	Iowa	2020-03-21			
+21005	county	Anderson	Kentucky	2020-03-21			
+21215	county	Spencer	Kentucky	2020-03-21			
+21151	county	Madison	Kentucky	2020-03-21			
+22013	county	Bienville	Louisiana	2020-03-21			
+22027	county	Claiborne	Louisiana	2020-03-21			
+22009	county	Avoyelles	Louisiana	2020-03-21			
+22039	county	Evangeline	Louisiana	2020-03-21			
+22011	county	Beauregard	Louisiana	2020-03-21			
+22073	county	Ouachita	Louisiana	2020-03-21			
+22101	county	St. Mary	Louisiana	2020-03-21			
+23023	county	Sagadahoc	Maine	2020-03-21			
+24011	county	Caroline	Maryland	2020-03-21			
+24043	county	Washington	Maryland	2020-03-21			
+24039	county	Somerset	Maryland	2020-03-21			
+25019	county	Nantucket	Massachusetts	2020-03-21			
+26015	county	Barry	Michigan	2020-03-21			
+26157	county	Tuscola	Michigan	2020-03-21			
+26035	county	Clare	Michigan	2020-03-21			
+26025	county	Calhoun	Michigan	2020-03-21			
+26165	county	Wexford	Michigan	2020-03-21			
+26005	county	Allegan	Michigan	2020-03-21			
+26021	county	Berrien	Michigan	2020-03-21			
+26145	county	Saginaw	Michigan	2020-03-21			
+27063	county	Jackson	Minnesota	2020-03-21			
+27137	county	St. Louis	Minnesota	2020-03-21			
+27147	county	Steele	Minnesota	2020-03-21			
+27157	county	Wabasha	Minnesota	2020-03-21			
+27039	county	Dodge	Minnesota	2020-03-21			
+28107	county	Panola	Mississippi	2020-03-21			
+28079	county	Leake	Mississippi	2020-03-21			
+28007	county	Attala	Mississippi	2020-03-21			
+28145	county	Union	Mississippi	2020-03-21			
+28039	county	George	Mississippi	2020-03-21			
+28085	county	Lincoln	Mississippi	2020-03-21			
+28087	county	Lowndes	Mississippi	2020-03-21			
+28151	county	Washington	Mississippi	2020-03-21			
+28043	county	Grenada	Mississippi	2020-03-21			
+28127	county	Simpson	Mississippi	2020-03-21			
+28143	county	Tunica	Mississippi	2020-03-21			
+28057	county	Itawamba	Mississippi	2020-03-21			
+28025	county	Clay	Mississippi	2020-03-21			
+29097	county	Jasper	Missouri	2020-03-21			
+29013	county	Bates	Missouri	2020-03-21			
+29101	county	Johnson	Missouri	2020-03-21			
+30081	county	Ravalli	Montana	2020-03-21			
+30013	county	Cascade	Montana	2020-03-21			
+33017	county	Strafford	New Hampshire	2020-03-21			
+35025	county	Lea	New Mexico	2020-03-21			
+36101	county	Steuben	New York	2020-03-21			
+37021	county	Buncombe	North Carolina	2020-03-21			
+37035	county	Catawba	North Carolina	2020-03-21			
+39025	county	Clermont	Ohio	2020-03-21			
+39089	county	Licking	Ohio	2020-03-21			
+39039	county	Defiance	Ohio	2020-03-21			
+39043	county	Erie	Ohio	2020-03-21			
+41033	county	Josephine	Oregon	2020-03-21			
+42093	county	Montour	Pennsylvania	2020-03-21			
+42019	county	Butler	Pennsylvania	2020-03-21			
+45033	county	Dillon	South Carolina	2020-03-21			
+45037	county	Edgefield	South Carolina	2020-03-21			
+45069	county	Marlboro	South Carolina	2020-03-21			
+45047	county	Greenwood	South Carolina	2020-03-21			
+45053	county	Jasper	South Carolina	2020-03-21			
+45071	county	Newberry	South Carolina	2020-03-21			
+47017	county	Carroll	Tennessee	2020-03-21			
+47123	county	Monroe	Tennessee	2020-03-21			
+47151	county	Scott	Tennessee	2020-03-21			
+47141	county	Putnam	Tennessee	2020-03-21			
+47145	county	Roane	Tennessee	2020-03-21			
+47047	county	Fayette	Tennessee	2020-03-21			
+47029	county	Cocke	Tennessee	2020-03-21			
+48069	county	Castro	Texas	2020-03-21			
+48375	county	Potter	Texas	2020-03-21			
+48359	county	Oldham	Texas	2020-03-21			
+48021	county	Bastrop	Texas	2020-03-21			
+48117	county	Deaf Smith	Texas	2020-03-21			
+48329	county	Midland	Texas	2020-03-21			
+50025	county	Windham	Vermont	2020-03-21			
+50011	county	Franklin	Vermont	2020-03-21			
+51117	county	Mecklenburg	Virginia	2020-03-21			
+51003	county	Albemarle	Virginia	2020-03-21			
+51023	county	Botetourt	Virginia	2020-03-21			
+51067	county	Franklin	Virginia	2020-03-21			
+51800	county	Suffolk	Virginia	2020-03-21			
+51093	county	Isle of Wight	Virginia	2020-03-21			
+54079	county	Putnam	West Virginia	2020-03-21			
+54051	county	Marshall	West Virginia	2020-03-21			
+56007	county	Carbon	Wyoming	2020-03-21			
+12007	county	Bradford	Florida	2020-03-22			
+12027	county	DeSoto	Florida	2020-03-22			
+12035	county	Flagler	Florida	2020-03-22			
+12023	county	Columbia	Florida	2020-03-22			
+13267	county	Tattnall	Georgia	2020-03-22			
+13065	county	Clinch	Georgia	2020-03-22			
+13013	county	Barrow	Georgia	2020-03-22			
+13035	county	Butts	Georgia	2020-03-22			
+13069	county	Coffee	Georgia	2020-03-22			
+13289	county	Twiggs	Georgia	2020-03-22			
+13055	county	Chattooga	Georgia	2020-03-22			
+16085	county	Valley	Idaho	2020-03-22			
+17085	county	Jo Daviess	Illinois	2020-03-22			
+17019	county	Champaign	Illinois	2020-03-22			
+17161	county	Rock Island	Illinois	2020-03-22			
+17177	county	Stephenson	Illinois	2020-03-22			
+17105	county	Livingston	Illinois	2020-03-22			
+18137	county	Ripley	Indiana	2020-03-22			
+18159	county	Tipton	Indiana	2020-03-22			
+18105	county	Monroe	Indiana	2020-03-22			
+18109	county	Morgan	Indiana	2020-03-22			
+18133	county	Putnam	Indiana	2020-03-22			
+18143	county	Scott	Indiana	2020-03-22			
+19171	county	Tama	Iowa	2020-03-22			
+19167	county	Sioux	Iowa	2020-03-22			
+19109	county	Kossuth	Iowa	2020-03-22			
+19157	county	Poweshiek	Iowa	2020-03-22			
+19163	county	Scott	Iowa	2020-03-22			
+19033	county	Cerro Gordo	Iowa	2020-03-22			
+19193	county	Woodbury	Iowa	2020-03-22			
+20123	county	Mitchell	Kansas	2020-03-22			
+20085	county	Jackson	Kansas	2020-03-22			
+21025	county	Breathitt	Kentucky	2020-03-22			
+21003	county	Allen	Kentucky	2020-03-22			
+21093	county	Hardin	Kentucky	2020-03-22			
+21113	county	Jessamine	Kentucky	2020-03-22			
+21185	county	Oldham	Kentucky	2020-03-22			
+22001	county	Acadia	Louisiana	2020-03-22			
+24037	county	St. Mary's	Maryland	2020-03-22			
+24015	county	Cecil	Maryland	2020-03-22			
+26051	county	Gladwin	Michigan	2020-03-22			
+26143	county	Roscommon	Michigan	2020-03-22			
+26047	county	Emmet	Michigan	2020-03-22			
+26055	county	Grand Traverse	Michigan	2020-03-22			
+27079	county	Le Sueur	Minnesota	2020-03-22			
+28097	county	Montgomery	Mississippi	2020-03-22			
+28017	county	Chickasaw	Mississippi	2020-03-22			
+28133	county	Sunflower	Mississippi	2020-03-22			
+28137	county	Tate	Mississippi	2020-03-22			
+28105	county	Oktibbeha	Mississippi	2020-03-22			
+28155	county	Webster	Mississippi	2020-03-22			
+28115	county	Pontotoc	Mississippi	2020-03-22			
+31047	county	Dawson	Nebraska	2020-03-22			
+33019	county	Sullivan	New Hampshire	2020-03-22			
+34033	county	Salem	New Jersey	2020-03-22			
+35045	county	San Juan	New Mexico	2020-03-22			
+36023	county	Cortland	New York	2020-03-22			
+36089	county	St. Lawrence	New York	2020-03-22			
+36053	county	Madison	New York	2020-03-22			
+37039	county	Cherokee	North Carolina	2020-03-22			
+37089	county	Henderson	North Carolina	2020-03-22			
+37179	county	Union	North Carolina	2020-03-22			
+37077	county	Granville	North Carolina	2020-03-22			
+37051	county	Cumberland	North Carolina	2020-03-22			
+37165	county	Scotland	North Carolina	2020-03-22			
+37155	county	Robeson	North Carolina	2020-03-22			
+37127	county	Nash	North Carolina	2020-03-22			
+37105	county	Lee	North Carolina	2020-03-22			
+37059	county	Davie	North Carolina	2020-03-22			
+39133	county	Portage	Ohio	2020-03-22			
+39019	county	Carroll	Ohio	2020-03-22			
+39057	county	Greene	Ohio	2020-03-22			
+39063	county	Hancock	Ohio	2020-03-22			
+39053	county	Gallia	Ohio	2020-03-22			
+39173	county	Wood	Ohio	2020-03-22			
+39027	county	Clinton	Ohio	2020-03-22			
+40103	county	Noble	Oklahoma	2020-03-22			
+40101	county	Muskogee	Oklahoma	2020-03-22			
+42037	county	Columbia	Pennsylvania	2020-03-22			
+42043	county	Dauphin	Pennsylvania	2020-03-22			
+42051	county	Fayette	Pennsylvania	2020-03-22			
+42107	county	Schuylkill	Pennsylvania	2020-03-22			
+42085	county	Mercer	Pennsylvania	2020-03-22			
+45029	county	Colleton	South Carolina	2020-03-22			
+46013	county	Brown	South Dakota	2020-03-22			
+47135	county	Perry	Tennessee	2020-03-22			
+47083	county	Houston	Tennessee	2020-03-22			
+47107	county	McMinn	Tennessee	2020-03-22			
+47115	county	Marion	Tennessee	2020-03-22			
+47023	county	Chester	Tennessee	2020-03-22			
+47053	county	Gibson	Tennessee	2020-03-22			
+47105	county	Loudon	Tennessee	2020-03-22			
+47051	county	Franklin	Tennessee	2020-03-22			
+51105	county	Lee	Virginia	2020-03-22			
+51109	county	Louisa	Virginia	2020-03-22			
+51065	county	Fluvanna	Virginia	2020-03-22			
+51165	county	Rockingham	Virginia	2020-03-22			
+51009	county	Amherst	Virginia	2020-03-22			
+51019	county	Bedford	Virginia	2020-03-22			
+51047	county	Culpeper	Virginia	2020-03-22			
+53075	county	Whitman	Washington	2020-03-22			
+01059	county	Franklin	Alabama	2020-03-23			
+01123	county	Tallapoosa	Alabama	2020-03-23			
+01069	county	Houston	Alabama	2020-03-23			
+02170	county	Matanuska-Susitna	Alaska	2020-03-23			
+02110	county	Juneau	Alaska	2020-03-23			
+08119	county	Teller	Colorado	2020-03-23			
+08067	county	La Plata	Colorado	2020-03-23			
+08075	county	Logan	Colorado	2020-03-23			
+13303	county	Washington	Georgia	2020-03-23			
+13195	county	Madison	Georgia	2020-03-23			
+13211	county	Morgan	Georgia	2020-03-23			
+13033	county	Burke	Georgia	2020-03-23			
+13047	county	Catoosa	Georgia	2020-03-23			
+13145	county	Harris	Georgia	2020-03-23			
+13179	county	Liberty	Georgia	2020-03-23			
+13229	county	Pierce	Georgia	2020-03-23			
+17133	county	Monroe	Illinois	2020-03-23			
+18037	county	Dubois	Indiana	2020-03-23			
+19081	county	Hancock	Iowa	2020-03-23			
+19179	county	Wapello	Iowa	2020-03-23			
+20011	county	Bourbon	Kansas	2020-03-23			
+20111	county	Lyon	Kansas	2020-03-23			
+21141	county	Logan	Kentucky	2020-03-23			
+22003	county	Allen	Louisiana	2020-03-23			
+22083	county	Richland	Louisiana	2020-03-23			
+22043	county	Grant	Louisiana	2020-03-23			
+22099	county	St. Martin	Louisiana	2020-03-23			
+22069	county	Natchitoches	Louisiana	2020-03-23			
+22061	county	Lincoln	Louisiana	2020-03-23			
+23013	county	Knox	Maine	2020-03-23			
+24023	county	Garrett	Maryland	2020-03-23			
+24035	county	Queen Anne's	Maryland	2020-03-23			
+26123	county	Newaygo	Michigan	2020-03-23			
+26077	county	Kalamazoo	Michigan	2020-03-23			
+26121	county	Muskegon	Michigan	2020-03-23			
+26033	county	Chippewa	Michigan	2020-03-23			
+27011	county	Big Stone	Minnesota	2020-03-23			
+27073	county	Lac qui Parle	Minnesota	2020-03-23			
+27021	county	Cass	Minnesota	2020-03-23			
+27141	county	Sherburne	Minnesota	2020-03-23			
+28135	county	Tallahatchie	Mississippi	2020-03-23			
+28091	county	Marion	Mississippi	2020-03-23			
+28073	county	Lamar	Mississippi	2020-03-23			
+29029	county	Camden	Missouri	2020-03-23			
+29157	county	Perry	Missouri	2020-03-23			
+29213	county	Taney	Missouri	2020-03-23			
+29187	county	St. Francois	Missouri	2020-03-23			
+29027	county	Callaway	Missouri	2020-03-23			
+29135	county	Moniteau	Missouri	2020-03-23			
+29047	county	Clay	Missouri	2020-03-23			
+29049	county	Clinton	Missouri	2020-03-23			
+29107	county	Lafayette	Missouri	2020-03-23			
+29001	county	Adair	Missouri	2020-03-23			
+31119	county	Madison	Nebraska	2020-03-23			
+31177	county	Washington	Nebraska	2020-03-23			
+32005	county	Douglas	Nevada	2020-03-23			
+35005	county	Chaves	New Mexico	2020-03-23			
+36011	county	Cayuga	New York	2020-03-23			
+36077	county	Otsego	New York	2020-03-23			
+36075	county	Oswego	New York	2020-03-23			
+37001	county	Alamance	North Carolina	2020-03-23			
+37181	county	Vance	North Carolina	2020-03-23			
+38099	county	Walsh	North Dakota	2020-03-23			
+39091	county	Logan	Ohio	2020-03-23			
+39097	county	Madison	Ohio	2020-03-23			
+39143	county	Sandusky	Ohio	2020-03-23			
+39167	county	Washington	Ohio	2020-03-23			
+39083	county	Knox	Ohio	2020-03-23			
+40123	county	Pontotoc	Oklahoma	2020-03-23			
+41027	county	Hood River	Oregon	2020-03-23			
+42021	county	Cambria	Pennsylvania	2020-03-23			
+45023	county	Chester	South Carolina	2020-03-23			
+45043	county	Georgetown	South Carolina	2020-03-23			
+45073	county	Oconee	South Carolina	2020-03-23			
+46085	county	Lyman	South Dakota	2020-03-23			
+46065	county	Hughes	South Dakota	2020-03-23			
+46103	county	Pennington	South Dakota	2020-03-23			
+46029	county	Codington	South Dakota	2020-03-23			
+48343	county	Morris	Texas	2020-03-23			
+49021	county	Iron	Utah	2020-03-23			
+51163	county	Rockbridge	Virginia	2020-03-23			
+51590	county	Danville	Virginia	2020-03-23			
+53001	county	Adams	Washington	2020-03-23			
+53017	county	Douglas	Washington	2020-03-23			
+55027	county	Dodge	Wisconsin	2020-03-23			
+01103	county	Morgan	Alabama	2020-03-24			
+01001	county	Autauga	Alabama	2020-03-24			
+05029	county	Conway	Arkansas	2020-03-24			
+05037	county	Cross	Arkansas	2020-03-24			
+05109	county	Pike	Arkansas	2020-03-24			
+05147	county	Woodruff	Arkansas	2020-03-24			
+05137	county	Stone	Arkansas	2020-03-24			
+05075	county	Lawrence	Arkansas	2020-03-24			
+05139	county	Union	Arkansas	2020-03-24			
+05033	county	Crawford	Arkansas	2020-03-24			
+05027	county	Columbia	Arkansas	2020-03-24			
+05059	county	Hot Spring	Arkansas	2020-03-24			
+05145	county	White	Arkansas	2020-03-24			
+06051	county	Mono	California	2020-03-24			
+06009	county	Calaveras	California	2020-03-24			
+06047	county	Merced	California	2020-03-24			
+08029	county	Delta	Colorado	2020-03-24			
+08055	county	Huerfano	Colorado	2020-03-24			
+08043	county	Fremont	Colorado	2020-03-24			
+13235	county	Pulaski	Georgia	2020-03-24			
+13253	county	Seminole	Georgia	2020-03-24			
+13133	county	Greene	Georgia	2020-03-24			
+13007	county	Baker	Georgia	2020-03-24			
+13193	county	Macon	Georgia	2020-03-24			
+13205	county	Mitchell	Georgia	2020-03-24			
+13111	county	Fannin	Georgia	2020-03-24			
+13155	county	Irwin	Georgia	2020-03-24			
+13159	county	Jasper	Georgia	2020-03-24			
+13199	county	Meriwether	Georgia	2020-03-24			
+13081	county	Crisp	Georgia	2020-03-24			
+13017	county	Ben Hill	Georgia	2020-03-24			
+13071	county	Colquitt	Georgia	2020-03-24			
+13039	county	Camden	Georgia	2020-03-24			
+13029	county	Bryan	Georgia	2020-03-24			
+13257	county	Stephens	Georgia	2020-03-24			
+16031	county	Cassia	Idaho	2020-03-24			
+16005	county	Bannock	Idaho	2020-03-24			
+17063	county	Grundy	Illinois	2020-03-24			
+18149	county	Starke	Indiana	2020-03-24			
+18051	county	Gibson	Indiana	2020-03-24			
+18093	county	Lawrence	Indiana	2020-03-24			
+18127	county	Porter	Indiana	2020-03-24			
+18115	county	Ohio	Indiana	2020-03-24			
+18029	county	Dearborn	Indiana	2020-03-24			
+18107	county	Montgomery	Indiana	2020-03-24			
+18173	county	Warrick	Indiana	2020-03-24			
+18031	county	Decatur	Indiana	2020-03-24			
+18013	county	Brown	Indiana	2020-03-24			
+18071	county	Jackson	Indiana	2020-03-24			
+18153	county	Sullivan	Indiana	2020-03-24			
+19031	county	Cedar	Iowa	2020-03-24			
+19019	county	Buchanan	Iowa	2020-03-24			
+19181	county	Warren	Iowa	2020-03-24			
+19099	county	Jasper	Iowa	2020-03-24			
+20207	county	Woodson	Kansas	2020-03-24			
+20149	county	Pottawatomie	Kansas	2020-03-24			
+20043	county	Doniphan	Kansas	2020-03-24			
+21159	county	Martin	Kentucky	2020-03-24			
+21213	county	Simpson	Kentucky	2020-03-24			
+21177	county	Muhlenberg	Kentucky	2020-03-24			
+21165	county	Menifee	Kentucky	2020-03-24			
+21145	county	McCracken	Kentucky	2020-03-24			
+22115	county	Vernon	Louisiana	2020-03-24			
+23027	county	Waldo	Maine	2020-03-24			
+26101	county	Manistee	Michigan	2020-03-24			
+26087	county	Lapeer	Michigan	2020-03-24			
+26059	county	Hillsdale	Michigan	2020-03-24			
+26073	county	Isabella	Michigan	2020-03-24			
+26079	county	Kalkaska	Michigan	2020-03-24			
+28103	county	Noxubee	Mississippi	2020-03-24			
+28101	county	Newton	Mississippi	2020-03-24			
+28019	county	Choctaw	Mississippi	2020-03-24			
+29155	county	Pemiscot	Missouri	2020-03-24			
+29031	county	Cape Girardeau	Missouri	2020-03-24			
+29099	county	Jefferson	Missouri	2020-03-24			
+29071	county	Franklin	Missouri	2020-03-24			
+30043	county	Jefferson	Montana	2020-03-24			
+31155	county	Saunders	Nebraska	2020-03-24			
+35009	county	Curry	New Mexico	2020-03-24			
+35006	county	Cibola	New Mexico	2020-03-24			
+36015	county	Chemung	New York	2020-03-24			
+36073	county	Orleans	New York	2020-03-24			
+37123	county	Montgomery	North Carolina	2020-03-24			
+37175	county	Transylvania	North Carolina	2020-03-24			
+37151	county	Randolph	North Carolina	2020-03-24			
+38025	county	Dunn	North Dakota	2020-03-24			
+39071	county	Highland	Ohio	2020-03-24			
+39033	county	Crawford	Ohio	2020-03-24			
+39045	county	Fairfield	Ohio	2020-03-24			
+39021	county	Champaign	Ohio	2020-03-24			
+40097	county	Mayes	Oklahoma	2020-03-24			
+40145	county	Wagoner	Oklahoma	2020-03-24			
+41007	county	Clatsop	Oregon	2020-03-24			
+42067	county	Juniata	Pennsylvania	2020-03-24			
+42025	county	Carbon	Pennsylvania	2020-03-24			
+42033	county	Clearfield	Pennsylvania	2020-03-24			
+42005	county	Armstrong	Pennsylvania	2020-03-24			
+42015	county	Bradford	Pennsylvania	2020-03-24			
+42111	county	Somerset	Pennsylvania	2020-03-24			
+45025	county	Chesterfield	South Carolina	2020-03-24			
+46011	county	Brookings	South Dakota	2020-03-24			
+47071	county	Hardin	Tennessee	2020-03-24			
+47025	county	Claiborne	Tennessee	2020-03-24			
+47061	county	Grundy	Tennessee	2020-03-24			
+47103	county	Lincoln	Tennessee	2020-03-24			
+47041	county	DeKalb	Tennessee	2020-03-24			
+47133	county	Overton	Tennessee	2020-03-24			
+47113	county	Madison	Tennessee	2020-03-24			
+48245	county	Jefferson	Texas	2020-03-24			
+48355	county	Nueces	Texas	2020-03-24			
+48367	county	Parker	Texas	2020-03-24			
+48071	county	Chambers	Texas	2020-03-24			
+48215	county	Hidalgo	Texas	2020-03-24			
+48091	county	Comal	Texas	2020-03-24			
+48181	county	Grayson	Texas	2020-03-24			
+48469	county	Victoria	Texas	2020-03-24			
+48145	county	Falls	Texas	2020-03-24			
+50019	county	Orleans	Vermont	2020-03-24			
+50005	county	Caledonia	Vermont	2020-03-24			
+51083	county	Halifax	Virginia	2020-03-24			
+51550	county	Chesapeake	Virginia	2020-03-24			
+54033	county	Harrison	West Virginia	2020-03-24			
+54003	county	Berkeley	West Virginia	2020-03-24			
+54077	county	Preston	West Virginia	2020-03-24			
+54107	county	Wood	West Virginia	2020-03-24			
+56037	county	Sweetwater	Wyoming	2020-03-24			
+01027	county	Clay	Alabama	2020-03-25			
+01019	county	Cherokee	Alabama	2020-03-25			
+01131	county	Wilcox	Alabama	2020-03-25			
+01029	county	Cleburne	Alabama	2020-03-25			
+01013	county	Butler	Alabama	2020-03-25			
+01095	county	Marshall	Alabama	2020-03-25			
+01009	county	Blount	Alabama	2020-03-25			
+01021	county	Chilton	Alabama	2020-03-25			
+01113	county	Russell	Alabama	2020-03-25			
+01079	county	Lawrence	Alabama	2020-03-25			
+01033	county	Colbert	Alabama	2020-03-25			
+01055	county	Etowah	Alabama	2020-03-25			
+01047	county	Dallas	Alabama	2020-03-25			
+01109	county	Pike	Alabama	2020-03-25			
+01107	county	Pickens	Alabama	2020-03-25			
+05043	county	Drew	Arkansas	2020-03-25			
+06027	county	Inyo	California	2020-03-25			
+06101	county	Sutter	California	2020-03-25			
+08089	county	Otero	Colorado	2020-03-25			
+12039	county	Gadsden	Florida	2020-03-25			
+13091	county	Dodge	Georgia	2020-03-25			
+13269	county	Taylor	Georgia	2020-03-25			
+13317	county	Wilkes	Georgia	2020-03-25			
+13311	county	White	Georgia	2020-03-25			
+13087	county	Decatur	Georgia	2020-03-25			
+13183	county	Long	Georgia	2020-03-25			
+13157	county	Jackson	Georgia	2020-03-25			
+13169	county	Jones	Georgia	2020-03-25			
+13275	county	Thomas	Georgia	2020-03-25			
+13299	county	Ware	Georgia	2020-03-25			
+16049	county	Idaho	Idaho	2020-03-25			
+16051	county	Jefferson	Idaho	2020-03-25			
+16069	county	Nez Perce	Idaho	2020-03-25			
+16075	county	Payette	Idaho	2020-03-25			
+16043	county	Fremont	Idaho	2020-03-25			
+17041	county	Douglas	Illinois	2020-03-25			
+17137	county	Morgan	Illinois	2020-03-25			
+17123	county	Marshall	Illinois	2020-03-25			
+18139	county	Rush	Indiana	2020-03-25			
+18033	county	DeKalb	Indiana	2020-03-25			
+18073	county	Jasper	Indiana	2020-03-25			
+19011	county	Benton	Iowa	2020-03-25			
+20133	county	Neosho	Kansas	2020-03-25			
+20037	county	Crawford	Kansas	2020-03-25			
+20177	county	Shawnee	Kansas	2020-03-25			
+21147	county	McCreary	Kentucky	2020-03-25			
+21231	county	Wayne	Kentucky	2020-03-25			
+21085	county	Grayson	Kentucky	2020-03-25			
+21125	county	Laurel	Kentucky	2020-03-25			
+22127	county	Winn	Louisiana	2020-03-25			
+22049	county	Jackson	Louisiana	2020-03-25			
+22053	county	Jefferson Davis	Louisiana	2020-03-25			
+22067	county	Morehouse	Louisiana	2020-03-25			
+22111	county	Union	Louisiana	2020-03-25			
+24029	county	Kent	Maryland	2020-03-25			
+25007	county	Dukes	Massachusetts	2020-03-25			
+26159	county	Van Buren	Michigan	2020-03-25			
+26151	county	Sanilac	Michigan	2020-03-25			
+26069	county	Iosco	Michigan	2020-03-25			
+26091	county	Lenawee	Michigan	2020-03-25			
+26103	county	Marquette	Michigan	2020-03-25			
+27049	county	Goodhue	Minnesota	2020-03-25			
+27169	county	Winona	Minnesota	2020-03-25			
+28013	county	Calhoun	Mississippi	2020-03-25			
+28117	county	Prentiss	Mississippi	2020-03-25			
+29139	county	Montgomery	Missouri	2020-03-25			
+29205	county	Shelby	Missouri	2020-03-25			
+29119	county	McDonald	Missouri	2020-03-25			
+29053	county	Cooper	Missouri	2020-03-25			
+29173	county	Ralls	Missouri	2020-03-25			
+29145	county	Newton	Missouri	2020-03-25			
+29165	county	Platte	Missouri	2020-03-25			
+29175	county	Randolph	Missouri	2020-03-25			
+30041	county	Hill	Montana	2020-03-25			
+31053	county	Dodge	Nebraska	2020-03-25			
+32019	county	Lyon	Nevada	2020-03-25			
+35015	county	Eddy	New Mexico	2020-03-25			
+35039	county	Rio Arriba	New Mexico	2020-03-25			
+36013	county	Chautauqua	New York	2020-03-25			
+36033	county	Franklin	New York	2020-03-25			
+37015	county	Bertie	North Carolina	2020-03-25			
+37091	county	Hertford	North Carolina	2020-03-25			
+37061	county	Duplin	North Carolina	2020-03-25			
+37027	county	Caldwell	North Carolina	2020-03-25			
+37023	county	Burke	North Carolina	2020-03-25			
+37107	county	Lenoir	North Carolina	2020-03-25			
+37111	county	McDowell	North Carolina	2020-03-25			
+37131	county	Northampton	North Carolina	2020-03-25			
+37045	county	Cleveland	North Carolina	2020-03-25			
+38031	county	Foster	North Dakota	2020-03-25			
+38089	county	Stark	North Dakota	2020-03-25			
+39107	county	Mercer	Ohio	2020-03-25			
+39129	county	Pickaway	Ohio	2020-03-25			
+39087	county	Lawrence	Ohio	2020-03-25			
+39147	county	Seneca	Ohio	2020-03-25			
+39047	county	Fayette	Ohio	2020-03-25			
+39169	county	Wayne	Ohio	2020-03-25			
+40001	county	Adair	Oklahoma	2020-03-25			
+40041	county	Delaware	Oklahoma	2020-03-25			
+40019	county	Carter	Oklahoma	2020-03-25			
+40137	county	Stephens	Oklahoma	2020-03-25			
+40013	county	Bryan	Oklahoma	2020-03-25			
+40125	county	Pottawatomie	Oklahoma	2020-03-25			
+40037	county	Creek	Oklahoma	2020-03-25			
+40113	county	Osage	Oklahoma	2020-03-25			
+41041	county	Lincoln	Oregon	2020-03-25			
+42059	county	Greene	Pennsylvania	2020-03-25			
+42073	county	Lawrence	Pennsylvania	2020-03-25			
+42123	county	Warren	Pennsylvania	2020-03-25			
+42081	county	Lycoming	Pennsylvania	2020-03-25			
+44007	county	Providence	Rhode Island	2020-03-25			
+44009	county	Washington	Rhode Island	2020-03-25			
+44005	county	Newport	Rhode Island	2020-03-25			
+44003	county	Kent	Rhode Island	2020-03-25			
+44001	county	Bristol	Rhode Island	2020-03-25			
+45089	county	Williamsburg	South Carolina	2020-03-25			
+45067	county	Marion	South Carolina	2020-03-25			
+45087	county	Union	South Carolina	2020-03-25			
+46093	county	Meade	South Dakota	2020-03-25			
+46083	county	Lincoln	South Dakota	2020-03-25			
+47101	county	Lewis	Tennessee	2020-03-25			
+47185	county	White	Tennessee	2020-03-25			
+47073	county	Hawkins	Tennessee	2020-03-25			
+47003	county	Bedford	Tennessee	2020-03-25			
+48185	county	Grimes	Texas	2020-03-25			
+48331	county	Milam	Texas	2020-03-25			
+48149	county	Fayette	Texas	2020-03-25			
+48031	county	Blanco	Texas	2020-03-25			
+48293	county	Limestone	Texas	2020-03-25			
+48165	county	Gaines	Texas	2020-03-25			
+48053	county	Burnet	Texas	2020-03-25			
+48299	county	Llano	Texas	2020-03-25			
+48133	county	Eastland	Texas	2020-03-25			
+48445	county	Terry	Texas	2020-03-25			
+48361	county	Orange	Texas	2020-03-25			
+48199	county	Hardin	Texas	2020-03-25			
+48395	county	Robertson	Texas	2020-03-25			
+48409	county	San Patricio	Texas	2020-03-25			
+48257	county	Kaufman	Texas	2020-03-25			
+48231	county	Hunt	Texas	2020-03-25			
+48323	county	Maverick	Texas	2020-03-25			
+48481	county	Wharton	Texas	2020-03-25			
+48291	county	Liberty	Texas	2020-03-25			
+48015	county	Austin	Texas	2020-03-25			
+48471	county	Walker	Texas	2020-03-25			
+48099	county	Coryell	Texas	2020-03-25			
+48277	county	Lamar	Texas	2020-03-25			
+48189	county	Hale	Texas	2020-03-25			
+48451	county	Tom Green	Texas	2020-03-25			
+48259	county	Kendall	Texas	2020-03-25			
+48013	county	Atascosa	Texas	2020-03-25			
+48493	county	Wilson	Texas	2020-03-25			
+48187	county	Guadalupe	Texas	2020-03-25			
+48143	county	Erath	Texas	2020-03-25			
+48223	county	Hopkins	Texas	2020-03-25			
+50015	county	Lamoille	Vermont	2020-03-25			
+51135	county	Nottoway	Virginia	2020-03-25			
+51137	county	Orange	Virginia	2020-03-25			
+51171	county	Shenandoah	Virginia	2020-03-25			
+51125	county	Nelson	Virginia	2020-03-25			
+51161	county	Roanoke	Virginia	2020-03-25			
+51115	county	Mathews	Virginia	2020-03-25			
+51113	county	Madison	Virginia	2020-03-25			
+51630	county	Fredericksburg	Virginia	2020-03-25			
+51683	county	Manassas	Virginia	2020-03-25			
+51069	county	Frederick	Virginia	2020-03-25			
+53047	county	Okanogan	Washington	2020-03-25			
+53019	county	Ferry	Washington	2020-03-25			
+54081	county	Raleigh	West Virginia	2020-03-25			
+54049	county	Marion	West Virginia	2020-03-25			
+54045	county	Logan	West Virginia	2020-03-25			
+54069	county	Ohio	West Virginia	2020-03-25			
+55081	county	Monroe	Wisconsin	2020-03-25			
+55057	county	Juneau	Wisconsin	2020-03-25			
+55049	county	Iowa	Wisconsin	2020-03-25			
+55043	county	Grant	Wisconsin	2020-03-25			
+56001	county	Albany	Wyoming	2020-03-25			
+01011	county	Bullock	Alabama	2020-03-26			
+01023	county	Choctaw	Alabama	2020-03-26			
+01041	county	Crenshaw	Alabama	2020-03-26			
+01091	county	Marengo	Alabama	2020-03-26			
+01037	county	Coosa	Alabama	2020-03-26			
+01049	county	DeKalb	Alabama	2020-03-26			
+01085	county	Lowndes	Alabama	2020-03-26			
+04012	county	La Paz	Arizona	2020-03-26			
+04015	county	Mohave	Arizona	2020-03-26			
+05017	county	Chicot	Arkansas	2020-03-26			
+05121	county	Randolph	Arkansas	2020-03-26			
+05061	county	Howard	Arkansas	2020-03-26			
+05085	county	Lonoke	Arkansas	2020-03-26			
+08063	county	Kit Carson	Colorado	2020-03-26			
+08105	county	Rio Grande	Colorado	2020-03-26			
+08121	county	Washington	Colorado	2020-03-26			
+12133	county	Washington	Florida	2020-03-26			
+13037	county	Calhoun	Georgia	2020-03-26			
+13119	county	Franklin	Georgia	2020-03-26			
+13143	county	Haralson	Georgia	2020-03-26			
+13189	county	McDuffie	Georgia	2020-03-26			
+13279	county	Toombs	Georgia	2020-03-26			
+16037	county	Custer	Idaho	2020-03-26			
+17055	county	Franklin	Illinois	2020-03-26			
+17179	county	Tazewell	Illinois	2020-03-26			
+18117	county	Orange	Indiana	2020-03-26			
+18045	county	Fountain	Indiana	2020-03-26			
+18129	county	Posey	Indiana	2020-03-26			
+18171	county	Warren	Indiana	2020-03-26			
+18099	county	Marshall	Indiana	2020-03-26			
+19145	county	Page	Iowa	2020-03-26			
+19043	county	Clayton	Iowa	2020-03-26			
+19133	county	Monona	Iowa	2020-03-26			
+19007	county	Appanoose	Iowa	2020-03-26			
+19057	county	Des Moines	Iowa	2020-03-26			
+19123	county	Mahaska	Iowa	2020-03-26			
+20087	county	Jefferson	Kansas	2020-03-26			
+20191	county	Sumner	Kansas	2020-03-26			
+21167	county	Mercer	Kentucky	2020-03-26			
+21225	county	Union	Kentucky	2020-03-26			
+21233	county	Webster	Kentucky	2020-03-26			
+21015	county	Boone	Kentucky	2020-03-26			
+21107	county	Hopkins	Kentucky	2020-03-26			
+21161	county	Mason	Kentucky	2020-03-26			
+22065	county	Madison	Louisiana	2020-03-26			
+22059	county	LaSalle	Louisiana	2020-03-26			
+22037	county	East Feliciana	Louisiana	2020-03-26			
+22077	county	Pointe Coupee	Louisiana	2020-03-26			
+22113	county	Vermilion	Louisiana	2020-03-26			
+23007	county	Franklin	Maine	2020-03-26			
+26129	county	Ogemaw	Michigan	2020-03-26			
+26053	county	Gogebic	Michigan	2020-03-26			
+26127	county	Oceana	Michigan	2020-03-26			
+26107	county	Mecosta	Michigan	2020-03-26			
+26113	county	Missaukee	Michigan	2020-03-26			
+26067	county	Ionia	Michigan	2020-03-26			
+26155	county	Shiawassee	Michigan	2020-03-26			
+27143	county	Sibley	Minnesota	2020-03-26			
+27167	county	Wilkin	Minnesota	2020-03-26			
+27067	county	Kandiyohi	Minnesota	2020-03-26			
+28009	county	Benton	Mississippi	2020-03-26			
+28119	county	Quitman	Mississippi	2020-03-26			
+28161	county	Yalobusha	Mississippi	2020-03-26			
+28075	county	Lauderdale	Mississippi	2020-03-26			
+29035	county	Carter	Missouri	2020-03-26			
+29207	county	Stoddard	Missouri	2020-03-26			
+29015	county	Benton	Missouri	2020-03-26			
+29017	county	Bollinger	Missouri	2020-03-26			
+30059	county	Meagher	Montana	2020-03-26			
+30053	county	Lincoln	Montana	2020-03-26			
+30101	county	Toole	Montana	2020-03-26			
+31079	county	Hall	Nebraska	2020-03-26			
+31099	county	Kearney	Nebraska	2020-03-26			
+37013	county	Beaufort	North Carolina	2020-03-26			
+38051	county	McIntosh	North Dakota	2020-03-26			
+38049	county	McHenry	North Dakota	2020-03-26			
+39175	county	Wyandot	Ohio	2020-03-26			
+39009	county	Athens	Ohio	2020-03-26			
+39081	county	Jefferson	Ohio	2020-03-26			
+39119	county	Muskingum	Ohio	2020-03-26			
+40035	county	Craig	Oklahoma	2020-03-26			
+40135	county	Sequoyah	Oklahoma	2020-03-26			
+40031	county	Comanche	Oklahoma	2020-03-26			
+40115	county	Ottawa	Oklahoma	2020-03-26			
+40081	county	Lincoln	Oklahoma	2020-03-26			
+40111	county	Okmulgee	Oklahoma	2020-03-26			
+41057	county	Tillamook	Oregon	2020-03-26			
+41065	county	Wasco	Oregon	2020-03-26			
+42115	county	Susquehanna	Pennsylvania	2020-03-26			
+42013	county	Blair	Pennsylvania	2020-03-26			
+42063	county	Indiana	Pennsylvania	2020-03-26			
+42039	county	Crawford	Pennsylvania	2020-03-26			
+47121	county	Meigs	Tennessee	2020-03-26			
+47005	county	Benton	Tennessee	2020-03-26			
+47171	county	Unicoi	Tennessee	2020-03-26			
+47111	county	Macon	Tennessee	2020-03-26			
+47015	county	Cannon	Tennessee	2020-03-26			
+48239	county	Jackson	Texas	2020-03-26			
+48255	county	Karnes	Texas	2020-03-26			
+48397	county	Rockwall	Texas	2020-03-26			
+48465	county	Val Verde	Texas	2020-03-26			
+48005	county	Angelina	Texas	2020-03-26			
+48317	county	Martin	Texas	2020-03-26			
+48347	county	Nacogdoches	Texas	2020-03-26			
+48057	county	Calhoun	Texas	2020-03-26			
+49029	county	Morgan	Utah	2020-03-26			
+51099	county	King George	Virginia	2020-03-26			
+51131	county	Northampton	Virginia	2020-03-26			
+51750	county	Radford	Virginia	2020-03-26			
+51079	county	Greene	Virginia	2020-03-26			
+51143	county	Pittsylvania	Virginia	2020-03-26			
+51191	county	Washington	Virginia	2020-03-26			
+51680	county	Lynchburg	Virginia	2020-03-26			
+51149	county	Prince George	Virginia	2020-03-26			
+51007	county	Amelia	Virginia	2020-03-26			
+51650	county	Hampton	Virginia	2020-03-26			
+51175	county	Southampton	Virginia	2020-03-26			
+51735	county	Poquoson	Virginia	2020-03-26			
+51187	county	Warren	Virginia	2020-03-26			
+51061	county	Fauquier	Virginia	2020-03-26			
+54097	county	Upshur	West Virginia	2020-03-26			
+54053	county	Mason	West Virginia	2020-03-26			
+55019	county	Clark	Wisconsin	2020-03-26			
+55125	county	Vilas	Wisconsin	2020-03-26			
+55097	county	Portage	Wisconsin	2020-03-26			
+56017	county	Hot Springs	Wyoming	2020-03-26			
+56019	county	Johnson	Wyoming	2020-03-26			
+01133	county	Winston	Alabama	2020-03-27			
+01039	county	Covington	Alabama	2020-03-27			
+01111	county	Randolph	Alabama	2020-03-27			
+01053	county	Escambia	Alabama	2020-03-27			
+01063	county	Greene	Alabama	2020-03-27			
+05005	county	Baxter	Arkansas	2020-03-27			
+06011	county	Colusa	California	2020-03-27			
+06031	county	Kings	California	2020-03-27			
+08003	county	Alamosa	Colorado	2020-03-27			
+08073	county	Lincoln	Colorado	2020-03-27			
+08023	county	Costilla	Colorado	2020-03-27			
+12121	county	Suwannee	Florida	2020-03-27			
+12075	county	Levy	Florida	2020-03-27			
+13147	county	Hart	Georgia	2020-03-27			
+13053	county	Chattahoochee	Georgia	2020-03-27			
+13137	county	Habersham	Georgia	2020-03-27			
+13293	county	Upson	Georgia	2020-03-27			
+16045	county	Gem	Idaho	2020-03-27			
+17075	county	Iroquois	Illinois	2020-03-27			
+17073	county	Henry	Illinois	2020-03-27			
+17011	county	Bureau	Illinois	2020-03-27			
+18049	county	Fulton	Indiana	2020-03-27			
+18135	county	Randolph	Indiana	2020-03-27			
+18087	county	LaGrange	Indiana	2020-03-27			
+18183	county	Whitley	Indiana	2020-03-27			
+18023	county	Clinton	Indiana	2020-03-27			
+18069	county	Huntington	Indiana	2020-03-27			
+18015	county	Carroll	Indiana	2020-03-27			
+18065	county	Henry	Indiana	2020-03-27			
+18085	county	Kosciusko	Indiana	2020-03-27			
+19083	county	Hardin	Iowa	2020-03-27			
+19095	county	Iowa	Iowa	2020-03-27			
+19137	county	Montgomery	Iowa	2020-03-27			
+19197	county	Wright	Iowa	2020-03-27			
+19023	county	Butler	Iowa	2020-03-27			
+19045	county	Clinton	Iowa	2020-03-27			
+19187	county	Webster	Iowa	2020-03-27			
+19127	county	Marshall	Iowa	2020-03-27			
+19059	county	Dickinson	Iowa	2020-03-27			
+20027	county	Clay	Kansas	2020-03-27			
+20063	county	Gove	Kansas	2020-03-27			
+20031	county	Coffey	Kansas	2020-03-27			
+20113	county	McPherson	Kansas	2020-03-27			
+20143	county	Ottawa	Kansas	2020-03-27			
+20139	county	Osage	Kansas	2020-03-27			
+20079	county	Harvey	Kansas	2020-03-27			
+21037	county	Campbell	Kentucky	2020-03-27			
+21123	county	Larue	Kentucky	2020-03-27			
+21239	county	Woodford	Kentucky	2020-03-27			
+21029	county	Bullitt	Kentucky	2020-03-27			
+22125	county	West Feliciana	Louisiana	2020-03-27			
+26039	county	Crawford	Michigan	2020-03-27			
+26063	county	Huron	Michigan	2020-03-27			
+26057	county	Gratiot	Michigan	2020-03-27			
+26027	county	Cass	Michigan	2020-03-27			
+27087	county	Mahnomen	Minnesota	2020-03-27			
+27043	county	Faribault	Minnesota	2020-03-27			
+27081	county	Lincoln	Minnesota	2020-03-27			
+27007	county	Beltrami	Minnesota	2020-03-27			
+28099	county	Neshoba	Mississippi	2020-03-27			
+28063	county	Jefferson	Mississippi	2020-03-27			
+28125	county	Sharkey	Mississippi	2020-03-27			
+28069	county	Kemper	Mississippi	2020-03-27			
+29005	county	Atchison	Missouri	2020-03-27			
+29009	county	Barry	Missouri	2020-03-27			
+29041	county	Chariton	Missouri	2020-03-27			
+29229	county	Wright	Missouri	2020-03-27			
+29177	county	Ray	Missouri	2020-03-27			
+29021	county	Buchanan	Missouri	2020-03-27			
+29113	county	Lincoln	Missouri	2020-03-27			
+29159	county	Pettis	Missouri	2020-03-27			
+30067	county	Park	Montana	2020-03-27			
+30047	county	Lake	Montana	2020-03-27			
+35061	county	Valencia	New Mexico	2020-03-27			
+35041	county	Roosevelt	New Mexico	2020-03-27			
+37079	county	Greene	North Carolina	2020-03-27			
+37145	county	Person	North Carolina	2020-03-27			
+37171	county	Surry	North Carolina	2020-03-27			
+39149	county	Shelby	Ohio	2020-03-27			
+39051	county	Fulton	Ohio	2020-03-27			
+40023	county	Choctaw	Oklahoma	2020-03-27			
+40015	county	Caddo	Oklahoma	2020-03-27			
+40077	county	Latimer	Oklahoma	2020-03-27			
+40121	county	Pittsburg	Oklahoma	2020-03-27			
+40021	county	Cherokee	Oklahoma	2020-03-27			
+41049	county	Morrow	Oregon	2020-03-27			
+41009	county	Columbia	Oregon	2020-03-27			
+42097	county	Northumberland	Pennsylvania	2020-03-27			
+46049	county	Faulk	South Dakota	2020-03-27			
+46121	county	Todd	South Dakota	2020-03-27			
+46003	county	Aurora	South Dakota	2020-03-27			
+46127	county	Union	South Dakota	2020-03-27			
+46081	county	Lawrence	South Dakota	2020-03-27			
+47159	county	Smith	Tennessee	2020-03-27			
+48503	county	Young	Texas	2020-03-27			
+48419	county	Shelby	Texas	2020-03-27			
+48337	county	Montague	Texas	2020-03-27			
+48441	county	Taylor	Texas	2020-03-27			
+48381	county	Randall	Texas	2020-03-27			
+48349	county	Navarro	Texas	2020-03-27			
+48221	county	Hood	Texas	2020-03-27			
+48073	county	Cherokee	Texas	2020-03-27			
+48203	county	Harrison	Texas	2020-03-27			
+48489	county	Willacy	Texas	2020-03-27			
+48427	county	Starr	Texas	2020-03-27			
+48463	county	Uvalde	Texas	2020-03-27			
+49047	county	Uintah	Utah	2020-03-27			
+51640	county	Galax	Virginia	2020-03-27			
+51520	county	Bristol	Virginia	2020-03-27			
+51770	county	Roanoke	Virginia	2020-03-27			
+53059	county	Skamania	Washington	2020-03-27			
+54073	county	Pleasants	West Virginia	2020-03-27			
+54025	county	Greenbrier	West Virginia	2020-03-27			
+54029	county	Hancock	West Virginia	2020-03-27			
+55103	county	Richland	Wisconsin	2020-03-27			
+55051	county	Iron	Wisconsin	2020-03-27			
+55135	county	Waupaca	Wisconsin	2020-03-27			
+55075	county	Marinette	Wisconsin	2020-03-27			
+56043	county	Washakie	Wyoming	2020-03-27			
+56015	county	Goshen	Wyoming	2020-03-27			
+01099	county	Monroe	Alabama	2020-03-28			
+04007	county	Gila	Arizona	2020-03-28			
+05071	county	Johnson	Arkansas	2020-03-28			
+06021	county	Glenn	California	2020-03-28			
+08009	county	Baca	Colorado	2020-03-28			
+08081	county	Moffat	Colorado	2020-03-28			
+12051	county	Hendry	Florida	2020-03-28			
+13309	county	Wheeler	Georgia	2020-03-28			
+13165	county	Jenkins	Georgia	2020-03-28			
+13297	county	Walton	Georgia	2020-03-28			
+13231	county	Pike	Georgia	2020-03-28			
+13213	county	Murray	Georgia	2020-03-28			
+13031	county	Bulloch	Georgia	2020-03-28			
+16063	county	Lincoln	Idaho	2020-03-28			
+16019	county	Bonneville	Idaho	2020-03-28			
+17051	county	Fayette	Illinois	2020-03-28			
+17015	county	Carroll	Illinois	2020-03-28			
+17115	county	Macon	Illinois	2020-03-28			
+18181	county	White	Indiana	2020-03-28			
+18155	county	Switzerland	Indiana	2020-03-28			
+18025	county	Crawford	Indiana	2020-03-28			
+18111	county	Newton	Indiana	2020-03-28			
+18165	county	Vermillion	Indiana	2020-03-28			
+18169	county	Wabash	Indiana	2020-03-28			
+19107	county	Keokuk	Iowa	2020-03-28			
+19165	county	Shelby	Iowa	2020-03-28			
+19173	county	Taylor	Iowa	2020-03-28			
+19015	county	Boone	Iowa	2020-03-28			
+20121	county	Miami	Kansas	2020-03-28			
+21181	county	Nicholas	Kentucky	2020-03-28			
+21229	county	Washington	Kentucky	2020-03-28			
+21071	county	Floyd	Kentucky	2020-03-28			
+21041	county	Carroll	Kentucky	2020-03-28			
+21027	county	Breckinridge	Kentucky	2020-03-28			
+21031	county	Butler	Kentucky	2020-03-28			
+21023	county	Bracken	Kentucky	2020-03-28			
+21081	county	Grant	Kentucky	2020-03-28			
+21021	county	Boyle	Kentucky	2020-03-28			
+21211	county	Shelby	Kentucky	2020-03-28			
+22041	county	Franklin	Louisiana	2020-03-28			
+22035	county	East Carroll	Louisiana	2020-03-28			
+26133	county	Osceola	Michigan	2020-03-28			
+27029	county	Clearwater	Minnesota	2020-03-28			
+28005	county	Amite	Mississippi	2020-03-28			
+28031	county	Covington	Mississippi	2020-03-28			
+28023	county	Clarke	Mississippi	2020-03-28			
+29181	county	Ripley	Missouri	2020-03-28			
+29219	county	Warren	Missouri	2020-03-28			
+31141	county	Platte	Nebraska	2020-03-28			
+31073	county	Gosper	Nebraska	2020-03-28			
+32013	county	Humboldt	Nevada	2020-03-28			
+36097	county	Schuyler	New York	2020-03-28			
+36009	county	Cattaraugus	New York	2020-03-28			
+37149	county	Polk	North Carolina	2020-03-28			
+37143	county	Perquimans	North Carolina	2020-03-28			
+37065	county	Edgecombe	North Carolina	2020-03-28			
+38003	county	Barnes	North Dakota	2020-03-28			
+38085	county	Sioux	North Dakota	2020-03-28			
+38023	county	Divide	North Dakota	2020-03-28			
+38061	county	Mountrail	North Dakota	2020-03-28			
+38055	county	McLean	North Dakota	2020-03-28			
+39131	county	Pike	Ohio	2020-03-28			
+39003	county	Allen	Ohio	2020-03-28			
+39123	county	Ottawa	Ohio	2020-03-28			
+39161	county	Van Wert	Ohio	2020-03-28			
+39011	county	Auglaize	Ohio	2020-03-28			
+40079	county	Le Flore	Oklahoma	2020-03-28			
+40105	county	Nowata	Oklahoma	2020-03-28			
+42117	county	Tioga	Pennsylvania	2020-03-28			
+42023	county	Cameron	Pennsylvania	2020-03-28			
+42031	county	Clarion	Pennsylvania	2020-03-28			
+42083	county	McKean	Pennsylvania	2020-03-28			
+42099	county	Perry	Pennsylvania	2020-03-28			
+42061	county	Huntingdon	Pennsylvania	2020-03-28			
+42109	county	Snyder	Pennsylvania	2020-03-28			
+45059	county	Laurens	South Carolina	2020-03-28			
+46039	county	Deuel	South Dakota	2020-03-28			
+46067	county	Hutchinson	South Dakota	2020-03-28			
+46057	county	Hamlin	South Dakota	2020-03-28			
+46135	county	Yankton	South Dakota	2020-03-28			
+47069	county	Hardeman	Tennessee	2020-03-28			
+47007	county	Bledsoe	Tennessee	2020-03-28			
+47091	county	Johnson	Tennessee	2020-03-28			
+47019	county	Carter	Tennessee	2020-03-28			
+47129	county	Morgan	Tennessee	2020-03-28			
+47173	county	Union	Tennessee	2020-03-28			
+47183	county	Weakley	Tennessee	2020-03-28			
+47169	county	Trousdale	Tennessee	2020-03-28			
+48279	county	Lamb	Texas	2020-03-28			
+48055	county	Caldwell	Texas	2020-03-28			
+48477	county	Washington	Texas	2020-03-28			
+48051	county	Burleson	Texas	2020-03-28			
+48305	county	Lynn	Texas	2020-03-28			
+49017	county	Garfield	Utah	2020-03-28			
+49037	county	San Juan	Utah	2020-03-28			
+51133	county	Northumberland	Virginia	2020-03-28			
+51103	county	Lancaster	Virginia	2020-03-28			
+51121	county	Montgomery	Virginia	2020-03-28			
+51670	county	Hopewell	Virginia	2020-03-28			
+51127	county	New Kent	Virginia	2020-03-28			
+51145	county	Powhatan	Virginia	2020-03-28			
+55085	county	Oneida	Wisconsin	2020-03-28			
+56035	county	Sublette	Wyoming	2020-03-28			
+56009	county	Converse	Wyoming	2020-03-28			
+01087	county	Macon	Alabama	2020-03-29			
+05003	county	Ashley	Arkansas	2020-03-29			
+05001	county	Arkansas	Arkansas	2020-03-29			
+05057	county	Hempstead	Arkansas	2020-03-29			
+05099	county	Nevada	Arkansas	2020-03-29			
+05105	county	Perry	Arkansas	2020-03-29			
+06109	county	Tuolumne	California	2020-03-29			
+08079	county	Mineral	Colorado	2020-03-29			
+08083	county	Montezuma	Colorado	2020-03-29			
+12043	county	Glades	Florida	2020-03-29			
+12129	county	Wakulla	Florida	2020-03-29			
+13005	county	Bacon	Georgia	2020-03-29			
+13043	county	Candler	Georgia	2020-03-29			
+13027	county	Brooks	Georgia	2020-03-29			
+16073	county	Owyhee	Idaho	2020-03-29			
+17135	county	Montgomery	Illinois	2020-03-29			
+17095	county	Knox	Illinois	2020-03-29			
+17005	county	Bond	Illinois	2020-03-29			
+17129	county	Menard	Illinois	2020-03-29			
+18055	county	Greene	Indiana	2020-03-29			
+18151	county	Steuben	Indiana	2020-03-29			
+18021	county	Clay	Indiana	2020-03-29			
+18083	county	Knox	Indiana	2020-03-29			
+20185	county	Stafford	Kansas	2020-03-29			
+20189	county	Stevens	Kansas	2020-03-29			
+20125	county	Montgomery	Kansas	2020-03-29			
+20055	county	Finney	Kansas	2020-03-29			
+21135	county	Lewis	Kentucky	2020-03-29			
+21217	county	Taylor	Kentucky	2020-03-29			
+21019	county	Boyd	Kentucky	2020-03-29			
+22081	county	Red River	Louisiana	2020-03-29			
+22085	county	Sabine	Louisiana	2020-03-29			
+23025	county	Somerset	Maine	2020-03-29			
+26031	county	Cheboygan	Michigan	2020-03-29			
+27033	county	Cottonwood	Minnesota	2020-03-29			
+27041	county	Douglas	Minnesota	2020-03-29			
+27111	county	Otter Tail	Minnesota	2020-03-29			
+27059	county	Isanti	Minnesota	2020-03-29			
+28021	county	Claiborne	Mississippi	2020-03-29			
+28015	county	Carroll	Mississippi	2020-03-29			
+28149	county	Warren	Mississippi	2020-03-29			
+30023	county	Deer Lodge	Montana	2020-03-29			
+31157	county	Scotts Bluff	Nebraska	2020-03-29			
+36049	county	Lewis	New York	2020-03-29			
+37005	county	Alleghany	North Carolina	2020-03-29			
+37187	county	Washington	North Carolina	2020-03-29			
+37033	county	Caswell	North Carolina	2020-03-29			
+37047	county	Columbus	North Carolina	2020-03-29			
+37137	county	Pamlico	North Carolina	2020-03-29			
+37083	county	Halifax	North Carolina	2020-03-29			
+37053	county	Currituck	North Carolina	2020-03-29			
+37197	county	Yadkin	North Carolina	2020-03-29			
+40133	county	Seminole	Oklahoma	2020-03-29			
+40047	county	Garfield	Oklahoma	2020-03-29			
+40139	county	Texas	Oklahoma	2020-03-29			
+40131	county	Rogers	Oklahoma	2020-03-29			
+42087	county	Mifflin	Pennsylvania	2020-03-29			
+42121	county	Venango	Pennsylvania	2020-03-29			
+46025	county	Clark	South Dakota	2020-03-29			
+46047	county	Fall River	South Dakota	2020-03-29			
+46109	county	Roberts	South Dakota	2020-03-29			
+46125	county	Turner	South Dakota	2020-03-29			
+46027	county	Clay	South Dakota	2020-03-29			
+47109	county	McNairy	Tennessee	2020-03-29			
+47075	county	Haywood	Tennessee	2020-03-29			
+47079	county	Henry	Tennessee	2020-03-29			
+47031	county	Coffee	Tennessee	2020-03-29			
+47131	county	Obion	Tennessee	2020-03-29			
+48373	county	Polk	Texas	2020-03-29			
+48159	county	Franklin	Texas	2020-03-29			
+48407	county	San Jacinto	Texas	2020-03-29			
+48437	county	Swisher	Texas	2020-03-29			
+48213	county	Henderson	Texas	2020-03-29			
+48473	county	Waller	Texas	2020-03-29			
+48273	county	Kleberg	Texas	2020-03-29			
+48115	county	Dawson	Texas	2020-03-29			
+48135	county	Ector	Texas	2020-03-29			
+51081	county	Greensville	Virginia	2020-03-29			
+51197	county	Wythe	Virginia	2020-03-29			
+51005	county	Alleghany	Virginia	2020-03-29			
+51185	county	Tazewell	Virginia	2020-03-29			
+51685	county	Manassas Park	Virginia	2020-03-29			
+51840	county	Winchester	Virginia	2020-03-29			
+54103	county	Wetzel	West Virginia	2020-03-29			
+54065	county	Morgan	West Virginia	2020-03-29			
+54011	county	Cabell	West Virginia	2020-03-29			
+54105	county	Wirt	West Virginia	2020-03-29			
+01057	county	Fayette	Alabama	2020-03-30			
+01119	county	Sumter	Alabama	2020-03-30			
+01007	county	Bibb	Alabama	2020-03-30			
+01065	county	Hale	Alabama	2020-03-30			
+04011	county	Greenlee	Arizona	2020-03-30			
+05123	county	St. Francis	Arkansas	2020-03-30			
+05101	county	Newton	Arkansas	2020-03-30			
+06003	county	Alpine	California	2020-03-30			
+08007	county	Archuleta	Colorado	2020-03-30			
+08095	county	Phillips	Colorado	2020-03-30			
+12059	county	Holmes	Florida	2020-03-30			
+13093	county	Dooly	Georgia	2020-03-30			
+13123	county	Gilmer	Georgia	2020-03-30			
+13301	county	Warren	Georgia	2020-03-30			
+13061	county	Clay	Georgia	2020-03-30			
+13023	county	Bleckley	Georgia	2020-03-30			
+13001	county	Appling	Georgia	2020-03-30			
+13019	county	Berrien	Georgia	2020-03-30			
+13163	county	Jefferson	Georgia	2020-03-30			
+13011	county	Banks	Georgia	2020-03-30			
+13075	county	Cook	Georgia	2020-03-30			
+13249	county	Schley	Georgia	2020-03-30			
+13191	county	McIntosh	Georgia	2020-03-30			
+13083	county	Dade	Georgia	2020-03-30			
+13263	county	Talbot	Georgia	2020-03-30			
+13167	county	Johnson	Georgia	2020-03-30			
+16067	county	Minidoka	Idaho	2020-03-30			
+16039	county	Elmore	Idaho	2020-03-30			
+16017	county	Bonner	Idaho	2020-03-30			
+16053	county	Jerome	Idaho	2020-03-30			
+17023	county	Clark	Illinois	2020-03-30			
+17157	county	Randolph	Illinois	2020-03-30			
+17165	county	Saline	Illinois	2020-03-30			
+17033	county	Crawford	Illinois	2020-03-30			
+17121	county	Marion	Illinois	2020-03-30			
+19047	county	Crawford	Iowa	2020-03-30			
+19097	county	Jackson	Iowa	2020-03-30			
+19177	county	Van Buren	Iowa	2020-03-30			
+19009	county	Audubon	Iowa	2020-03-30			
+19105	county	Jones	Iowa	2020-03-30			
+19077	county	Guthrie	Iowa	2020-03-30			
+20005	county	Atchison	Kansas	2020-03-30			
+20169	county	Saline	Kansas	2020-03-30			
+21157	county	Marshall	Kentucky	2020-03-30			
+21155	county	Marion	Kentucky	2020-03-30			
+26009	county	Antrim	Michigan	2020-03-30			
+26041	county	Delta	Michigan	2020-03-30			
+26061	county	Houghton	Michigan	2020-03-30			
+26149	county	St. Joseph	Michigan	2020-03-30			
+27165	county	Watonwan	Minnesota	2020-03-30			
+27093	county	Meeker	Minnesota	2020-03-30			
+27061	county	Itasca	Minnesota	2020-03-30			
+28003	county	Alcorn	Mississippi	2020-03-30			
+29117	county	Livingston	Missouri	2020-03-30			
+29039	county	Cedar	Missouri	2020-03-30			
+29055	county	Crawford	Missouri	2020-03-30			
+29121	county	Macon	Missouri	2020-03-30			
+29141	county	Morgan	Missouri	2020-03-30			
+29179	county	Reynolds	Missouri	2020-03-30			
+29209	county	Stone	Missouri	2020-03-30			
+29163	county	Pike	Missouri	2020-03-30			
+29125	county	Maries	Missouri	2020-03-30			
+29151	county	Osage	Missouri	2020-03-30			
+29225	county	Webster	Missouri	2020-03-30			
+31185	county	York	Nebraska	2020-03-30			
+31003	county	Antelope	Nebraska	2020-03-30			
+35057	county	Torrance	New Mexico	2020-03-30			
+37161	county	Rutherford	North Carolina	2020-03-30			
+37003	county	Alexander	North Carolina	2020-03-30			
+38065	county	Oliver	North Dakota	2020-03-30			
+38035	county	Grand Forks	North Dakota	2020-03-30			
+39135	county	Preble	Ohio	2020-03-30			
+39075	county	Holmes	Ohio	2020-03-30			
+39141	county	Ross	Ohio	2020-03-30			
+39015	county	Brown	Ohio	2020-03-30			
+40085	county	Love	Oklahoma	2020-03-30			
+40009	county	Beckham	Oklahoma	2020-03-30			
+40033	county	Cotton	Oklahoma	2020-03-30			
+42119	county	Union	Pennsylvania	2020-03-30			
+45011	county	Barnwell	South Carolina	2020-03-30			
+46091	county	Marshall	South Dakota	2020-03-30			
+47181	county	Wayne	Tennessee	2020-03-30			
+47049	county	Fentress	Tennessee	2020-03-30			
+47055	county	Giles	Tennessee	2020-03-30			
+47099	county	Lawrence	Tennessee	2020-03-30			
+47117	county	Marshall	Tennessee	2020-03-30			
+47177	county	Warren	Tennessee	2020-03-30			
+48289	county	Leon	Texas	2020-03-30			
+48217	county	Hill	Texas	2020-03-30			
+48497	county	Wise	Texas	2020-03-30			
+48341	county	Moore	Texas	2020-03-30			
+51173	county	Smyth	Virginia	2020-03-30			
+51089	county	Henry	Virginia	2020-03-30			
+51730	county	Petersburg	Virginia	2020-03-30			
+51101	county	King William	Virginia	2020-03-30			
+54087	county	Roane	West Virginia	2020-03-30			
+54083	county	Randolph	West Virginia	2020-03-30			
+55077	county	Marquette	Wisconsin	2020-03-30			
+55029	county	Door	Wisconsin	2020-03-30			
+55053	county	Jackson	Wisconsin	2020-03-30			
+05127	county	Scott	Arkansas	2020-03-31			
+05091	county	Miller	Arkansas	2020-03-31			
+06063	county	Plumas	California	2020-03-31			
+08065	county	Lake	Colorado	2020-03-31			
+08109	county	Saguache	Colorado	2020-03-31			
+12125	county	Union	Florida	2020-03-31			
+12013	county	Calhoun	Florida	2020-03-31			
+13241	county	Rabun	Georgia	2020-03-31			
+13251	county	Screven	Georgia	2020-03-31			
+13319	county	Wilkinson	Georgia	2020-03-31			
+13107	county	Emanuel	Georgia	2020-03-31			
+13307	county	Webster	Georgia	2020-03-31			
+13131	county	Grady	Georgia	2020-03-31			
+13315	county	Wilcox	Georgia	2020-03-31			
+13221	county	Oglethorpe	Georgia	2020-03-31			
+13295	county	Walker	Georgia	2020-03-31			
+13259	county	Stewart	Georgia	2020-03-31			
+16003	county	Adams	Idaho	2020-03-31			
+16025	county	Camas	Idaho	2020-03-31			
+17053	county	Ford	Illinois	2020-03-31			
+17141	county	Ogle	Illinois	2020-03-31			
+18017	county	Cass	Indiana	2020-03-31			
+18077	county	Jefferson	Indiana	2020-03-31			
+19041	county	Clay	Iowa	2020-03-31			
+20019	county	Chautauqua	Kansas	2020-03-31			
+20009	county	Barton	Kansas	2020-03-31			
+20099	county	Labette	Kansas	2020-03-31			
+21207	county	Russell	Kentucky	2020-03-31			
+21197	county	Powell	Kentucky	2020-03-31			
+21203	county	Rockcastle	Kentucky	2020-03-31			
+21127	county	Lawrence	Kentucky	2020-03-31			
+21061	county	Edmonson	Kentucky	2020-03-31			
+21009	county	Barren	Kentucky	2020-03-31			
+21103	county	Henry	Kentucky	2020-03-31			
+21083	county	Graves	Kentucky	2020-03-31			
+21091	county	Hancock	Kentucky	2020-03-31			
+22091	county	St. Helena	Louisiana	2020-03-31			
+22029	county	Concordia	Louisiana	2020-03-31			
+26135	county	Oscoda	Michigan	2020-03-31			
+26011	county	Arenac	Michigan	2020-03-31			
+26023	county	Branch	Michigan	2020-03-31			
+27155	county	Traverse	Minnesota	2020-03-31			
+27017	county	Carlton	Minnesota	2020-03-31			
+27083	county	Lyon	Minnesota	2020-03-31			
+27015	county	Brown	Minnesota	2020-03-31			
+28141	county	Tishomingo	Mississippi	2020-03-31			
+29081	county	Harrison	Missouri	2020-03-31			
+29186	county	Ste. Genevieve	Missouri	2020-03-31			
+30065	county	Musselshell	Montana	2020-03-31			
+30051	county	Liberty	Montana	2020-03-31			
+31105	county	Kimball	Nebraska	2020-03-31			
+36099	county	Seneca	New York	2020-03-31			
+37117	county	Martin	North Carolina	2020-03-31			
+37043	county	Clay	North Carolina	2020-03-31			
+37007	county	Anson	North Carolina	2020-03-31			
+37157	county	Rockingham	North Carolina	2020-03-31			
+37193	county	Wilkes	North Carolina	2020-03-31			
+38053	county	McKenzie	North Dakota	2020-03-31			
+38037	county	Grant	North Dakota	2020-03-31			
+38105	county	Williams	North Dakota	2020-03-31			
+39127	county	Perry	Ohio	2020-03-31			
+41063	county	Wallowa	Oregon	2020-03-31			
+41045	county	Malheur	Oregon	2020-03-31			
+42009	county	Bedford	Pennsylvania	2020-03-31			
+45009	county	Bamberg	South Carolina	2020-03-31			
+47085	county	Humphreys	Tennessee	2020-03-31			
+51139	county	Page	Virginia	2020-03-31			
+51025	county	Brunswick	Virginia	2020-03-31			
+51035	county	Carroll	Virginia	2020-03-31			
+51029	county	Buckingham	Virginia	2020-03-31			
+51181	county	Surry	Virginia	2020-03-31			
+51031	county	Campbell	Virginia	2020-03-31			
+51097	county	King and Queen	Virginia	2020-03-31			
+51820	county	Waynesboro	Virginia	2020-03-31			
+51620	county	Franklin	Virginia	2020-03-31			
+51043	county	Clarke	Virginia	2020-03-31			
+54031	county	Hardy	West Virginia	2020-03-31			
+55003	county	Ashland	Wisconsin	2020-03-31			
+55011	county	Buffalo	Wisconsin	2020-03-31			
+55083	county	Oconto	Wisconsin	2020-03-31			
+01035	county	Conecuh	Alabama	2020-04-01			
+01025	county	Clarke	Alabama	2020-04-01			
+01045	county	Dale	Alabama	2020-04-01			
+05015	county	Carroll	Arkansas	2020-04-01			
+05077	county	Lee	Arkansas	2020-04-01			
+12045	county	Gulf	Florida	2020-04-01			
+12079	county	Madison	Florida	2020-04-01			
+12093	county	Okeechobee	Florida	2020-04-01			
+12049	county	Hardee	Florida	2020-04-01			
+13291	county	Union	Georgia	2020-04-01			
+13237	county	Putnam	Georgia	2020-04-01			
+13173	county	Lanier	Georgia	2020-04-01			
+16047	county	Gooding	Idaho	2020-04-01			
+16057	county	Latah	Idaho	2020-04-01			
+17183	county	Vermilion	Illinois	2020-04-01			
+17127	county	Massac	Illinois	2020-04-01			
+18075	county	Jay	Indiana	2020-04-01			
+19131	county	Mitchell	Iowa	2020-04-01			
+19121	county	Madison	Iowa	2020-04-01			
+20151	county	Pratt	Kansas	2020-04-01			
+23009	county	Hancock	Maine	2020-04-01			
+24019	county	Dorchester	Maryland	2020-04-01			
+26097	county	Mackinac	Michigan	2020-04-01			
+27173	county	Yellow Medicine	Minnesota	2020-04-01			
+27047	county	Freeborn	Minnesota	2020-04-01			
+27035	county	Crow Wing	Minnesota	2020-04-01			
+28061	county	Jasper	Mississippi	2020-04-01			
+29073	county	Gasconade	Missouri	2020-04-01			
+29025	county	Caldwell	Missouri	2020-04-01			
+29023	county	Butler	Missouri	2020-04-01			
+29063	county	DeKalb	Missouri	2020-04-01			
+30009	county	Carbon	Montana	2020-04-01			
+31039	county	Cuming	Nebraska	2020-04-01			
+35003	county	Catron	New Mexico	2020-04-01			
+35035	county	Otero	New Mexico	2020-04-01			
+35017	county	Grant	New Mexico	2020-04-01			
+38013	county	Burke	North Dakota	2020-04-01			
+39117	county	Morrow	Ohio	2020-04-01			
+40055	county	Greer	Oklahoma	2020-04-01			
+45005	county	Allendale	South Carolina	2020-04-01			
+47081	county	Hickman	Tennessee	2020-04-01			
+47097	county	Lauderdale	Tennessee	2020-04-01			
+47027	county	Clay	Tennessee	2020-04-01			
+47153	county	Sequatchie	Tennessee	2020-04-01			
+47057	county	Grainger	Tennessee	2020-04-01			
+48177	county	Gonzales	Texas	2020-04-01			
+48405	county	San Augustine	Texas	2020-04-01			
+48499	county	Wood	Texas	2020-04-01			
+48089	county	Colorado	Texas	2020-04-01			
+48093	county	Comanche	Texas	2020-04-01			
+48297	county	Live Oak	Texas	2020-04-01			
+48351	county	Newton	Texas	2020-04-01			
+48265	county	Kerr	Texas	2020-04-01			
+48063	county	Camp	Texas	2020-04-01			
+48001	county	Anderson	Texas	2020-04-01			
+48179	county	Gray	Texas	2020-04-01			
+48077	county	Clay	Texas	2020-04-01			
+51183	county	Sussex	Virginia	2020-04-01			
+51015	county	Augusta	Virginia	2020-04-01			
+54001	county	Barbour	West Virginia	2020-04-01			
+55023	county	Crawford	Wisconsin	2020-04-01			
+55078	county	Menominee	Wisconsin	2020-04-01			
+01031	county	Coffee	Alabama	2020-04-02			
+02290	county	Yukon-Koyukuk	Alaska	2020-04-02			
+05095	county	Monroe	Arkansas	2020-04-02			
+05135	county	Sharp	Arkansas	2020-04-02			
+05093	county	Mississippi	Arkansas	2020-04-02			
+05103	county	Ouachita	Arkansas	2020-04-02			
+06015	county	Del Norte	California	2020-04-02			
+08027	county	Custer	Colorado	2020-04-02			
+13271	county	Telfair	Georgia	2020-04-02			
+16087	county	Washington	Idaho	2020-04-02			
+17139	county	Moultrie	Illinois	2020-04-02			
+17147	county	Piatt	Illinois	2020-04-02			
+17131	county	Mercer	Illinois	2020-04-02			
+17107	county	Logan	Illinois	2020-04-02			
+17117	county	Macoupin	Illinois	2020-04-02			
+18147	county	Spencer	Indiana	2020-04-02			
+18009	county	Blackford	Indiana	2020-04-02			
+19141	county	O'Brien	Iowa	2020-04-02			
+19101	county	Jefferson	Iowa	2020-04-02			
+19017	county	Bremer	Iowa	2020-04-02			
+20029	county	Cloud	Kansas	2020-04-02			
+20035	county	Cowley	Kansas	2020-04-02			
+21057	county	Cumberland	Kentucky	2020-04-02			
+21055	county	Crittenden	Kentucky	2020-04-02			
+21191	county	Pendleton	Kentucky	2020-04-02			
+21137	county	Lincoln	Kentucky	2020-04-02			
+21163	county	Meade	Kentucky	2020-04-02			
+21011	county	Bath	Kentucky	2020-04-02			
+22021	county	Caldwell	Louisiana	2020-04-02			
+24001	county	Allegany	Maryland	2020-04-02			
+26043	county	Dickinson	Michigan	2020-04-02			
+27071	county	Koochiching	Minnesota	2020-04-02			
+28153	county	Wayne	Mississippi	2020-04-02			
+29143	county	New Madrid	Missouri	2020-04-02			
+29091	county	Howell	Missouri	2020-04-02			
+31037	county	Colfax	Nebraska	2020-04-02			
+31081	county	Hamilton	Nebraska	2020-04-02			
+31131	county	Otoe	Nebraska	2020-04-02			
+31067	county	Gage	Nebraska	2020-04-02			
+36123	county	Yates	New York	2020-04-02			
+37121	county	Mitchell	North Carolina	2020-04-02			
+37113	county	Macon	North Carolina	2020-04-02			
+37055	county	Dare	North Carolina	2020-04-02			
+37073	county	Gates	North Carolina	2020-04-02			
+37169	county	Stokes	North Carolina	2020-04-02			
+39171	county	Williams	Ohio	2020-04-02			
+39065	county	Hardin	Ohio	2020-04-02			
+39059	county	Guernsey	Ohio	2020-04-02			
+40005	county	Atoka	Oklahoma	2020-04-02			
+40075	county	Kiowa	Oklahoma	2020-04-02			
+40073	county	Kingfisher	Oklahoma	2020-04-02			
+40153	county	Woodward	Oklahoma	2020-04-02			
+42053	county	Forest	Pennsylvania	2020-04-02			
+45049	county	Hampton	South Carolina	2020-04-02			
+45065	county	McCormick	South Carolina	2020-04-02			
+45021	county	Cherokee	South Carolina	2020-04-02			
+46115	county	Spink	South Dakota	2020-04-02			
+46079	county	Lake	South Dakota	2020-04-02			
+47139	county	Polk	Tennessee	2020-04-02			
+47087	county	Jackson	Tennessee	2020-04-02			
+48129	county	Donley	Texas	2020-04-02			
+48241	county	Jasper	Texas	2020-04-02			
+48365	county	Panola	Texas	2020-04-02			
+48287	county	Lee	Texas	2020-04-02			
+48249	county	Jim Wells	Texas	2020-04-02			
+48171	county	Gillespie	Texas	2020-04-02			
+48363	county	Palo Pinto	Texas	2020-04-02			
+48175	county	Goliad	Texas	2020-04-02			
+49025	county	Kane	Utah	2020-04-02			
+51049	county	Cumberland	Virginia	2020-04-02			
+51775	county	Salem	Virginia	2020-04-02			
+53051	county	Pend Oreille	Washington	2020-04-02			
+54071	county	Pendleton	West Virginia	2020-04-02			
+55121	county	Trempealeau	Wisconsin	2020-04-02			
+55001	county	Adams	Wisconsin	2020-04-02			
+56041	county	Uinta	Wyoming	2020-04-02			
+01067	county	Henry	Alabama	2020-04-03			
+01005	county	Barbour	Alabama	2020-04-03			
+02240	county	Southeast Fairbanks	Alaska	2020-04-03			
+05117	county	Prairie	Arkansas	2020-04-03			
+05073	county	Lafayette	Arkansas	2020-04-03			
+06103	county	Tehama	California	2020-04-03			
+08103	county	Rio Blanco	Colorado	2020-04-03			
+08071	county	Las Animas	Colorado	2020-04-03			
+12037	county	Franklin	Florida	2020-04-03			
+13105	county	Elbert	Georgia	2020-04-03			
+13281	county	Towns	Georgia	2020-04-03			
+13197	county	Marion	Georgia	2020-04-03			
+13239	county	Quitman	Georgia	2020-04-03			
+17039	county	De Witt	Illinois	2020-04-03			
+17049	county	Effingham	Illinois	2020-04-03			
+17083	county	Jersey	Illinois	2020-04-03			
+18121	county	Parke	Indiana	2020-04-03			
+19115	county	Louisa	Iowa	2020-04-03			
+19119	county	Lyon	Iowa	2020-04-03			
+19149	county	Plymouth	Iowa	2020-04-03			
+20115	county	Marion	Kansas	2020-04-03			
+20141	county	Osborne	Kansas	2020-04-03			
+23029	county	Washington	Maine	2020-04-03			
+23003	county	Aroostook	Maine	2020-04-03			
+26095	county	Luce	Michigan	2020-04-03			
+29115	county	Linn	Missouri	2020-04-03			
+29045	county	Clark	Missouri	2020-04-03			
+29195	county	Saline	Missouri	2020-04-03			
+30035	county	Glacier	Montana	2020-04-03			
+31121	county	Merrick	Nebraska	2020-04-03			
+33007	county	Coos	New Hampshire	2020-04-03			
+37017	county	Bladen	North Carolina	2020-04-03			
+37041	county	Chowan	North Carolina	2020-04-03			
+37087	county	Haywood	North Carolina	2020-04-03			
+38087	county	Slope	North Dakota	2020-04-03			
+38027	county	Eddy	North Dakota	2020-04-03			
+40093	county	Major	Oklahoma	2020-04-03			
+40089	county	McCurtain	Oklahoma	2020-04-03			
+40053	county	Grant	Oklahoma	2020-04-03			
+41013	county	Crook	Oregon	2020-04-03			
+42035	county	Clinton	Pennsylvania	2020-04-03			
+48281	county	Lampasas	Texas	2020-04-03			
+48449	county	Titus	Texas	2020-04-03			
+49013	county	Duchesne	Utah	2020-04-03			
+49015	county	Emery	Utah	2020-04-03			
+49027	county	Millard	Utah	2020-04-03			
+49019	county	Grand	Utah	2020-04-03			
+49007	county	Carbon	Utah	2020-04-03			
+49023	county	Juab	Utah	2020-04-03			
+51193	county	Westmoreland	Virginia	2020-04-03			
+51033	county	Caroline	Virginia	2020-04-03			
+51595	county	Emporia	Virginia	2020-04-03			
+51159	county	Richmond	Virginia	2020-04-03			
+51530	county	Buena Vista	Virginia	2020-04-03			
+51678	county	Lexington	Virginia	2020-04-03			
+51195	county	Wise	Virginia	2020-04-03			
+51155	county	Pulaski	Virginia	2020-04-03			
+53003	county	Asotin	Washington	2020-04-03			
+54057	county	Mineral	West Virginia	2020-04-03			
+55107	county	Rusk	Wisconsin	2020-04-03			
+55005	county	Barron	Wisconsin	2020-04-03			
+56023	county	Lincoln	Wyoming	2020-04-03			
+05039	county	Dallas	Arkansas	2020-04-04			
+08091	county	Ouray	Colorado	2020-04-04			
+12029	county	Dixie	Florida	2020-04-04			
+12065	county	Jefferson	Florida	2020-04-04			
+13305	county	Wayne	Georgia	2020-04-04			
+16029	county	Caribou	Idaho	2020-04-04			
+17125	county	Mason	Illinois	2020-04-04			
+17079	county	Jasper	Illinois	2020-04-04			
+17149	county	Pike	Illinois	2020-04-04			
+17103	county	Lee	Illinois	2020-04-04			
+18101	county	Martin	Indiana	2020-04-04			
+18161	county	Union	Indiana	2020-04-04			
+19089	county	Howard	Iowa	2020-04-04			
+19111	county	Lee	Iowa	2020-04-04			
+19129	county	Mills	Iowa	2020-04-04			
+19075	county	Grundy	Iowa	2020-04-04			
+20073	county	Greenwood	Kansas	2020-04-04			
+20089	county	Jewell	Kansas	2020-04-04			
+21193	county	Perry	Kentucky	2020-04-04			
+21033	county	Caldwell	Kentucky	2020-04-04			
+21053	county	Clinton	Kentucky	2020-04-04			
+21183	county	Ohio	Kentucky	2020-04-04			
+27119	county	Polk	Minnesota	2020-04-04			
+27085	county	McLeod	Minnesota	2020-04-04			
+29147	county	Nodaway	Missouri	2020-04-04			
+30001	county	Beaverhead	Montana	2020-04-04			
+31031	county	Cherry	Nebraska	2020-04-04			
+35028	county	Los Alamos	New Mexico	2020-04-04			
+35027	county	Lincoln	New Mexico	2020-04-04			
+37009	county	Ashe	North Carolina	2020-04-04			
+37185	county	Warren	North Carolina	2020-04-04			
+39001	county	Adams	Ohio	2020-04-04			
+40141	county	Tillman	Oklahoma	2020-04-04			
+42113	county	Sullivan	Pennsylvania	2020-04-04			
+42131	county	Wyoming	Pennsylvania	2020-04-04			
+47161	county	Stewart	Tennessee	2020-04-04			
+48211	county	Hemphill	Texas	2020-04-04			
+48455	county	Trinity	Texas	2020-04-04			
+48457	county	Tyler	Texas	2020-04-04			
+48319	county	Mason	Texas	2020-04-04			
+48003	county	Andrews	Texas	2020-04-04			
+48233	county	Hutchinson	Texas	2020-04-04			
+51037	county	Charlotte	Virginia	2020-04-04			
+51790	county	Staunton	Virginia	2020-04-04			
+53069	county	Wahkiakum	Washington	2020-04-04			
+55071	county	Manitowoc	Wisconsin	2020-04-04			
+55115	county	Shawano	Wisconsin	2020-04-04			
+56011	county	Crook	Wyoming	2020-04-04			
+05107	county	Phillips	Arkansas	2020-04-05			
+05149	county	Yell	Arkansas	2020-04-05			
+13079	county	Crawford	Georgia	2020-04-05			
+17059	county	Gallatin	Illinois	2020-04-05			
+17007	county	Boone	Illinois	2020-04-05			
+17013	county	Calhoun	Illinois	2020-04-05			
+18027	county	Daviess	Indiana	2020-04-05			
+19039	county	Clarke	Iowa	2020-04-05			
+19079	county	Hamilton	Iowa	2020-04-05			
+20157	county	Republic	Kansas	2020-04-05			
+20061	county	Geary	Kansas	2020-04-05			
+20197	county	Wabaunsee	Kansas	2020-04-05			
+21195	county	Pike	Kentucky	2020-04-05			
+21001	county	Adair	Kentucky	2020-04-05			
+21115	county	Johnson	Kentucky	2020-04-05			
+21133	county	Letcher	Kentucky	2020-04-05			
+21171	county	Monroe	Kentucky	2020-04-05			
+21131	county	Leslie	Kentucky	2020-04-05			
+21043	county	Carter	Kentucky	2020-04-05			
+21089	county	Greenup	Kentucky	2020-04-05			
+21149	county	McLean	Kentucky	2020-04-05			
+27117	county	Pipestone	Minnesota	2020-04-05			
+27055	county	Houston	Minnesota	2020-04-05			
+28131	county	Stone	Mississippi	2020-04-05			
+31137	county	Phelps	Nebraska	2020-04-05			
+31097	county	Johnson	Nebraska	2020-04-05			
+31159	county	Seward	Nebraska	2020-04-05			
+37141	county	Pender	North Carolina	2020-04-05			
+38029	county	Emmons	North Dakota	2020-04-05			
+39111	county	Monroe	Ohio	2020-04-05			
+41055	county	Sherman	Oregon	2020-04-05			
+42057	county	Fulton	Pennsylvania	2020-04-05			
+47077	county	Henderson	Tennessee	2020-04-05			
+48007	county	Aransas	Texas	2020-04-05			
+55037	county	Florence	Wisconsin	2020-04-05			
+02195	county	Petersburg	Alaska	2020-04-06			
+05083	county	Logan	Arkansas	2020-04-06			
+05065	county	Izard	Arkansas	2020-04-06			
+05021	county	Clay	Arkansas	2020-04-06			
+05047	county	Franklin	Arkansas	2020-04-06			
+06033	county	Lake	California	2020-04-06			
+12047	county	Hamilton	Florida	2020-04-06			
+13161	county	Jeff Davis	Georgia	2020-04-06			
+13025	county	Brantley	Georgia	2020-04-06			
+13003	county	Atkinson	Georgia	2020-04-06			
+13283	county	Treutlen	Georgia	2020-04-06			
+13101	county	Echols	Georgia	2020-04-06			
+17185	county	Wabash	Illinois	2020-04-06			
+17081	county	Jefferson	Illinois	2020-04-06			
+18131	county	Pulaski	Indiana	2020-04-06			
+19189	county	Winnebago	Iowa	2020-04-06			
+19037	county	Chickasaw	Iowa	2020-04-06			
+19069	county	Franklin	Iowa	2020-04-06			
+19125	county	Marion	Iowa	2020-04-06			
+20129	county	Morton	Kansas	2020-04-06			
+22123	county	West Carroll	Louisiana	2020-04-06			
+26141	county	Presque Isle	Michigan	2020-04-06			
+27127	county	Redwood	Minnesota	2020-04-06			
+27101	county	Murray	Minnesota	2020-04-06			
+28041	county	Greene	Mississippi	2020-04-06			
+29123	county	Madison	Missouri	2020-04-06			
+29075	county	Gentry	Missouri	2020-04-06			
+29227	county	Worth	Missouri	2020-04-06			
+29161	county	Phelps	Missouri	2020-04-06			
+31041	county	Custer	Nebraska	2020-04-06			
+31033	county	Cheyenne	Nebraska	2020-04-06			
+31167	county	Stanton	Nebraska	2020-04-06			
+39137	county	Putnam	Ohio	2020-04-06			
+39115	county	Morgan	Ohio	2020-04-06			
+39125	county	Paulding	Ohio	2020-04-06			
+39145	county	Scioto	Ohio	2020-04-06			
+40067	county	Jefferson	Oklahoma	2020-04-06			
+41015	county	Curry	Oregon	2020-04-06			
+48371	county	Pecos	Texas	2020-04-06			
+48505	county	Zapata	Texas	2020-04-06			
+51167	county	Russell	Virginia	2020-04-06			
+51071	county	Giles	Virginia	2020-04-06			
+51011	county	Appomattox	Virginia	2020-04-06			
+54041	county	Lewis	West Virginia	2020-04-06			
+54091	county	Taylor	West Virginia	2020-04-06			
+55137	county	Waushara	Wisconsin	2020-04-06			
+55061	county	Kewaunee	Wisconsin	2020-04-06			
+02050	county	Bethel	Alaska	2020-04-07			
+12123	county	Taylor	Florida	2020-04-07			
+12041	county	Gilchrist	Florida	2020-04-07			
+13141	county	Hancock	Georgia	2020-04-07			
+16077	county	Power	Idaho	2020-04-07			
+17101	county	Lawrence	Illinois	2020-04-07			
+17173	county	Shelby	Illinois	2020-04-07			
+17159	county	Richland	Illinois	2020-04-07			
+17029	county	Coles	Illinois	2020-04-07			
+19055	county	Delaware	Iowa	2020-04-07			
+19073	county	Greene	Iowa	2020-04-07			
+19021	county	Buena Vista	Iowa	2020-04-07			
+20171	county	Scott	Kansas	2020-04-07			
+20163	county	Rooks	Kansas	2020-04-07			
+20007	county	Barber	Kansas	2020-04-07			
+20175	county	Seward	Kansas	2020-04-07			
+21219	county	Todd	Kentucky	2020-04-07			
+21099	county	Hart	Kentucky	2020-04-07			
+21087	county	Green	Kentucky	2020-04-07			
+22023	county	Cameron	Louisiana	2020-04-07			
+26105	county	Mason	Michigan	2020-04-07			
+27135	county	Roseau	Minnesota	2020-04-07			
+27151	county	Swift	Minnesota	2020-04-07			
+29149	county	Oregon	Missouri	2020-04-07			
+29199	county	Scotland	Missouri	2020-04-07			
+29089	county	Howard	Missouri	2020-04-07			
+29059	county	Dallas	Missouri	2020-04-07			
+29167	county	Polk	Missouri	2020-04-07			
+37153	county	Richmond	North Carolina	2020-04-07			
+38011	county	Bowman	North Dakota	2020-04-07			
+39105	county	Meigs	Ohio	2020-04-07			
+40043	county	Dewey	Oklahoma	2020-04-07			
+40007	county	Beaver	Oklahoma	2020-04-07			
+40095	county	Marshall	Oklahoma	2020-04-07			
+42065	county	Jefferson	Pennsylvania	2020-04-07			
+42047	county	Elk	Pennsylvania	2020-04-07			
+48275	county	Knox	Texas	2020-04-07			
+48195	county	Hansford	Texas	2020-04-07			
+48193	county	Hamilton	Texas	2020-04-07			
+48111	county	Dallam	Texas	2020-04-07			
+48335	county	Mitchell	Texas	2020-04-07			
+48059	county	Callahan	Texas	2020-04-07			
+48107	county	Crosby	Texas	2020-04-07			
+50013	county	Grand Isle	Vermont	2020-04-07			
+51111	county	Lunenburg	Virginia	2020-04-07			
+51027	county	Buchanan	Virginia	2020-04-07			
+51053	county	Dinwiddie	Virginia	2020-04-07			
+51045	county	Craig	Virginia	2020-04-07			
+51157	county	Rappahannock	Virginia	2020-04-07			
+54095	county	Tyler	West Virginia	2020-04-07			
+54047	county	McDowell	West Virginia	2020-04-07			
+54109	county	Wyoming	West Virginia	2020-04-07			
+54067	county	Nicholas	West Virginia	2020-04-07			
+54019	county	Fayette	West Virginia	2020-04-07			
+54009	county	Brooke	West Virginia	2020-04-07			
+55065	county	Lafayette	Wisconsin	2020-04-07			
+05087	county	Madison	Arkansas	2020-04-08			
+12067	county	Lafayette	Florida	2020-04-08			
+17067	county	Hancock	Illinois	2020-04-08			
+17175	county	Stark	Illinois	2020-04-08			
+19195	county	Worth	Iowa	2020-04-08			
+21109	county	Jackson	Kentucky	2020-04-08			
+21235	county	Whitley	Kentucky	2020-04-08			
+21007	county	Ballard	Kentucky	2020-04-08			
+26153	county	Schoolcraft	Michigan	2020-04-08			
+27115	county	Pine	Minnesota	2020-04-08			
+29221	county	Washington	Missouri	2020-04-08			
+30083	county	Richland	Montana	2020-04-08			
+38093	county	Stutsman	North Dakota	2020-04-08			
+39069	county	Henry	Ohio	2020-04-08			
+39079	county	Jackson	Ohio	2020-04-08			
+46102	county	Oglala Lakota	South Dakota	2020-04-08			
+47039	county	Decatur	Tennessee	2020-04-08			
+48119	county	Delta	Texas	2020-04-08			
+48125	county	Dickens	Texas	2020-04-08			
+48153	county	Floyd	Texas	2020-04-08			
+48253	county	Jones	Texas	2020-04-08			
+48025	county	Bee	Texas	2020-04-08			
+48163	county	Frio	Texas	2020-04-08			
+50009	county	Essex	Vermont	2020-04-08			
+54007	county	Braxton	West Virginia	2020-04-08			
+54005	county	Boone	West Virginia	2020-04-08			
+54027	county	Hampshire	West Virginia	2020-04-08			
+01105	county	Perry	Alabama	2020-04-09			
+08099	county	Prowers	Colorado	2020-04-09			
+08047	county	Gilpin	Colorado	2020-04-09			
+17169	county	Schuyler	Illinois	2020-04-09			
+17153	county	Pulaski	Illinois	2020-04-09			
+21121	county	Knox	Kentucky	2020-04-09			
+28065	county	Jefferson Davis	Mississippi	2020-04-09			
+29217	county	Vernon	Missouri	2020-04-09			
+29185	county	St. Clair	Missouri	2020-04-09			
+30095	county	Stillwater	Montana	2020-04-09			
+31021	county	Burt	Nebraska	2020-04-09			
+31143	county	Polk	Nebraska	2020-04-09			
+32033	county	White Pine	Nevada	2020-04-09			
+35007	county	Colfax	New Mexico	2020-04-09			
+37103	county	Jones	North Carolina	2020-04-09			
+38077	county	Richland	North Dakota	2020-04-09			
+39121	county	Noble	Ohio	2020-04-09			
+46031	county	Corson	South Dakota	2020-04-09			
+46073	county	Jerauld	South Dakota	2020-04-09			
+48403	county	Sabine	Texas	2020-04-09			
+48307	county	McCulloch	Texas	2020-04-09			
+48237	county	Jack	Texas	2020-04-09			
+48313	county	Madison	Texas	2020-04-09			
+48019	county	Bandera	Texas	2020-04-09			
+48415	county	Scurry	Texas	2020-04-09			
+51063	county	Floyd	Virginia	2020-04-09			
+51119	county	Middlesex	Virginia	2020-04-09			
+54099	county	Wayne	West Virginia	2020-04-09			
+55113	county	Sawyer	Wisconsin	2020-04-09			
+05089	county	Marion	Arkansas	2020-04-10			
+12077	county	Liberty	Florida	2020-04-10			
+17061	county	Greene	Illinois	2020-04-10			
+17057	county	Fulton	Illinois	2020-04-10			
+18123	county	Perry	Indiana	2020-04-10			
+19143	county	Osceola	Iowa	2020-04-10			
+19175	county	Union	Iowa	2020-04-10			
+21223	county	Trimble	Kentucky	2020-04-10			
+26109	county	Menominee	Michigan	2020-04-10			
+27105	county	Nobles	Minnesota	2020-04-10			
+30003	county	Big Horn	Montana	2020-04-10			
+31181	county	Webster	Nebraska	2020-04-10			
+31061	county	Franklin	Nebraska	2020-04-10			
+31035	county	Clay	Nebraska	2020-04-10			
+35029	county	Luna	New Mexico	2020-04-10			
+38081	county	Sargent	North Dakota	2020-04-10			
+40107	county	Okfuskee	Oklahoma	2020-04-10			
+40099	county	Murray	Oklahoma	2020-04-10			
+46097	county	Miner	South Dakota	2020-04-10			
+48095	county	Concho	Texas	2020-04-10			
+48495	county	Winkler	Texas	2020-04-10			
+48429	county	Stephens	Texas	2020-04-10			
+48379	county	Rains	Texas	2020-04-10			
+48227	county	Howard	Texas	2020-04-10			
+48097	county	Cooke	Texas	2020-04-10			
+51169	county	Scott	Virginia	2020-04-10			
+51570	county	Colonial Heights	Virginia	2020-04-10			
+51600	county	Fairfax	Virginia	2020-04-10			
+53049	county	Pacific	Washington	2020-04-10			
+55095	county	Polk	Wisconsin	2020-04-10			
+56027	county	Niobrara	Wyoming	2020-04-10			
+02198	county	Prince of Wales-Hyder	Alaska	2020-04-11			
+13209	county	Montgomery	Georgia	2020-04-11			
+17187	county	Warren	Illinois	2020-04-11			
+17145	county	Perry	Illinois	2020-04-11			
+17109	county	McDonough	Illinois	2020-04-11			
+20147	county	Phillips	Kansas	2020-04-11			
+20075	county	Hamilton	Kansas	2020-04-11			
+20051	county	Ellis	Kansas	2020-04-11			
+21119	county	Knott	Kentucky	2020-04-11			
+21069	county	Fleming	Kentucky	2020-04-11			
+21205	county	Rowan	Kentucky	2020-04-11			
+21077	county	Gallatin	Kentucky	2020-04-11			
+22107	county	Tensas	Louisiana	2020-04-11			
+26085	county	Lake	Michigan	2020-04-11			
+26007	county	Alpena	Michigan	2020-04-11			
+27005	county	Becker	Minnesota	2020-04-11			
+29093	county	Iron	Missouri	2020-04-11			
+29003	county	Andrew	Missouri	2020-04-11			
+30037	county	Golden Valley	Montana	2020-04-11			
+31179	county	Wayne	Nebraska	2020-04-11			
+31013	county	Box Butte	Nebraska	2020-04-11			
+31139	county	Pierce	Nebraska	2020-04-11			
+35037	county	Quay	New Mexico	2020-04-11			
+38079	county	Rolette	North Dakota	2020-04-11			
+39073	county	Hocking	Ohio	2020-04-11			
+41011	county	Coos	Oregon	2020-04-11			
+46111	county	Sanborn	South Dakota	2020-04-11			
+48127	county	Dimmit	Texas	2020-04-11			
+54089	county	Summers	West Virginia	2020-04-11			
+54063	county	Monroe	West Virginia	2020-04-11			
+55099	county	Price	Wisconsin	2020-04-11			
+01061	county	Geneva	Alabama	2020-04-12			
+13109	county	Evans	Georgia	2020-04-12			
+18125	county	Pike	Indiana	2020-04-12			
+18007	county	Benton	Indiana	2020-04-12			
+20187	county	Stanton	Kansas	2020-04-12			
+20093	county	Kearny	Kansas	2020-04-12			
+21175	county	Morgan	Kentucky	2020-04-12			
+21189	county	Owsley	Kentucky	2020-04-12			
+21221	county	Trigg	Kentucky	2020-04-12			
+27153	county	Todd	Minnesota	2020-04-12			
+27125	county	Red Lake	Minnesota	2020-04-12			
+27133	county	Rock	Minnesota	2020-04-12			
+31043	county	Dakota	Nebraska	2020-04-12			
+46129	county	Walworth	South Dakota	2020-04-12			
+46119	county	Sully	South Dakota	2020-04-12			
+54059	county	Mingo	West Virginia	2020-04-12			
+54023	county	Grant	West Virginia	2020-04-12			
+56003	county	Big Horn	Wyoming	2020-04-12			
+05067	county	Jackson	Arkansas	2020-04-13			
+17087	county	Johnson	Illinois	2020-04-13			
+19029	county	Cass	Iowa	2020-04-13			
+26119	county	Montmorency	Michigan	2020-04-13			
+32001	county	Churchill	Nevada	2020-04-13			
+37099	county	Jackson	North Carolina	2020-04-13			
+40003	county	Alfalfa	Oklahoma	2020-04-13			
+46069	county	Hyde	South Dakota	2020-04-13			
+47095	county	Lake	Tennessee	2020-04-13			
+47175	county	Van Buren	Tennessee	2020-04-13			
+48345	county	Motley	Texas	2020-04-13			
+51610	county	Falls Church	Virginia	2020-04-13			
+55047	county	Green Lake	Wisconsin	2020-04-13			
+17025	county	Clay	Illinois	2020-04-14			
+20041	county	Dickinson	Kansas	2020-04-14			
+21079	county	Garrard	Kentucky	2020-04-14			
+21045	county	Casey	Kentucky	2020-04-14			
+21139	county	Livingston	Kentucky	2020-04-14			
+31151	county	Saline	Nebraska	2020-04-14			
+37177	county	Tyrrell	North Carolina	2020-04-14			
+40069	county	Johnston	Oklahoma	2020-04-14			
+41031	county	Jefferson	Oregon	2020-04-14			
+48131	county	Duval	Texas	2020-04-14			
+48011	county	Armstrong	Texas	2020-04-14			
+48487	county	Wilbarger	Texas	2020-04-14			
+54043	county	Lincoln	West Virginia	2020-04-14			
+55129	county	Washburn	Wisconsin	2020-04-14			
+02180	county	Nome	Alaska	2020-04-15			
+17181	county	Union	Illinois	2020-04-15			
+20183	county	Smith	Kansas	2020-04-15			
+26001	county	Alcona	Michigan	2020-04-15			
+27107	county	Norman	Minnesota	2020-04-15			
+29061	county	Daviess	Missouri	2020-04-15			
+29087	county	Holt	Missouri	2020-04-15			
+29131	county	Miller	Missouri	2020-04-15			
+30073	county	Pondera	Montana	2020-04-15			
+31123	county	Morrill	Nebraska	2020-04-15			
+39067	county	Harrison	Ohio	2020-04-15			
+47127	county	Moore	Tennessee	2020-04-15			
+48035	county	Bosque	Texas	2020-04-15			
+48161	county	Freestone	Texas	2020-04-15			
+49041	county	Sevier	Utah	2020-04-15			
+02150	county	Kodiak Island	Alaska	2020-04-16			
+17003	county	Alexander	Illinois	2020-04-16			
+26013	county	Baraga	Michigan	2020-04-16			
+27095	county	Mille Lacs	Minnesota	2020-04-16			
+31125	county	Nance	Nebraska	2020-04-16			
+31093	county	Howard	Nebraska	2020-04-16			
+46101	county	Moody	South Dakota	2020-04-16			
+48387	county	Red River	Texas	2020-04-16			
+48421	county	Sherman	Texas	2020-04-16			
+48315	county	Marion	Texas	2020-04-16			
+48283	county	La Salle	Texas	2020-04-16			
+48393	county	Roberts	Texas	2020-04-16			
+51057	county	Essex	Virginia	2020-04-16			
+17191	county	Wayne	Illinois	2020-04-17			
+17071	county	Henderson	Illinois	2020-04-17			
+20181	county	Sherman	Kansas	2020-04-17			
+20205	county	Wilson	Kansas	2020-04-17			
+20017	county	Chase	Kansas	2020-04-17			
+27001	county	Aitkin	Minnesota	2020-04-17			
+31023	county	Butler	Nebraska	2020-04-17			
+31145	county	Red Willow	Nebraska	2020-04-17			
+40151	county	Woods	Oklahoma	2020-04-17			
+40061	county	Haskell	Oklahoma	2020-04-17			
+40091	county	McIntosh	Oklahoma	2020-04-17			
+47143	county	Rhea	Tennessee	2020-04-17			
+48507	county	Zavala	Texas	2020-04-17			
+17065	county	Hamilton	Illinois	2020-04-18			
+26019	county	Benzie	Michigan	2020-04-18			
+27069	county	Kittson	Minnesota	2020-04-18			
+29127	county	Marion	Missouri	2020-04-18			
+29111	county	Lewis	Missouri	2020-04-18			
+31065	county	Furnas	Nebraska	2020-04-18			
+32021	county	Mineral	Nevada	2020-04-18			
+35019	county	Guadalupe	New Mexico	2020-04-18			
+40059	county	Harper	Oklahoma	2020-04-18			
+47033	county	Crockett	Tennessee	2020-04-18			
+48501	county	Yoakum	Texas	2020-04-18			
+48065	county	Carson	Texas	2020-04-18			
+49039	county	Sanpete	Utah	2020-04-18			
+20179	county	Sheridan	Kansas	2020-04-19			
+21075	county	Fulton	Kentucky	2020-04-19			
+21051	county	Clay	Kentucky	2020-04-19			
+23021	county	Piscataquis	Maine	2020-04-19			
+27097	county	Morrison	Minnesota	2020-04-19			
+27089	county	Marshall	Minnesota	2020-04-19			
+29007	county	Audrain	Missouri	2020-04-19			
+38063	county	Nelson	North Dakota	2020-04-19			
+48225	county	Houston	Texas	2020-04-19			
+48075	county	Childress	Texas	2020-04-19			
+48369	county	Parmer	Texas	2020-04-19			
+17017	county	Cass	Illinois	2020-04-20			
+17193	county	White	Illinois	2020-04-20			
+20081	county	Haskell	Kansas	2020-04-20			
+27023	county	Chippewa	Minnesota	2020-04-20			
+31051	county	Dixon	Nebraska	2020-04-20			
+48205	county	Hartley	Texas	2020-04-20			
+17069	county	Hardin	Illinois	2020-04-21			
+19035	county	Cherokee	Iowa	2020-04-21			
+19091	county	Humboldt	Iowa	2020-04-21			
+21105	county	Hickman	Kentucky	2020-04-21			
+27113	county	Pennington	Minnesota	2020-04-21			
+32015	county	Lander	Nevada	2020-04-21			
+40025	county	Cimarron	Oklahoma	2020-04-21			
+51141	county	Patrick	Virginia	2020-04-21			
+51720	county	Norton	Virginia	2020-04-21			
+20047	county	Edwards	Kansas	2020-04-22			
+29033	county	Carroll	Missouri	2020-04-22			
+29133	county	Mississippi	Missouri	2020-04-22			
+31059	county	Fillmore	Nebraska	2020-04-22			
+38103	county	Wells	North Dakota	2020-04-22			
+48047	county	Brooks	Texas	2020-04-22			
+48483	county	Wheeler	Texas	2020-04-22			
+51091	county	Highland	Virginia	2020-04-22			
+05049	county	Fulton	Arkansas	2020-04-23			
+20025	county	Clark	Kansas	2020-04-23			
+20097	county	Kiowa	Kansas	2020-04-23			
+20159	county	Rice	Kansas	2020-04-23			
+20069	county	Gray	Kansas	2020-04-23			
+21039	county	Carlisle	Kentucky	2020-04-23			
+31163	county	Sherman	Nebraska	2020-04-23			
+31077	county	Greeley	Nebraska	2020-04-23			
+35021	county	Harding	New Mexico	2020-04-23			
+48079	county	Cochran	Texas	2020-04-23			
+48247	county	Jim Hogg	Texas	2020-04-23			
+20067	county	Grant	Kansas	2020-04-24			
+20119	county	Meade	Kansas	2020-04-24			
+30107	county	Wheatland	Montana	2020-04-24			
+46117	county	Stanley	South Dakota	2020-04-24			
+48357	county	Ochiltree	Texas	2020-04-24			
+48353	county	Nolan	Texas	2020-04-24			
+55123	county	Vernon	Wisconsin	2020-04-24			
+16059	county	Lemhi	Idaho	2020-04-25			
+31173	county	Thurston	Nebraska	2020-04-25			
+35059	county	Union	New Mexico	2020-04-25			
+37115	county	Madison	North Carolina	2020-04-25			
+38067	county	Pembina	North Dakota	2020-04-25			
+46089	county	McPherson	South Dakota	2020-04-25			
+54021	county	Gilmer	West Virginia	2020-04-25			
+02220	county	Sitka	Alaska	2020-04-26			
+31095	county	Jefferson	Nebraska	2020-04-26			
+38073	county	Ransom	North Dakota	2020-04-26			
+46059	county	Hand	South Dakota	2020-04-26			
+54013	county	Calhoun	West Virginia	2020-04-26			
+19151	county	Pocahontas	Iowa	2020-04-27			
+31175	county	Valley	Nebraska	2020-04-27			
+31027	county	Cedar	Nebraska	2020-04-27			
+37029	county	Camden	North Carolina	2020-04-27			
+40127	county	Pushmataha	Oklahoma	2020-04-27			
+46043	county	Douglas	South Dakota	2020-04-27			
+48101	county	Cottle	Texas	2020-04-27			
+54075	county	Pocahontas	West Virginia	2020-04-27			
+05097	county	Montgomery	Arkansas	2020-04-28			
+06043	county	Mariposa	California	2020-04-28			
+20131	county	Nemaha	Kansas	2020-04-28			
+21187	county	Owen	Kentucky	2020-04-28			
+21169	county	Metcalfe	Kentucky	2020-04-28			
+27159	county	Wadena	Minnesota	2020-04-28			
+37075	county	Graham	North Carolina	2020-04-28			
+39163	county	Vinton	Ohio	2020-04-28			
+41025	county	Harney	Oregon	2020-04-28			
+46017	county	Buffalo	South Dakota	2020-04-28			
+48399	county	Runnels	Texas	2020-04-28			
+48295	county	Lipscomb	Texas	2020-04-28			
+51077	county	Grayson	Virginia	2020-04-28			
+51690	county	Martinsville	Virginia	2020-04-28			
+19051	county	Davis	Iowa	2020-04-29			
+20023	county	Cheyenne	Kansas	2020-04-29			
+31063	county	Frontier	Nebraska	2020-04-29			
+35051	county	Sierra	New Mexico	2020-04-29			
+37095	county	Hyde	North Carolina	2020-04-29			
+37173	county	Swain	North Carolina	2020-04-29			
+46037	county	Day	South Dakota	2020-04-29			
+20077	county	Harper	Kansas	2020-04-30			
+31087	county	Hitchcock	Nebraska	2020-04-30			
+48173	county	Glasscock	Texas	2020-04-30			
+48169	county	Garza	Texas	2020-04-30			
+17009	county	Brown	Illinois	2020-05-01			
+19185	county	Wayne	Iowa	2020-05-01			
+19067	county	Floyd	Iowa	2020-05-01			
+19025	county	Calhoun	Iowa	2020-05-01			
+19161	county	Sac	Iowa	2020-05-01			
+20137	county	Norton	Kansas	2020-05-01			
+27065	county	Kanabec	Minnesota	2020-05-01			
+38075	county	Renville	North Dakota	2020-05-01			
+48043	county	Brewster	Texas	2020-05-01			
+55069	county	Lincoln	Wisconsin	2020-05-01			
+27051	county	Grant	Minnesota	2020-05-02			
+31101	county	Keith	Nebraska	2020-05-02			
+48045	county	Briscoe	Texas	2020-05-02			
+48083	county	Coleman	Texas	2020-05-02			
+13265	county	Taliaferro	Georgia	2020-05-03			
+19135	county	Monroe	Iowa	2020-05-03			
+29109	county	Lawrence	Missouri	2020-05-03			
+29211	county	Sullivan	Missouri	2020-05-03			
+31089	county	Holt	Nebraska	2020-05-03			
+37199	county	Yancey	North Carolina	2020-05-03			
+54085	county	Ritchie	West Virginia	2020-05-03			
+20013	county	Brown	Kansas	2020-05-04			
+20053	county	Ellsworth	Kansas	2020-05-04			
+31011	county	Boone	Nebraska	2020-05-04			
+40011	county	Blaine	Oklahoma	2020-05-04			
+48391	county	Refugio	Texas	2020-05-04			
+27121	county	Pope	Minnesota	2020-05-05			
+38057	county	Mercer	North Dakota	2020-05-05			
+48087	county	Collingsworth	Texas	2020-05-05			
+48081	county	Coke	Texas	2020-05-05			
+48017	county	Bailey	Texas	2020-05-05			
+08111	county	San Juan	Colorado	2020-05-06			
+31171	county	Thomas	Nebraska	2020-05-06			
+41001	county	Baker	Oregon	2020-05-06			
+46137	county	Ziebach	South Dakota	2020-05-06			
+46051	county	Grant	South Dakota	2020-05-06			
+54015	county	Clay	West Virginia	2020-05-06			
+55041	county	Forest	Wisconsin	2020-05-06			
+02261	county	Valdez-Cordova	Alaska	2020-05-07			
+08021	county	Conejos	Colorado	2020-05-07			
+08017	county	Cheyenne	Colorado	2020-05-07			
+13125	county	Glascock	Georgia	2020-05-07			
+21095	county	Harlan	Kentucky	2020-05-07			
+27075	county	Lake	Minnesota	2020-05-07			
+38005	county	Benson	North Dakota	2020-05-07			
+38097	county	Traill	North Dakota	2020-05-07			
+48417	county	Shackelford	Texas	2020-05-07			
+49031	county	Piute	Utah	2020-05-07			
+17151	county	Pope	Illinois	2020-05-08			
+19071	county	Fremont	Iowa	2020-05-08			
+19147	county	Palo Alto	Iowa	2020-05-08			
+32017	county	Lincoln	Nevada	2020-05-08			
+48267	county	Kimble	Texas	2020-05-08			
+48389	county	Reeves	Texas	2020-05-08			
+20003	county	Anderson	Kansas	2020-05-09			
+29105	county	Laclede	Missouri	2020-05-09			
+31045	county	Dawes	Nebraska	2020-05-09			
+51580	county	Covington	Virginia	2020-05-09			
+06105	county	Trinity	California	2020-05-10			
+08011	county	Bent	Colorado	2020-05-10			
+47137	county	Pickett	Tennessee	2020-05-10			
+19093	county	Ida	Iowa	2020-05-12			
+17047	county	Edwards	Illinois	2020-05-13			
+19063	county	Emmet	Iowa	2020-05-13			
+31147	county	Richardson	Nebraska	2020-05-13			
+40149	county	Washita	Oklahoma	2020-05-14			
+46123	county	Tripp	South Dakota	2020-05-14			
+55013	county	Burnett	Wisconsin	2020-05-14			
+55091	county	Pepin	Wisconsin	2020-05-14			
+29065	county	Dent	Missouri	2020-05-15			
+48151	county	Fisher	Texas	2020-05-15			
+48207	county	Haskell	Texas	2020-05-15			
+48009	county	Archer	Texas	2020-05-15			
+05081	county	Little River	Arkansas	2020-05-16			
+17155	county	Putnam	Illinois	2020-05-16			
+21153	county	Magoffin	Kentucky	2020-05-16			
+29197	county	Schuyler	Missouri	2020-05-16			
+31129	county	Nuckolls	Nebraska	2020-05-16			
+19117	county	Lucas	Iowa	2020-05-17			
+19003	county	Adams	Iowa	2020-05-17			
+38091	county	Steele	North Dakota	2020-05-17			
+20135	county	Ness	Kansas	2020-05-18			
+21013	county	Bell	Kentucky	2020-05-18			
+32029	county	Storey	Nevada	2020-05-18			
+35023	county	Hidalgo	New Mexico	2020-05-18			
+19159	county	Ringgold	Iowa	2020-05-19			
+21237	county	Wolfe	Kentucky	2020-05-19			
+37011	county	Avery	North Carolina	2020-05-19			
+38009	county	Bottineau	North Dakota	2020-05-19			
+40029	county	Coal	Oklahoma	2020-05-19			
+47067	county	Hancock	Tennessee	2020-05-19			
+48411	county	San Saba	Texas	2020-05-19			
+48333	county	Mills	Texas	2020-05-19			
+02188	county	Northwest Arctic	Alaska	2020-05-20			
+21063	county	Elliott	Kentucky	2020-05-20			
+48191	county	Hall	Texas	2020-05-20			
+55119	county	Taylor	Wisconsin	2020-05-21			
+55067	county	Langlade	Wisconsin	2020-05-21			
+56031	county	Platte	Wyoming	2020-05-21			
+06091	county	Sierra	California	2020-05-22			
+20033	county	Comanche	Kansas	2020-05-22			
+20083	county	Hodgeman	Kansas	2020-05-22			
+20101	county	Lane	Kansas	2020-05-22			
+20195	county	Trego	Kansas	2020-05-22			
+38039	county	Griggs	North Dakota	2020-05-22			
+06035	county	Lassen	California	2020-05-23			
+27057	county	Hubbard	Minnesota	2020-05-23			
+29079	county	Grundy	Missouri	2020-05-23			
+48475	county	Ward	Texas	2020-05-23			
+48197	county	Hardeman	Texas	2020-05-23			
+31029	county	Chase	Nebraska	2020-05-24			
+46071	county	Jackson	South Dakota	2020-05-24			
+16009	county	Benewah	Idaho	2020-05-25			
+48377	county	Presidio	Texas	2020-05-25			
+48229	county	Hudspeth	Texas	2020-05-26			
+19053	county	Decatur	Iowa	2020-05-27			
+29203	county	Shannon	Missouri	2020-05-27			
+29137	county	Monroe	Missouri	2020-05-27			
+41037	county	Lake	Oregon	2020-05-27			
+48383	county	Reagan	Texas	2020-05-27			
+56045	county	Weston	Wyoming	2020-05-27			
+02185	county	North Slope	Alaska	2020-05-28			
+21129	county	Lee	Kentucky	2020-05-28			
+27149	county	Stevens	Minnesota	2020-05-28			
+32027	county	Pershing	Nevada	2020-05-28			
+16041	county	Franklin	Idaho	2020-05-29			
+17045	county	Edgar	Illinois	2020-05-29			
+29215	county	Texas	Missouri	2020-05-29			
+31169	county	Thayer	Nebraska	2020-05-29			
+40063	county	Hughes	Oklahoma	2020-05-29			
+46077	county	Kingsbury	South Dakota	2020-05-29			
+46045	county	Edmunds	South Dakota	2020-05-29			
+02060	county	Bristol Bay	Alaska	2020-05-30			
+48271	county	Kinney	Texas	2020-05-30			
+02070	county	Dillingham	Alaska	2020-05-31			
+29067	county	Douglas	Missouri	2020-05-31			
+29129	county	Mercer	Missouri	2020-05-31			
+46053	county	Gregory	South Dakota	2020-05-31			
+31015	county	Boyd	Nebraska	2020-06-01			
+31069	county	Garden	Nebraska	2020-06-01			
+21065	county	Estill	Kentucky	2020-06-02			
+26071	county	Iron	Michigan	2020-06-02			
+30087	county	Rosebud	Montana	2020-06-02			
+38021	county	Dickey	North Dakota	2020-06-02			
+48235	county	Irion	Texas	2020-06-02			
+20145	county	Pawnee	Kansas	2020-06-03			
+46015	county	Brule	South Dakota	2020-06-03			
+46061	county	Hanson	South Dakota	2020-06-03			
+02016	county	Aleutians West	Alaska	2020-06-04			
+46033	county	Custer	South Dakota	2020-06-04			
+02164	county	Lake and Peninsula	Alaska	2020-06-05			
+31071	county	Garfield	Nebraska	2020-06-05			
+48105	county	Crockett	Texas	2020-06-05			
+48023	county	Baylor	Texas	2020-06-05			
+48385	county	Real	Texas	2020-06-05			
+38083	county	Sheridan	North Dakota	2020-06-06			
+38045	county	LaMoure	North Dakota	2020-06-06			
+46041	county	Dewey	South Dakota	2020-06-06			
+29171	county	Putnam	Missouri	2020-06-07			
+02275	county	Wrangell	Alaska	2020-06-08			
+02100	county	Haines	Alaska	2020-06-09			
+02013	county	Aleutians East	Alaska	2020-06-09			
+31007	county	Banner	Nebraska	2020-06-09			
+38043	county	Kidder	North Dakota	2020-06-09			
+48425	county	Somervell	Texas	2020-06-09			
+20201	county	Washington	Kansas	2020-06-10			
+26003	county	Alger	Michigan	2020-06-10			
+26083	county	Keweenaw	Michigan	2020-06-10			
+29103	county	Knox	Missouri	2020-06-10			
+29011	county	Barton	Missouri	2020-06-11			
+31165	county	Sioux	Nebraska	2020-06-11			
+30017	county	Custer	Montana	2020-06-12			
+49033	county	Rich	Utah	2020-06-12			
+27031	county	Cook	Minnesota	2020-06-13			
+46095	county	Mellette	South Dakota	2020-06-13			
+48413	county	Schleicher	Texas	2020-06-13			
+20001	county	Allen	Kansas	2020-06-15			
+29057	county	Dade	Missouri	2020-06-15			
+46007	county	Bennett	South Dakota	2020-06-15			
+49001	county	Beaver	Utah	2020-06-15			
+51051	county	Dickenson	Virginia	2020-06-16			
+30105	county	Valley	Montana	2020-06-18			
+30027	county	Fergus	Montana	2020-06-18			
+48461	county	Upton	Texas	2020-06-19			
+48435	county	Sutton	Texas	2020-06-19			
+51021	county	Bland	Virginia	2020-06-19			
+29223	county	Wayne	Missouri	2020-06-20			
+29153	county	Ozark	Missouri	2020-06-20			
+30021	county	Dawson	Montana	2020-06-20			
+38019	county	Cavalier	North Dakota	2020-06-20			
+38007	county	Billings	North Dakota	2020-06-20			
+48109	county	Culberson	Texas	2020-06-20			
+40045	county	Ellis	Oklahoma	2020-06-21			
+20193	county	Thomas	Kansas	2020-06-22			
+48327	county	Menard	Texas	2020-06-22			
+31083	county	Harlan	Nebraska	2020-06-23			
+48443	county	Terrell	Texas	2020-06-23			
+20109	county	Logan	Kansas	2020-06-24			
+20117	county	Marshall	Kansas	2020-06-24			
+30103	county	Treasure	Montana	2020-06-24			
+31149	county	Rock	Nebraska	2020-06-24			
+02068	county	Denali	Alaska	2020-06-25			
+08057	county	Jackson	Colorado	2020-06-25			
+16015	county	Boise	Idaho	2020-06-25			
+28055	county	Issaquena	Mississippi	2020-06-25			
+30039	county	Granite	Montana	2020-06-25			
+48137	county	Edwards	Texas	2020-06-25			
+16021	county	Boundary	Idaho	2020-06-26			
+16035	county	Clearwater	Idaho	2020-06-26			
+20049	county	Elk	Kansas	2020-06-26			
+31161	county	Sheridan	Nebraska	2020-06-26			
+32011	county	Eureka	Nevada	2020-06-26			
+38041	county	Hettinger	North Dakota	2020-06-26			
+48243	county	Jeff Davis	Texas	2020-06-26			
+20165	county	Rush	Kansas	2020-06-29			
+16071	county	Oneida	Idaho	2020-06-30			
+16007	county	Bear Lake	Idaho	2020-06-30			
+21201	county	Robertson	Kentucky	2020-07-01			
+31091	county	Hooker	Nebraska	2020-07-01			
+40057	county	Harmon	Oklahoma	2020-07-01			
+05013	county	Calhoun	Arkansas	2020-07-02			
+30099	county	Teton	Montana	2020-07-02			
+02158	county	Kusilvak	Alaska	2020-07-03			
+16079	county	Shoshone	Idaho	2020-07-03			
+17171	county	Scott	Illinois	2020-07-03			
+30091	county	Sheridan	Montana	2020-07-03			
+46021	county	Campbell	South Dakota	2020-07-03			
+48447	county	Throckmorton	Texas	2020-07-03			
+48261	county	Kenedy	Texas	2020-07-03			
+26131	county	Ontonagon	Michigan	2020-07-04			
+41021	county	Gilliam	Oregon	2020-07-04			
+16061	county	Lewis	Idaho	2020-07-06			
+20095	county	Kingman	Kansas	2020-07-06			
+20065	county	Graham	Kansas	2020-07-06			
+46055	county	Haakon	South Dakota	2020-07-06			
+54101	county	Webster	West Virginia	2020-07-06			
+38095	county	Towner	North Dakota	2020-07-07			
+29085	county	Hickory	Missouri	2020-07-08			
+38047	county	Logan	North Dakota	2020-07-08			
+46075	county	Jones	South Dakota	2020-07-08			
+46019	county	Butte	South Dakota	2020-07-08			
+51017	county	Bath	Virginia	2020-07-08			
+20105	county	Lincoln	Kansas	2020-07-10			
+20167	county	Russell	Kansas	2020-07-10			
+31117	county	McPherson	Nebraska	2020-07-10			
+35033	county	Mora	New Mexico	2020-07-10			
+40129	county	Roger Mills	Oklahoma	2020-07-10			
+48155	county	Foard	Texas	2020-07-10			
+31133	county	Pawnee	Nebraska	2020-07-11			
+46105	county	Perkins	South Dakota	2020-07-11			
+20039	county	Decatur	Kansas	2020-07-12			
+20071	county	Greeley	Kansas	2020-07-12			
+30025	county	Fallon	Montana	2020-07-12			
+53023	county	Garfield	Washington	2020-07-12			
+30033	county	Garfield	Montana	2020-07-13			
+08115	county	Sedgwick	Colorado	2020-07-14			
+30109	county	Wibaux	Montana	2020-07-14			
+30089	county	Sanders	Montana	2020-07-14			
+31049	county	Deuel	Nebraska	2020-07-14			
+38033	county	Golden Valley	North Dakota	2020-07-14			
+48311	county	McMullen	Texas	2020-07-14			
+48263	county	Kent	Texas	2020-07-14			
+30097	county	Sweet Grass	Montana	2020-07-15			
+30005	county	Blaine	Montana	2020-07-16			
+08033	county	Dolores	Colorado	2020-07-17			
+31057	county	Dundy	Nebraska	2020-07-17			
+48433	county	Stonewall	Texas	2020-07-18			
+16033	county	Clark	Idaho	2020-07-19			
+30055	county	McCone	Montana	2020-07-20			
+31135	county	Perkins	Nebraska	2020-07-20			
+30015	county	Chouteau	Montana	2020-07-21			
+20203	county	Wichita	Kansas	2020-07-22			
+30045	county	Judith Basin	Montana	2020-07-22			
+30075	county	Powder River	Montana	2020-07-23			
+46107	county	Potter	South Dakota	2020-07-23			
+27077	county	Lake of the Woods	Minnesota	2020-07-25			
+30019	county	Daniels	Montana	2020-07-25			
+31183	county	Wheeler	Nebraska	2020-07-25			
+54017	county	Doddridge	West Virginia	2020-07-25			
+49055	county	Wayne	Utah	2020-07-27			
+38001	county	Adams	North Dakota	2020-07-28			
+06049	county	Modoc	California	2020-07-29			
+30077	county	Powell	Montana	2020-07-29			
+30079	county	Prairie	Montana	2020-08-04			
+30071	county	Phillips	Montana	2020-08-05			
+31005	county	Arthur	Nebraska	2020-08-06			
+16023	county	Butte	Idaho	2020-08-11			
+30061	county	Mineral	Montana	2020-08-11			
+31017	county	Brown	Nebraska	2020-08-13			
+46063	county	Harding	South Dakota	2020-08-13			
+48431	county	Sterling	Texas	2020-08-13			
+31103	county	Keya Paha	Nebraska	2020-08-18			
+31113	county	Logan	Nebraska	2020-08-19			
+02230	county	Skagway	Alaska				
+02282	county	Yakutat	Alaska				
+02105	county	Hoonah-Angoon	Alaska				
+08061	county	Kiowa	Colorado				
+15005	county	Kalawao	Hawaii				
+20153	county	Rawlins	Kansas				
+20199	county	Wallace	Kansas				
+30011	county	Carter	Montana				
+30069	county	Petroleum	Montana				
+31009	county	Blaine	Nebraska				
+31115	county	Loup	Nebraska				
+31085	county	Hayes	Nebraska				
+31075	county	Grant	Nebraska				
+32009	county	Esmeralda	Nevada				
+35011	county	De Baca	New Mexico				
+36085	county	Richmond	New York				
+36047	county	Kings	New York				
+36081	county	Queens	New York				
+36005	county	Bronx	New York				
+41069	county	Wheeler	Oregon				
+48033	county	Borden	Texas				
+48269	county	King	Texas				
+48301	county	Loving	Texas				
+49009	county	Daggett	Utah				
+60020	county	Manu'a	American Samoa				
+60040	county	Swains Island	American Samoa				
+60030	county	Rose Island	American Samoa				
+60010	county	Eastern	American Samoa				
+60050	county	Western	American Samoa				
+66010	county	Guam	Guam				
+69110	county	Saipan	Northern Mariana Islands				
+69085	county	Northern Islands	Northern Mariana Islands				
+69120	county	Tinian	Northern Mariana Islands				
+69100	county	Rota	Northern Mariana Islands				
+72093	county	Maricao	Puerto Rico				
+72049	county	Culebra	Puerto Rico				
+72147	county	Vieques	Puerto Rico				
+72011	county	Añasco	Puerto Rico				
+72117	county	Rincón	Puerto Rico				
+72003	county	Aguada	Puerto Rico				
+72141	county	Utuado	Puerto Rico				
+72081	county	Lares	Puerto Rico				
+72131	county	San Sebastián	Puerto Rico				
+72005	county	Aguadilla	Puerto Rico				
+72071	county	Isabela	Puerto Rico				
+72099	county	Moca	Puerto Rico				
+72027	county	Camuy	Puerto Rico				
+72115	county	Quebradillas	Puerto Rico				
+72065	county	Hatillo	Puerto Rico				
+72013	county	Arecibo	Puerto Rico				
+72043	county	Coamo	Puerto Rico				
+72123	county	Salinas	Puerto Rico				
+72015	county	Arroyo	Puerto Rico				
+72109	county	Patillas	Puerto Rico				
+72057	county	Guayama	Puerto Rico				
+72073	county	Jayuya	Puerto Rico				
+72097	county	Mayagüez	Puerto Rico				
+72067	county	Hormigueros	Puerto Rico				
+72083	county	Las Marías	Puerto Rico				
+72001	county	Adjuntas	Puerto Rico				
+72075	county	Juana Díaz	Puerto Rico				
+72113	county	Ponce	Puerto Rico				
+72149	county	Villalba	Puerto Rico				
+72121	county	Sabana Grande	Puerto Rico				
+72023	county	Cabo Rojo	Puerto Rico				
+72079	county	Lajas	Puerto Rico				
+72125	county	San Germán	Puerto Rico				
+72091	county	Manatí	Puerto Rico				
+72017	county	Barceloneta	Puerto Rico				
+72051	county	Dorado	Puerto Rico				
+72033	county	Cataño	Puerto Rico				
+72087	county	Loíza	Puerto Rico				
+72101	county	Morovis	Puerto Rico				
+72029	county	Canóvanas	Puerto Rico				
+72139	county	Trujillo Alto	Puerto Rico				
+72031	county	Carolina	Puerto Rico				
+72021	county	Bayamón	Puerto Rico				
+72135	county	Toa Alta	Puerto Rico				
+72151	county	Yabucoa	Puerto Rico				
+72069	county	Humacao	Puerto Rico				
+72129	county	San Lorenzo	Puerto Rico				
+72053	county	Fajardo	Puerto Rico				
+72047	county	Corozal	Puerto Rico				
+72025	county	Caguas	Puerto Rico				
+72107	county	Orocovis	Puerto Rico				
+72063	county	Gurabo	Puerto Rico				
+72105	county	Naranjito	Puerto Rico				
+72039	county	Ciales	Puerto Rico				
+72045	county	Comerío	Puerto Rico				
+72037	county	Ceiba	Puerto Rico				
+72061	county	Guaynabo	Puerto Rico				
+72095	county	Maunabo	Puerto Rico				
+72077	county	Juncos	Puerto Rico				
+72089	county	Luquillo	Puerto Rico				
+72009	county	Aibonito	Puerto Rico				
+72103	county	Naguabo	Puerto Rico				
+72145	county	Vega Baja	Puerto Rico				
+72085	county	Las Piedras	Puerto Rico				
+72143	county	Vega Alta	Puerto Rico				
+72119	county	Río Grande	Puerto Rico				
+72007	county	Aguas Buenas	Puerto Rico				
+72035	county	Cayey	Puerto Rico				
+72041	county	Cidra	Puerto Rico				
+72137	county	Toa Baja	Puerto Rico				
+72127	county	San Juan	Puerto Rico				
+72054	county	Florida	Puerto Rico				
+72019	county	Barranquitas	Puerto Rico				
+72133	county	Santa Isabel	Puerto Rico				
+72111	county	Peñuelas	Puerto Rico				
+72059	county	Guayanilla	Puerto Rico				
+72153	county	Yauco	Puerto Rico				
+72055	county	Guánica	Puerto Rico				
+78030	county	St. Thomas	Virgin Islands				
+78020	county	St. John	Virgin Islands				
+78010	county	St. Croix	Virgin Islands				
+500	csa	Seattle-Tacoma, WA	Washington	2020-01-21			
+176	csa	Chicago-Naperville, IL-IN-WI	Illinois	2020-01-24			
+348	csa	Los Angeles-Long Beach, CA	California	2020-01-25			
+429	csa	Phoenix-Mesa, AZ	Arizona	2020-01-26			
+488	csa	San Jose-San Francisco-Oakland, CA	California	2020-01-31			
+148	csa	Boston-Worcester-Providence, MA-RI-NH-CT	Massachusetts	2020-02-01			
+357	csa	Madison-Janesville-Beloit, WI	Wisconsin	2020-02-05			
+484	csa	San Antonio-New Braunfels-Pearsall, TX	Texas	2020-02-12			
+420	csa	Omaha-Council Bluffs-Fremont, NE-IA	Nebraska	2020-02-17			
+472	csa	Sacramento-Roseville, CA	California	2020-02-21			
+518	csa	Spokane-Spokane Valley-Coeur d'Alene, WA-ID	Washington	2020-02-24			
+482	csa	Salt Lake City-Provo-Orem, UT	Utah	2020-02-25			
+440	csa	Portland-Vancouver-Salem, OR-WA	Oregon	2020-02-28			
+412	csa	North Port-Sarasota, FL	Florida	2020-03-01			
+122	csa	Atlanta--Athens-Clarke County--Sandy Springs, GA-AL	Georgia	2020-03-02			
+313	csa	Kennewick-Richland-Walla Walla, WA	Washington	2020-03-02			
+450	csa	Raleigh-Durham-Cary, NC	North Carolina	2020-03-03			
+288	csa	Houston-The Woodlands, TX	Texas	2020-03-04			
+408	csa	New York-Newark, NY-NJ-CT-PA	New York	2020-03-04			
+216	csa	Denver-Aurora, CO	Colorado	2020-03-05			
+332	csa	Las Vegas-Henderson, NV	Nevada	2020-03-05			
+400	csa	Nashville-Davidson--Murfreesboro, TN	Tennessee	2020-03-05			
+426	csa	Pensacola-Ferry Pass, FL-AL	Florida	2020-03-05			
+456	csa	Reno-Carson City-Fernley, NV	Nevada	2020-03-05			
+548	csa	Washington-Baltimore-Arlington, DC-MD-VA-WV-PA	Virginia	2020-03-05			
+163	csa	Cape Coral-Fort Myers-Naples, FL	Florida	2020-03-06			
+192	csa	Columbia-Orangeburg-Newberry, SC	South Carolina	2020-03-06			
+233	csa	Edwards-Glenwood Springs, CO	Colorado	2020-03-06			
+294	csa	Indianapolis-Carmel-Muncie, IN	Indiana	2020-03-06			
+336	csa	Lexington-Fayette--Richmond--Frankfort, KY	Kentucky	2020-03-06			
+370	csa	Miami-Port St. Lucie-Fort Lauderdale, FL	Florida	2020-03-06			
+378	csa	Minneapolis-St. Paul, MN-WI	Minnesota	2020-03-06			
+428	csa	Philadelphia-Reading-Camden, PA-NJ-DE-MD	New Jersey	2020-03-06			
+538	csa	Tulsa-Muskogee-Bartlesville, OK	Oklahoma	2020-03-06			
+104	csa	Albany-Schenectady, NY	New York	2020-03-07			
+260	csa	Fresno-Madera-Hanford, CA	California	2020-03-07			
+312	csa	Kansas City-Overland Park-Kansas City, MO-KS	Missouri	2020-03-07			
+366	csa	Medford-Grants Pass, OR	Oregon	2020-03-07			
+422	csa	Orlando-Lakeland-Deltona, FL	Florida	2020-03-07			
+476	csa	St. Louis-St. Charles-Farmington, MO-IL	Illinois	2020-03-07			
+168	csa	Cedar Rapids-Iowa City, IA	Iowa	2020-03-08			
+273	csa	Greenville-Spartanburg-Anderson, SC	South Carolina	2020-03-08			
+350	csa	Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN	Kentucky	2020-03-08			
+368	csa	Memphis-Forrest City, TN-MS-AR	Mississippi	2020-03-08			
+184	csa	Cleveland-Akron-Canton, OH	Ohio	2020-03-09			
+206	csa	Dallas-Fort Worth, TX-OK	Texas	2020-03-09			
+258	csa	Fort Wayne-Huntington-Auburn, IN	Indiana	2020-03-09			
+406	csa	New Orleans-Metairie-Hammond, LA-MS	Louisiana	2020-03-09			
+454	csa	Redding-Red Bluff, CA	California	2020-03-09			
+536	csa	Tucson-Nogales, AZ	Arizona	2020-03-09			
+545	csa	Virginia Beach-Norfolk, VA-NC	Virginia	2020-03-09			
+220	csa	Detroit-Warren-Ann Arbor, MI	Michigan	2020-03-10			
+264	csa	Gainesville-Lake City, FL	Florida	2020-03-10			
+300	csa	Jacksonville-St. Marys-Palatka, FL-GA	Florida	2020-03-10			
+304	csa	Johnson City-Kingsport-Bristol, TN-VA	Tennessee	2020-03-10			
+106	csa	Albuquerque-Santa Fe-Las Vegas, NM	New Mexico	2020-03-11			
+140	csa	Bend-Prineville, OR	Oregon	2020-03-11			
+162	csa	Burlington-South Burlington-Barre, VT	Vermont	2020-03-11			
+172	csa	Charlotte-Concord, NC-SC	North Carolina	2020-03-11			
+279	csa	Hattiesburg-Laurel, MS	Mississippi	2020-03-11			
+316	csa	Kokomo-Peru, IN	Indiana	2020-03-11			
+340	csa	Little Rock-North Little Rock, AR	Arkansas	2020-03-11			
+376	csa	Milwaukee-Racine-Waukesha, WI	Wisconsin	2020-03-11			
+462	csa	Rochester-Austin, MN	Minnesota	2020-03-11			
+464	csa	Rochester-Batavia-Seneca Falls, NY	New York	2020-03-11			
+508	csa	Shreveport-Bossier City-Minden, LA	Louisiana	2020-03-11			
+515	csa	South Bend-Elkhart-Mishawaka, IN-MI	Indiana	2020-03-11			
+266	csa	Grand Rapids-Kentwood-Muskegon, MI	Michigan	2020-03-12			
+268	csa	Greensboro--Winston-Salem--High Point, NC	North Carolina	2020-03-12			
+315	csa	Knoxville-Morristown-Sevierville, TN	Tennessee	2020-03-12			
+438	csa	Portland-Lewiston-South Portland, ME	Maine	2020-03-12			
+566	csa	Youngstown-Warren, OH-PA	Ohio	2020-03-12			
+142	csa	Birmingham-Hoover-Talladega, AL	Alabama	2020-03-13			
+147	csa	Boise City-Mountain Home-Ontario, ID-OR	Idaho	2020-03-13			
+174	csa	Chattanooga-Cleveland-Dalton, TN-GA	Georgia	2020-03-13			
+238	csa	El Paso-Las Cruces, TX-NM	Texas	2020-03-13			
+276	csa	Harrisburg-York-Lebanon, PA	Pennsylvania	2020-03-13			
+277	csa	Harrisonburg-Staunton, VA	Virginia	2020-03-13			
+290	csa	Huntsville-Decatur, AL	Alabama	2020-03-13			
+298	csa	Jackson-Vicksburg-Brookhaven, MS	Mississippi	2020-03-13			
+388	csa	Montgomery-Selma-Alexander City, AL	Alabama	2020-03-13			
+393	csa	Moses Lake-Othello, WA	Washington	2020-03-13			
+416	csa	Oklahoma City-Shawnee, OK	Oklahoma	2020-03-13			
+430	csa	Pittsburgh-New Castle-Weirton, PA-OH-WV	Pennsylvania	2020-03-13			
+444	csa	Pueblo-Cañon City, CO	Colorado	2020-03-13			
+474	csa	Saginaw-Midland-Bay City, MI	Michigan	2020-03-13			
+525	csa	Steamboat Springs-Craig, CO	Colorado	2020-03-13			
+540	csa	Tyler-Jacksonville, TX	Texas	2020-03-13			
+556	csa	Wichita-Winfield, KS	Kansas	2020-03-13			
+118	csa	Appleton-Oshkosh-Neenah, WI	Wisconsin	2020-03-14			
+178	csa	Cincinnati-Wilmington-Maysville, OH-KY-IN	Kentucky	2020-03-14			
+198	csa	Columbus-Marion-Zanesville, OH	Ohio	2020-03-14			
+218	csa	Des Moines-Ames-West Des Moines, IA	Iowa	2020-03-14			
+246	csa	Fayetteville-Sanford-Lumberton, NC	North Carolina	2020-03-14			
+278	csa	Hartford-East Hartford, CT	Connecticut	2020-03-14			
+296	csa	Ithaca-Cortland, NY	New York	2020-03-14			
+380	csa	Mobile-Daphne-Fairhope, AL	Alabama	2020-03-14			
+396	csa	Myrtle Beach-Conway, SC-NC	South Carolina	2020-03-14			
+404	csa	New Bern-Morehead City, NC	North Carolina	2020-03-14			
+522	csa	Springfield-Jacksonville-Lincoln, IL	Illinois	2020-03-14			
+160	csa	Buffalo-Cheektowaga-Olean, NY	New York	2020-03-15			
+194	csa	Columbus-Auburn-Opelika, GA-AL	Georgia	2020-03-15			
+221	csa	Dixon-Sterling, IL	Illinois	2020-03-15			
+284	csa	Hot Springs-Malvern, AR	Arkansas	2020-03-15			
+466	csa	Rockford-Freeport-Rochelle, IL	Illinois	2020-03-15			
+468	csa	Rocky Mount-Wilson-Roanoke Rapids, NC	North Carolina	2020-03-15			
+534	csa	Toledo-Findlay-Tiffin, OH	Ohio	2020-03-15			
+359	csa	Mankato-New Ulm, MN	Minnesota	2020-03-16			
+532	csa	Syracuse-Auburn, NY	New York	2020-03-16			
+554	csa	Wausau-Stevens Point-Wisconsin Rapids, WI	Wisconsin	2020-03-16			
+190	csa	Columbia-Moberly-Mexico, MO	Missouri	2020-03-17			
+212	csa	Dayton-Springfield-Kettering, OH	Ohio	2020-03-17			
+244	csa	Fargo-Wahpeton, ND-MN	Minnesota	2020-03-17			
+292	csa	Idaho Falls-Rexburg-Blackfoot, ID	Idaho	2020-03-17			
+352	csa	Lubbock-Plainview-Levelland, TX	Texas	2020-03-17			
+480	csa	Salisbury-Cambridge, MD-DE	Maryland	2020-03-17			
+150	csa	Bowling Green-Glasgow, KY	Kentucky	2020-03-18			
+185	csa	Cleveland-Indianola, MS	Mississippi	2020-03-18			
+267	csa	Green Bay-Shawano, WI	Wisconsin	2020-03-18			
+356	csa	Macon-Bibb County--Warner Robins, GA	Georgia	2020-03-18			
+360	csa	Mansfield-Ashland-Bucyrus, OH	Ohio	2020-03-18			
+458	csa	Richmond-Connersville, IN	Indiana	2020-03-18			
+144	csa	Bloomington-Bedford, IN	Indiana	2020-03-19			
+154	csa	Brownsville-Harlingen-Raymondville, TX	Texas	2020-03-19			
+209	csa	Davenport-Moline, IA-IL	Illinois	2020-03-19			
+232	csa	Eau Claire-Menomonie, WI	Wisconsin	2020-03-19			
+308	csa	Jonesboro-Paragould, AR	Arkansas	2020-03-19			
+318	csa	Lafayette-Opelousas-Morgan City, LA	Louisiana	2020-03-19			
+320	csa	Lafayette-West Lafayette-Frankfort, IN	Indiana	2020-03-19			
+324	csa	Lake Charles-Jennings, LA	Louisiana	2020-03-19			
+390	csa	Morgantown-Fairmont, WV	West Virginia	2020-03-19			
+496	csa	Savannah-Hinesville-Statesboro, GA	Georgia	2020-03-19			
+145	csa	Bloomington-Pontiac, IL	Illinois	2020-03-20			
+164	csa	Cape Girardeau-Sikeston, MO-IL	Missouri	2020-03-20			
+170	csa	Charleston-Huntington-Ashland, WV-OH-KY	West Virginia	2020-03-20			
+240	csa	Erie-Meadville, PA	Pennsylvania	2020-03-20			
+272	csa	Greenville-Kinston-Washington, NC	North Carolina	2020-03-20			
+339	csa	Lincoln-Beatrice, NE	Nebraska	2020-03-20			
+448	csa	Quincy-Hannibal, IL-MO	Missouri	2020-03-20			
+497	csa	Scottsboro-Fort Payne, AL	Alabama	2020-03-20			
+524	csa	State College-DuBois, PA	Pennsylvania	2020-03-20			
+539	csa	Tupelo-Corinth, MS	Mississippi	2020-03-20			
+108	csa	Amarillo-Pampa-Borger, TX	Texas	2020-03-21			
+120	csa	Asheville-Marion-Brevard, NC	North Carolina	2020-03-21			
+146	csa	Bloomsburg-Berwick-Sunbury, PA	Pennsylvania	2020-03-21			
+200	csa	Columbus-West Point, MS	Mississippi	2020-03-21			
+217	csa	DeRidder-Fort Polk South, LA	Louisiana	2020-03-21			
+236	csa	Elmira-Corning, NY	New York	2020-03-21			
+309	csa	Joplin-Miami, MO-OK	Missouri	2020-03-21			
+310	csa	Kalamazoo-Battle Creek-Portage, MI	Michigan	2020-03-21			
+372	csa	Midland-Odessa, TX	Texas	2020-03-21			
+384	csa	Monroe-Ruston, LA	Louisiana	2020-03-21			
+297	csa	Jackson-Brownsville, TN	Tennessee	2020-03-22			
+446	csa	Pullman-Moscow, WA-ID	Washington	2020-03-22			
+222	csa	Dothan-Ozark, AL	Alabama	2020-03-23			
+306	csa	Johnstown-Somerset, PA	Pennsylvania	2020-03-23			
+425	csa	Parkersburg-Marietta-Vienna, WV-OH	West Virginia	2020-03-23			
+452	csa	Rapid City-Spearfish, SD	South Dakota	2020-03-23			
+188	csa	Clovis-Portales, NM	New Mexico	2020-03-24			
+204	csa	Corpus Christi-Kingsville-Alice, TX	Texas	2020-03-24			
+365	csa	McAllen-Edinburg, TX	Texas	2020-03-24			
+394	csa	Mount Pleasant-Alma, MI	Michigan	2020-03-24			
+424	csa	Paducah-Mayfield, KY-IL	Kentucky	2020-03-24			
+544	csa	Victoria-Port Lavaca, TX	Texas	2020-03-24			
+338	csa	Lima-Van Wert-Celina, OH	Ohio	2020-03-25			
+558	csa	Williamsport-Lock Haven, PA	Pennsylvania	2020-03-25			
+107	csa	Altoona-Huntingdon, PA	Pennsylvania	2020-03-26			
+161	csa	Burlington-Fort Madison-Keokuk, IA-IL-MO	Illinois	2020-03-26			
+361	csa	Marinette-Iron Mountain, WI-MI	Wisconsin	2020-03-27			
+517	csa	Spencer-Spirit Lake, IA	Iowa	2020-03-27			
+362	csa	Martin-Union City, TN	Tennessee	2020-03-28			
+314	csa	Kerrville-Fredericksburg, TX	Texas	2020-04-01			
+USA	national	United States		2020-01-21	2020-03-13		
+53	state	Washington	United States	2020-01-21	2020-02-29	2020-03-23	2020-05-26
+17	state	Illinois	United States	2020-01-24	2020-03-09	2020-03-21	2020-05-29
+06	state	California	United States	2020-01-25	2020-03-04	2020-03-19	2020-05-25
+04	state	Arizona	United States	2020-01-26	2020-03-11	2020-03-31	2020-05-08
+25	state	Massachusetts	United States	2020-02-01	2020-03-10	2020-03-24	2020-05-18
+55	state	Wisconsin	United States	2020-02-05	2020-03-12	2020-03-25	2020-05-13
+48	state	Texas	United States	2020-02-12	2020-03-19	2020-04-02	2020-05-01
+31	state	Nebraska	United States	2020-02-17	2020-03-13		2020-05-04
+49	state	Utah	United States	2020-02-25	2020-03-06		2020-05-01
+41	state	Oregon	United States	2020-02-28	2020-03-08	2020-03-23	2020-05-15
+12	state	Florida	United States	2020-03-01	2020-03-09	2020-04-03	2020-05-04
+36	state	New York	United States	2020-03-01	2020-03-07	2020-03-22	2020-05-29
+44	state	Rhode Island	United States	2020-03-01	2020-03-09	2020-03-28	2020-05-09
+13	state	Georgia	United States	2020-03-02	2020-03-14	2020-04-03	2020-04-24
+33	state	New Hampshire	United States	2020-03-02	2020-03-13	2020-03-27	2020-05-11
+37	state	North Carolina	United States	2020-03-03	2020-03-10	2020-03-30	2020-05-08
+34	state	New Jersey	United States	2020-03-04	2020-03-09	2020-03-21	2020-06-09
+08	state	Colorado	United States	2020-03-05	2020-03-11	2020-03-26	2020-04-27
+24	state	Maryland	United States	2020-03-05	2020-03-05	2020-03-30	2020-05-15
+32	state	Nevada	United States	2020-03-05	2020-03-12	2020-03-31	2020-05-09
+47	state	Tennessee	United States	2020-03-05	2020-03-12	2020-04-02	2020-04-27
+15	state	Hawaii	United States	2020-03-06	2020-03-04	2020-03-25	2020-05-07
+18	state	Indiana	United States	2020-03-06	2020-03-06	2020-03-24	2020-05-04
+21	state	Kentucky	United States	2020-03-06	2020-03-06	2020-03-26	2020-05-20
+27	state	Minnesota	United States	2020-03-06	2020-03-13	2020-03-27	2020-05-18
+40	state	Oklahoma	United States	2020-03-06	2020-03-15		2020-04-24
+42	state	Pennsylvania	United States	2020-03-06	2020-03-06	2020-04-01	2020-05-15
+45	state	South Carolina	United States	2020-03-06	2020-03-13	2020-04-07	2020-04-20
+11	state	District of Columbia	United States	2020-03-07	2020-03-11	2020-04-01	2020-05-29
+20	state	Kansas	United States	2020-03-07	2020-03-12	2020-03-30	2020-05-04
+29	state	Missouri	United States	2020-03-07	2020-03-13	2020-04-06	2020-05-04
+50	state	Vermont	United States	2020-03-07	2020-03-13	2020-03-25	2020-05-15
+51	state	Virginia	United States	2020-03-07	2020-03-12	2020-03-30	2020-05-15
+09	state	Connecticut	United States	2020-03-08	2020-03-10	2020-03-23	2020-05-20
+19	state	Iowa	United States	2020-03-08	2020-03-17		2020-05-01
+22	state	Louisiana	United States	2020-03-09	2020-03-11	2020-03-23	2020-05-15
+39	state	Ohio	United States	2020-03-09	2020-03-09	2020-03-24	2020-05-12
+26	state	Michigan	United States	2020-03-10	2020-03-10	2020-03-24	2020-06-01
+46	state	South Dakota	United States	2020-03-10	2020-03-13		2020-04-28
+05	state	Arkansas	United States	2020-03-11	2020-03-11		2020-05-06
+10	state	Delaware	United States	2020-03-11	2020-03-13	2020-03-24	2020-05-31
+28	state	Mississippi	United States	2020-03-11	2020-03-14	2020-03-31	2020-04-27
+35	state	New Mexico	United States	2020-03-11	2020-03-11	2020-03-24	2020-05-16
+38	state	North Dakota	United States	2020-03-11	2020-03-13		2020-05-01
+56	state	Wyoming	United States	2020-03-11	2020-03-13		2020-05-01
+02	state	Alaska	United States	2020-03-12	2020-03-11	2020-03-28	2020-04-24
+23	state	Maine	United States	2020-03-12	2020-03-15	2020-04-02	2020-05-01
+01	state	Alabama	United States	2020-03-13	2020-03-13	2020-04-04	2020-04-30
+16	state	Idaho	United States	2020-03-13	2020-03-13	2020-03-25	2020-05-01
+30	state	Montana	United States	2020-03-13	2020-03-12	2020-03-28	2020-04-26
+54	state	West Virginia	United States	2020-03-17	2020-03-16	2020-03-24	2020-05-04
