@@ -2,7 +2,7 @@
 
 Python code for reproducing the figures and analyses from the recent paper:
 
-Klein, B., LaRock, T., McCabe, S., Torres, L., Friedland, L., Kos, M., Privitera, F., Lake, B., Kraemer, M.U.G., Brownstein, J.S., Gonzalez, R., Lazer, D., Eliassi-Rad, T., Scarpino, S.V., Vespignani, A., & Chinazzi, M. (2024). __Characterizing the collective physical distancing of the United States during the first nine months of the COVID-19 pandemic__. *PLOS Digital Health*.
+Klein, B., LaRock, T., McCabe, S., Torres, L., Friedland, L., Kos, M., Privitera, F., Lake, B., Kraemer, M.U.G., Brownstein, J.S., Gonzalez, R., Lazer, D., Eliassi-Rad, T., Scarpino, S.V., Vespignani, A., & Chinazzi, M. (2024). __Characterizing the collective physical distancing of the United States during the first nine months of the COVID-19 pandemic__. PLOS Digital Health 3(2): e0000430. https://doi.org/10.1371/journal.pdig.0000430
 
 ## Data and findings
 
