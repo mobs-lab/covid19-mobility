@@ -33,8 +33,11 @@ Bibtex:
 @article{Klein2024characterizing,
     title = {{Characterizing the collective physical distancing of the U.S.~during the first nine months of the COVID-19 pandemic}},
     author = {Brennan Klein and Timothy LaRock and Stefan McCabe and Leo Torres and Lisa Friedland and Maciej Kos and Filippo Privitera and Brennan Lake and Moritz U.G. Kraemer and John S. Brownstein and Richard Gonzalez and David Lazer and Tina Eliassi-Rad and Samuel V. Scarpino and Alessandro Vespignani and Matteo Chinazzi},
+    volume={3},
+    number={2},
+    pages={e0000430},
     year = {2024},
     journal = {PLOS Digital Health},
-    doi = {}
+    doi = {https://doi.org/10.1371/journal.pdig.0000430}
 }
 ```
